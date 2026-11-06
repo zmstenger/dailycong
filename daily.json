@@ -285,31 +285,36 @@
       ]
     },
     {
-      "id": "jimmy-quiz-month-long-submission",
+      "id": "nathan-dragon-666-superstition",
       "kind": "single",
-      "category": "Academic achievement",
-      "title": "An exceptionally thorough attempt",
-      "prompt": "Jimmy forgot to finish a quiz and closed it. When a friend later sent it to him, what did the submission claim?",
+      "category": "Risk management",
+      "title": "A perfectly reasonable precaution",
+      "prompt": "Nathan reached his 666th dragon. What did he do out of superstition before hatching it?",
       "options": [
-        "He'd somehow earned extra credit",
-        "He'd taken 47,827 minutes to submit it",
-        "He'd submitted an entirely different class's quiz",
-        "He'd completed it before he opened it"
+        "Renamed it to avoid tempting fate",
+        "Made sure dragon 667 was already on the way",
+        "Waited until the clock passed midnight",
+        "Asked Charlie to hatch it for him"
       ],
       "answer": [
         1
       ],
-      "explanation": "47,827 minutes—over a month. Jimmy posted the absurd submission time after forgetting the quiz and closing it; Ronan rounded that to ‘34 days.’ The question is about what the quiz displayed, not a claim that Jimmy spent a month answering it.",
+      "explanation": "He waited until he knew 667 was on the way. Nathan announced ‘My 666th dragon,’ added ‘Spooky,’ and explained his very specific insurance policy against the number.",
       "receipts": [
         {
-          "sender": "Jimmy",
-          "date": "2024-05-06",
-          "text": "I forgot about finishing a quiz and closed it but my friend sent me it and it said I submitted it after 47,827 minutes😂"
+          "sender": "Nathan",
+          "date": "2024-07-06",
+          "text": "My 666th dragon"
         },
         {
-          "sender": "Ronan",
-          "date": "2024-05-06",
-          "text": "34 days"
+          "sender": "Nathan",
+          "date": "2024-07-06",
+          "text": "Spooky"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2024-07-06",
+          "text": "I waited to hatch it out of superstition until I knew 667 was on the way"
         }
       ]
     }
