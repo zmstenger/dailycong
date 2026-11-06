@@ -1,4 +1,4 @@
-import {validateQuiz,newRecord,validRecord,points,correct,niceDate,editionDate,shareScore,statistics,powerLevel} from './daily-engine.mjs?v=24';
+import {validateQuiz,newRecord,validRecord,points,correct,niceDate,editionDate,shareScore,statistics,powerLevel} from './daily-engine.mjs?v=26';
 const $=id=>document.getElementById(id),KEY='noodle-daily-v2';
 let quiz,record,index=0,selected=[],memory={},persistent=true;
 try{memory=JSON.parse(localStorage.getItem(KEY)||'{}');if(!memory||typeof memory!=='object'||Array.isArray(memory))memory={};}catch{persistent=false;}
