@@ -1,7 +1,7 @@
 export const ZONE='America/New_York';
 export function editionDate(now=new Date()){
  const p=Object.fromEntries(new Intl.DateTimeFormat('en-CA',{timeZone:ZONE,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',hourCycle:'h23'}).formatToParts(now).map(p=>[p.type,p.value]));
- const day=new Date(`${p.year}-${p.month}-${p.day}T12:00:00Z`);if(Number(p.hour)<7)day.setUTCDate(day.getUTCDate()-1);return day.toISOString().slice(0,10);
+ return `${p.year}-${p.month}-${p.day}`;
 }
 export const niceDate=date=>new Intl.DateTimeFormat('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'}).format(new Date(`${date}T12:00:00Z`));
 export function correct(q,a){return a.length===q.answer.length&&[...a].sort((x,y)=>x-y).every((v,i)=>v===[...q.answer].sort((x,y)=>x-y)[i]);}
