@@ -1,4 +1,5 @@
 export const ZONE='America/New_York';
+export function powerLevel(score){if(!Number.isInteger(score)||score<0||score>10)throw new RangeError('Score must be 0–10');return ['Retarded','Auted','Trash','Trash','Trash','Hax','Hax','Op','Op','5’8” and strong','5’8” and strong'][score];}
 export function editionDate(now=new Date()){
  const p=Object.fromEntries(new Intl.DateTimeFormat('en-CA',{timeZone:ZONE,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',hourCycle:'h23'}).formatToParts(now).map(p=>[p.type,p.value]));
  return `${p.year}-${p.month}-${p.day}`;
