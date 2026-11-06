@@ -1,4 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&display=swap');
-.score-card #result-caption{font-size:21px;font-weight:700;color:var(--yellow);line-height:1.3}
+.score-card #result-caption{font-size:21px;font-weight:700;color:var(--yellow);line-height:1.3;margin:0 0 22px}.score-card .result-cell{background:#6b303b;color:#ffe8ed;border:1px solid #b45f72}.score-card .result-cell.hit{background:#28734b;color:#edfff3;border-color:#56b880}
 :root{--bg:#0b0c0f;--panel:#18191e;--muted:#bcc0ca}footer{color:#afb3bf}.nav-label{color:#b8bcc8}.nav-detail{color:#c2c5cf}
 .brand,#home h1{font-family:Outfit,Arial,sans-serif}.brand{font-weight:600;letter-spacing:-.25px}#home h1{font-size:50px;font-weight:700;letter-spacing:-1.4px}#home .intro{letter-spacing:.1px}@media(max-width:480px){#home h1{font-size:43px;letter-spacing:-1.1px}.brand{font-size:14px}.brand-dot{margin:0 5px}}@media(max-width:350px){.brand{font-size:13px}.brand-dot{margin:0 4px}#home h1{font-size:39px}}
