@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#15161b"><meta name="description" content="Noodle · DailyCong. Ten daily questions from the group chat."><meta name="robots" content="noindex,nofollow"><title>Noodle · DailyCong</title><link rel="stylesheet" href="./game.css?v=4"><link rel="stylesheet" href="./landing.css?v=4"><link rel="stylesheet" href="./navigation.css?v=5"><link rel="stylesheet" href="./type.css?v=6">
+</head>
+<body>
+<header><div class="header-left"><button id="menu-toggle" class="menu-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="navigation"><span></span><span></span><span></span></button><a class="brand" href="./" aria-label="Noodle DailyCong home">Noodle<span class="brand-dot">·</span><span class="brand-game">DailyCong</span></a></div><button class="text-button" id="rules-open"><span class="help-icon" aria-hidden="true">?</span> How to play</button></header>
+<div class="nav-shell" id="nav-shell" inert>
+ <nav id="navigation" aria-label="Main navigation">
+  <p class="nav-label">PLAY</p>
+  <button class="nav-item" id="nav-round"><span>Today’s Round</span><span aria-hidden="true">→</span></button>
+  <button class="nav-item" id="nav-results" disabled><span>Today’s Results</span><span class="nav-detail" id="nav-results-state">Finish today’s round</span></button>
+  <p class="nav-label">YOUR GAME</p>
+  <button class="nav-item" id="nav-stats"><span>Stats</span><span aria-hidden="true">↗</span></button>
+  <p class="nav-label">MORE ROUNDS</p>
+  <button class="nav-item" disabled><span>Previous Days</span><span class="soon">Coming soon</span></button>
+  <button class="nav-item" disabled><span>Random Rounds</span><span class="soon">Coming soon</span></button>
+  <div class="nav-bottom"><button class="text-button" id="nav-rules">How to play</button><button class="text-button" id="nav-about">About the archive</button></div>
+ </nav>
+</div>
+<button id="menu-backdrop" class="menu-backdrop" aria-label="Close navigation" hidden tabindex="-1"></button>
+<main>
+ <p id="error" role="alert" hidden></p><p id="stale" class="notice" hidden></p>
+ <section id="home" aria-labelledby="home-title">
+  <h1 id="home-title">Daily<span>Cong</span></h1>
+  <p class="intro">Ten questions. No exclusion.</p>
+  <div class="issue"><span id="edition">DAILY QUIZ</span><span class="issue-dot" aria-hidden="true">·</span><time id="edition-date"></time></div>
+  <div class="start-row"><button class="primary" id="start" disabled>Loading…</button></div>
+  <div class="home-rules"><span>New questions every day</span></div>
+ </section>
+ <section id="game" hidden aria-labelledby="q-title">
+  <div class="game-nav"><button class="text-button" id="home-button">← Save & leave</button><span id="q-count"></span><span id="score"></span></div><div class="progress" aria-label="Quiz progress"><div id="progress-fill"></div></div>
+  <div class="question-heading"><span class="eyebrow" id="q-category"></span><h1 id="q-title" tabindex="-1"></h1><p id="q-prompt"></p></div>
+  <div id="options" class="options" role="group" aria-labelledby="q-title q-prompt"></div>
+  <div class="answer-actions"><div class="verdict" id="answer-verdict" hidden aria-live="polite"><h2 id="verdict"></h2><span id="answer-score"></span></div><button class="primary" id="next" disabled>Next question →</button></div>
+  <div id="multi-actions" hidden><p class="hint" id="selection-count" aria-live="polite"></p><button class="primary" id="submit" disabled>Lock in answers →</button></div>
+  <section id="reveal" class="reveal" hidden><p id="explanation"></p><details id="receipt-details"><summary>Open the receipts <span>↗</span></summary><div id="receipts"></div></details></section>
+ </section>
+ <section id="results" hidden aria-labelledby="result-title">
+  <span class="eyebrow" id="result-issue"></span><h1 id="result-title" tabindex="-1">Your score</h1>
+  <div class="score-card"><span>DAILY CONG</span><div><strong id="final-score"></strong><span>/ 10</span></div><div class="result-grid" id="result-grid" aria-label="Question results, two rows of five"></div><p id="result-caption"></p></div>
+  <div class="result-actions"><button class="primary" id="share">Copy score ↗</button><button class="secondary" id="review-button">Review the receipts</button></div><p id="share-note" class="hint" role="status"></p><p class="next-note" id="next-note"></p><section id="review" hidden><h2>The postmortem</h2><div id="review-list"></div></section>
+ </section>
+ <section id="stats-view" hidden aria-labelledby="stats-title">
+  <span class="eyebrow">YOUR GAME</span><h1 id="stats-title" tabindex="-1">Stats</h1>
+  <p class="stats-description">Your daily record on this browser.</p>
+  <div class="stats-grid"><div><strong id="stats-played">0</strong><span>Played</span></div><div><strong id="stats-streak">0</strong><span>Day streak</span></div><div><strong id="stats-best">—</strong><span>Best / 10</span></div><div><strong id="stats-average">—</strong><span>Average / 10</span></div></div>
+  <h2 class="history-heading">Recent rounds</h2><p id="stats-empty" class="hint">Finish your first round to start your record.</p><div id="stats-history"></div>
+  <button class="primary" id="stats-play">Today’s round →</button>
+  <p class="hint">Saved locally, not synced between devices. Prototype rounds don’t count twice.</p>
+ </section>
+</main>
+<footer><span>Noodle · DailyCong</span><button class="text-button" id="privacy-open">About the archive</button></footer>
+<dialog id="rules"><button class="close" data-close="rules" aria-label="Close how to play">×</button><span class="eyebrow">NOODLE</span><h2>Ten questions.</h2><p>One shared quiz each day. Pick one answer per question. Each correct answer is worth one point. No speed bonuses or wagers.</p><p>Your first answers save as you go. Come back to finish, then copy your spoiler-free score to the chat. The next edition is scheduled for 7 a.m. Eastern.</p><p>This is a friendly browser-local game, not an anti-cheat system. Clearing browser data or using another device resets your local record. Nothing is sent to a leaderboard.</p></dialog>
+<dialog id="privacy"><button class="close" data-close="privacy" aria-label="Close archive information">×</button><span class="eyebrow">ABOUT THE ARCHIVE</span><h2>Context matters.</h2><p id="archive-note">The private index covers the 2022–2025 archive.</p><p>That's the search corpus—not a claim that every message has been editorially reviewed. Each quiz is written from selected conversations, with replies and corrections checked. Receipts preserve original spelling. A message proves what somebody posted, not that the story really happened.</p><p>Only selected questions and short supporting excerpts are published. The full archive, contact details, attachments and research index stay off this website. Crude adult and bathroom humor included.</p><p>Scores and progress stay in this browser. The shared is.gd address is a third-party redirect to this site; no chat data is sent to the shortener.</p></dialog>
+<script type="module" src="./app.mjs?v=6"></script>
+</body></html>

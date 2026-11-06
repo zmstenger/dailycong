@@ -1,0 +1,317 @@
+{
+  "date": "2026-11-06",
+  "edition": 1,
+  "timezone": "America/New_York",
+  "archive": {
+    "messages": 258338,
+    "start": "2022-03-18",
+    "end": "2025-04-01"
+  },
+  "questions": [
+    {
+      "id": "core-congas-origin",
+      "kind": "single",
+      "category": "Origin story",
+      "title": "Before Core Congas was an institution",
+      "prompt": "In the March 2025 origin-story discussion, what did Nico say he originally made that chat to do?",
+      "options": [
+        "Organize a permanent smaller friend group",
+        "Get a few people to a cong earlier",
+        "Choose the next Noodle group-chat name",
+        "Coordinate a surprise birthday party"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "It began as logistics, not a founding constitution. Nico said he wanted a few people there earlier and had no intention of making it an ongoing chat. Jimmy remembered the original ‘BVH penis advisors’ name; people were also recalling different Fourth of July gatherings.",
+      "receipts": [
+        {
+          "sender": "Jimmy",
+          "date": "2025-03-18",
+          "text": "Nico wasn’t the og called BVH penis advisors and it was me you Zach D Nathan Quincy because you said “someone pls get here directly at 5 so I don’t have to cong alone with BVH”"
+        },
+        {
+          "sender": "Nico",
+          "date": "2025-03-18",
+          "text": "Yeah bruh I made the chat cuz we were having a semi big cong and I think I wanted to invite a few people earlier"
+        },
+        {
+          "sender": "Nico",
+          "date": "2025-03-18",
+          "text": "No intentions of it actually being a chat I just wanted to notify the folks"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-stinkbug-sup",
+      "kind": "single",
+      "category": "Damage control",
+      "title": "A normal greeting, eventually",
+      "prompt": "Jimmy posted about throwing a stinkbug in the toilet and pooping on it. What did he then edit that announcement to say?",
+      "options": [
+        "Wrong chat",
+        "Sup",
+        "Never mind",
+        "Good morning gentlemen"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "The entire stinkbug-toilet announcement became ‘Sup.’ An impressively casual replacement for the original report.",
+      "receipts": [
+        {
+          "sender": "Jimmy",
+          "date": "2023-04-28",
+          "text": "Just saw a stinkbug on my wall as I was bouta poop so I grabbed it off the wall and threw it in the toilet and pooped on it"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2023-04-28",
+          "text": "Edited to “Sup”"
+        }
+      ]
+    },
+    {
+      "id": "nico-fly-ksi",
+      "kind": "single",
+      "category": "The chat's solution",
+      "title": "It survived the microwave. Then what?",
+      "prompt": "Nico said a fly survived two minutes in the microwave. What did Jimmy suggest making it listen to next?",
+      "options": [
+        "A Charlie science voice note",
+        "The entire Weezer discography",
+        "The new KSI song on repeat",
+        "A recording of Zach farting"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Jimmy's follow-up was to tape AirPods next to it and make it listen to KSI's new song on repeat. Nico supplied the accidental microwave story; Jimmy supplied this particular escalation. It was a suggestion in the chat, not something the archive establishes anyone did.",
+      "receipts": [
+        {
+          "sender": "Nico",
+          "date": "2024-11-14",
+          "text": "What the fuck I just accidentally microwaved a fly for 2 minutes and it survived"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2024-11-14",
+          "text": "Dawg how"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2024-11-14",
+          "text": "Now tape it to the wall and tape AirPods next to it and make it listen to ksi new song on repeat"
+        }
+      ]
+    },
+    {
+      "id": "noodle-government-main-export",
+      "kind": "single",
+      "category": "Noodle economics",
+      "title": "A thriving national economy",
+      "prompt": "According to Nathan's mock Noodle-government economics, what was the nation's main export?",
+      "options": [
+        "Jimmy's milk",
+        "Charlie's textbooks",
+        "Zach's fart recordings",
+        "Ronan's mixtapes"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "‘jimmys milk.’ Nathan credited it with sustaining the entire Noodle chat-government economy. This is Noodle worldbuilding, not an actual export business.",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2023-07-16",
+          "text": "Everyone knows noodle chat government economy thrives off its main export; jimmys milk"
+        }
+      ]
+    },
+    {
+      "id": "noodle-handbook-exclusion",
+      "kind": "single",
+      "category": "Recurring lore",
+      "title": "Constitutional law, Noodle edition",
+      "prompt": "Nico's 2022 ‘no exclusion’ handbook rule resurfaced in 2023 as a very specific veto. What did he claim wasn't allowed?",
+      "options": [
+        "Changing the group-chat name without a vote",
+        "Having a cong when Nico couldn't come",
+        "Hosting two congs in the same weekend",
+        "Inviting anyone outside the original group"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "The 2022 version banned exclusion. In 2023, Nico invoked that principle to announce that congs couldn't happen without him. Charlie then contributed the very precise ‘The noodle handbook doesn’t not exist.’ This was a running bit, not an actual rulebook.",
+      "receipts": [
+        {
+          "sender": "Nico",
+          "date": "2022-06-22",
+          "text": "The first rule of the noodle handbook is that exclusion is not allowed"
+        },
+        {
+          "sender": "Nico",
+          "date": "2023-05-19",
+          "text": "What the fuck is wrong with you guys I thought we all agreed that you aren’t allowed to have congs if I can’t come"
+        },
+        {
+          "sender": "Charlie",
+          "date": "2023-05-19",
+          "text": "The noodle handbook doesn’t not exist"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-presentation-soundtrack",
+      "kind": "single",
+      "category": "One more take",
+      "title": "Uncredited audio contribution",
+      "prompt": "What made Jimmy say he had to restart recording his presentation the second he began?",
+      "options": [
+        "His laptop played a fart voice message",
+        "His roommate loudly pissed, then ripped a high-pitched fart",
+        "Someone in the room started reciting the Noodle handbook",
+        "He realized he'd been recording the wrong screen"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "His roommate supplied a loud piss followed by ‘the highest pitch fart ever.’ Jimmy's next message: ‘Had to restart after that.’ A full sound-design department, absolutely unrequested.",
+      "receipts": [
+        {
+          "sender": "Jimmy",
+          "date": "2023-11-30",
+          "text": "The second I start recording my presentation my roommate has a loud piss followed by the highest pitch fart ever"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2023-11-30",
+          "text": "Had to restart after that"
+        }
+      ]
+    },
+    {
+      "id": "nico-work-search",
+      "kind": "single",
+      "category": "Search history incident",
+      "title": "That is not geometry",
+      "prompt": "Nico accidentally searched ‘circumcision’ at work. What was he actually trying to look up?",
+      "options": [
+        "The volume of a cylinder",
+        "The area of a triangle",
+        "The circumference of a circle",
+        "The diameter of a sphere"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "He wanted the circumference of a circle. Instead, the work search took a hard turn into circumcision, followed immediately by ‘My heart dropped.’ Nathan helpfully added ‘Circumscribe.’",
+      "receipts": [
+        {
+          "sender": "Nico",
+          "date": "2023-05-19",
+          "text": "Holy fuck I tried to look up circumference of a circle at work and I accidentally looked up circumcision"
+        },
+        {
+          "sender": "Nico",
+          "date": "2023-05-19",
+          "text": "My heart dropped"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2023-05-19",
+          "text": "Circumscribe"
+        }
+      ]
+    },
+    {
+      "id": "jacky-poop-chat-tap",
+      "kind": "single",
+      "category": "The escalation",
+      "title": "One tap too many",
+      "prompt": "Opening poop chat at Scott was already a bad move. What did Jacky say he accidentally did next?",
+      "options": [
+        "Played a voice note on full volume",
+        "Sent the picture to another chat",
+        "Tapped the poop picture and enlarged it",
+        "Turned his screen brightness all the way up"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "He didn't just open the chat: he accidentally tapped the poop picture and enlarged it. The extra tap was the escalation in Jacky's report.",
+      "receipts": [
+        {
+          "sender": "Jacky",
+          "date": "2024-04-26",
+          "text": "I not only opened poop chat at Scott but also accidentally tapped the poop pic and enlarged it"
+        }
+      ]
+    },
+    {
+      "id": "jacky-voice-message-new-meta",
+      "kind": "single",
+      "category": "The new meta",
+      "title": "Voice messages, but worse",
+      "prompt": "Nico brought up Jacky's unusual way of listening to voice messages. Jacky corrected him: it was ‘the new meta.’ What was the method?",
+      "options": [
+        "Playing them at double speed",
+        "Reading a transcription without listening",
+        "Opening the same message on two phones",
+        "Watching a screen recording of the audio message"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "A screen recording of an audio message, instead of just playing the audio message. Nico said it was one of the funniest things Jacky had said; Jacky's correction was that he'd called it ‘the new meta.’",
+      "receipts": [
+        {
+          "sender": "Nico",
+          "date": "2022-07-25",
+          "text": "One of the funniest things Jacky has said was that he’d rather watch a screen recording of an audio message than actually click the audio message"
+        },
+        {
+          "sender": "Nico",
+          "date": "2022-07-25",
+          "text": "Idky that was so funny to me"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2022-07-25",
+          "text": "No I just said it was the new meta"
+        }
+      ]
+    },
+    {
+      "id": "johannes-bathroom-speaker",
+      "kind": "single",
+      "category": "The wrong object",
+      "title": "This is so opium",
+      "prompt": "In Johannes's album-listening bathroom joke, what did he claim he accidentally started wiping?",
+      "options": [
+        "The album cover",
+        "His phone",
+        "The toilet seat",
+        "His speaker"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "The speaker. Johannes followed the announcement with ‘This is so opium’ and the black-heart-and-chains treatment. A posted joke, not a documentary reconstruction.",
+      "receipts": [
+        {
+          "sender": "Johannes",
+          "date": "2025-03-14",
+          "text": "Put the album on while poopibg accidentally started wiping my speaker instead of my ass 💔🥀🥀"
+        },
+        {
+          "sender": "Johannes",
+          "date": "2025-03-14",
+          "text": "This is so opium 🖤⛓️"
+        }
+      ]
+    }
+  ]
+}
