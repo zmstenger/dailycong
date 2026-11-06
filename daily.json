@@ -285,31 +285,31 @@
       ]
     },
     {
-      "id": "johannes-bathroom-speaker",
+      "id": "jimmy-quiz-month-long-submission",
       "kind": "single",
-      "category": "The wrong object",
-      "title": "This is so opium",
-      "prompt": "In Johannes's album-listening bathroom joke, what did he claim he accidentally started wiping?",
+      "category": "Academic achievement",
+      "title": "An exceptionally thorough attempt",
+      "prompt": "Jimmy forgot to finish a quiz and closed it. When a friend later sent it to him, what did the submission claim?",
       "options": [
-        "The album cover",
-        "His phone",
-        "The toilet seat",
-        "His speaker"
+        "He'd somehow earned extra credit",
+        "He'd taken 47,827 minutes to submit it",
+        "He'd submitted an entirely different class's quiz",
+        "He'd completed it before he opened it"
       ],
       "answer": [
-        3
+        1
       ],
-      "explanation": "The speaker. Johannes followed the announcement with ‘This is so opium’ and the black-heart-and-chains treatment. A posted joke, not a documentary reconstruction.",
+      "explanation": "47,827 minutes—over a month. Jimmy posted the absurd submission time after forgetting the quiz and closing it; Ronan rounded that to ‘34 days.’ The question is about what the quiz displayed, not a claim that Jimmy spent a month answering it.",
       "receipts": [
         {
-          "sender": "Johannes",
-          "date": "2025-03-14",
-          "text": "Put the album on while poopibg accidentally started wiping my speaker instead of my ass 💔🥀🥀"
+          "sender": "Jimmy",
+          "date": "2024-05-06",
+          "text": "I forgot about finishing a quiz and closed it but my friend sent me it and it said I submitted it after 47,827 minutes😂"
         },
         {
-          "sender": "Johannes",
-          "date": "2025-03-14",
-          "text": "This is so opium 🖤⛓️"
+          "sender": "Ronan",
+          "date": "2024-05-06",
+          "text": "34 days"
         }
       ]
     }
