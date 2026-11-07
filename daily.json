@@ -9,31 +9,26 @@
   },
   "questions": [
     {
-      "id": "elder-private-audience",
+      "id": "charlie-bathroom-divination",
       "kind": "single",
-      "category": "Accidental diplomacy",
-      "title": "Promotion request",
-      "prompt": "Nathan tried to ask a TKE Zoom meeting if he could be promoted to elder, but privately messaged the president instead. How did the president respond?",
+      "category": "Noodle inventions",
+      "title": "The future looks grim",
+      "prompt": "Inspired by the fortune-telling scene in Prisoner of Azkaban, what real-life service did Charlie think should exist?",
       "options": [
-        "Told him to earn more donations",
-        "Said he was already elder",
-        "Promoted him to co-leader",
-        "Asked him to leave the meeting"
+        "Reading someone's future from their DoorDash history",
+        "Reading someone's future from poop in a toilet",
+        "Reading someone's future from a bong's residue",
+        "Reading someone's future from their Clash deck"
       ],
       "answer": [
         1
       ],
-      "explanation": "The accidental private audience worked out: Nathan got told he was already elder. A surprisingly wholesome end to a Clash-style promotion request.",
+      "explanation": "Charlie wanted divination relocated to the bathroom: poop instead of the grounds, toilet instead of the cup. A new branch of the dark arts.",
       "receipts": [
         {
-          "sender": "Nathan",
-          "date": "2022-07-31",
-          "text": "Rly stupid way for a wholesome moment to happen but tke was having a zoom meeting but I said in the chat “can I be promoted to elder” but accidentally only sent it to one guy, the president lol"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2022-07-31",
-          "text": "And he responded “you are already elder”"
+          "sender": "Charlie",
+          "date": "2024-07-26",
+          "text": "In prisoner of Azkaban where the lady reads your future with the coffee grounds and cup, they should have that in real life but it’s poop and a toilet"
         }
       ]
     },
