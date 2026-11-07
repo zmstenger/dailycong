@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-06",
-  "edition": 1,
+  "date": "2026-11-07",
+  "edition": 2,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,312 +9,317 @@
   },
   "questions": [
     {
-      "id": "core-congas-origin",
+      "id": "elder-private-audience",
       "kind": "single",
-      "category": "Origin story",
-      "title": "Before Core Congas was an institution",
-      "prompt": "In the March 2025 origin-story discussion, what did Nico say he originally made that chat to do?",
+      "category": "Accidental diplomacy",
+      "title": "Promotion request",
+      "prompt": "Nathan tried to ask a TKE Zoom meeting if he could be promoted to elder, but privately messaged the president instead. How did the president respond?",
       "options": [
-        "Organize a permanent smaller friend group",
-        "Get a few people to a cong earlier",
-        "Choose the next Noodle group-chat name",
-        "Coordinate a surprise birthday party"
+        "Told him to earn more donations",
+        "Said he was already elder",
+        "Promoted him to co-leader",
+        "Asked him to leave the meeting"
       ],
       "answer": [
         1
       ],
-      "explanation": "It began as logistics, not a founding constitution. Nico said he wanted a few people there earlier and had no intention of making it an ongoing chat. Jimmy remembered the original ‘BVH penis advisors’ name; people were also recalling different Fourth of July gatherings.",
-      "receipts": [
-        {
-          "sender": "Jimmy",
-          "date": "2025-03-18",
-          "text": "Nico wasn’t the og called BVH penis advisors and it was me you Zach D Nathan Quincy because you said “someone pls get here directly at 5 so I don’t have to cong alone with BVH”"
-        },
-        {
-          "sender": "Nico",
-          "date": "2025-03-18",
-          "text": "Yeah bruh I made the chat cuz we were having a semi big cong and I think I wanted to invite a few people earlier"
-        },
-        {
-          "sender": "Nico",
-          "date": "2025-03-18",
-          "text": "No intentions of it actually being a chat I just wanted to notify the folks"
-        }
-      ]
-    },
-    {
-      "id": "jimmy-stinkbug-sup",
-      "kind": "single",
-      "category": "Damage control",
-      "title": "A normal greeting, eventually",
-      "prompt": "Jimmy posted about throwing a stinkbug in the toilet and pooping on it. What did he then edit that announcement to say?",
-      "options": [
-        "Wrong chat",
-        "Sup",
-        "Never mind",
-        "Good morning gentlemen"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "The entire stinkbug-toilet announcement became ‘Sup.’ An impressively casual replacement for the original report.",
-      "receipts": [
-        {
-          "sender": "Jimmy",
-          "date": "2023-04-28",
-          "text": "Just saw a stinkbug on my wall as I was bouta poop so I grabbed it off the wall and threw it in the toilet and pooped on it"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2023-04-28",
-          "text": "Edited to “Sup”"
-        }
-      ]
-    },
-    {
-      "id": "nico-fly-ksi",
-      "kind": "single",
-      "category": "The chat's solution",
-      "title": "It survived the microwave. Then what?",
-      "prompt": "Nico said a fly survived two minutes in the microwave. What did Jimmy suggest making it listen to next?",
-      "options": [
-        "A Charlie science voice note",
-        "The entire Weezer discography",
-        "The new KSI song on repeat",
-        "A recording of Zach farting"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "Jimmy's follow-up was to tape AirPods next to it and make it listen to KSI's new song on repeat. Nico supplied the accidental microwave story; Jimmy supplied this particular escalation.",
-      "receipts": [
-        {
-          "sender": "Nico",
-          "date": "2024-11-14",
-          "text": "What the fuck I just accidentally microwaved a fly for 2 minutes and it survived"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2024-11-14",
-          "text": "Dawg how"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2024-11-14",
-          "text": "Now tape it to the wall and tape AirPods next to it and make it listen to ksi new song on repeat"
-        }
-      ]
-    },
-    {
-      "id": "noodle-government-main-export",
-      "kind": "single",
-      "category": "Noodle economics",
-      "title": "A thriving national economy",
-      "prompt": "According to Nathan's mock Noodle-government economics, what was the nation's main export?",
-      "options": [
-        "Jimmy's milk",
-        "Charlie's textbooks",
-        "Zach's fart recordings",
-        "Ronan's mixtapes"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "‘jimmys milk.’ Nathan credited it with sustaining the entire Noodle chat-government economy.",
+      "explanation": "The accidental private audience worked out: Nathan got told he was already elder. A surprisingly wholesome end to a Clash-style promotion request.",
       "receipts": [
         {
           "sender": "Nathan",
-          "date": "2023-07-16",
-          "text": "Everyone knows noodle chat government economy thrives off its main export; jimmys milk"
-        }
-      ]
-    },
-    {
-      "id": "noodle-handbook-exclusion",
-      "kind": "single",
-      "category": "Recurring lore",
-      "title": "Constitutional law, Noodle edition",
-      "prompt": "Nico's 2022 ‘no exclusion’ handbook rule resurfaced in 2023 as a very specific veto. What did he claim wasn't allowed?",
-      "options": [
-        "Changing the group-chat name without a vote",
-        "Having a cong when Nico couldn't come",
-        "Hosting two congs in the same weekend",
-        "Inviting anyone outside the original group"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "The 2022 version banned exclusion. In 2023, Nico invoked that principle to announce that congs couldn't happen without him. Charlie then contributed the very precise ‘The noodle handbook doesn’t not exist.’",
-      "receipts": [
-        {
-          "sender": "Nico",
-          "date": "2022-06-22",
-          "text": "The first rule of the noodle handbook is that exclusion is not allowed"
-        },
-        {
-          "sender": "Nico",
-          "date": "2023-05-19",
-          "text": "What the fuck is wrong with you guys I thought we all agreed that you aren’t allowed to have congs if I can’t come"
-        },
-        {
-          "sender": "Charlie",
-          "date": "2023-05-19",
-          "text": "The noodle handbook doesn’t not exist"
-        }
-      ]
-    },
-    {
-      "id": "jimmy-presentation-soundtrack",
-      "kind": "single",
-      "category": "One more take",
-      "title": "Uncredited audio contribution",
-      "prompt": "What made Jimmy say he had to restart recording his presentation the second he began?",
-      "options": [
-        "His laptop played a fart voice message",
-        "His roommate loudly pissed, then ripped a high-pitched fart",
-        "Someone in the room started reciting the Noodle handbook",
-        "He realized he'd been recording the wrong screen"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "His roommate supplied a loud piss followed by ‘the highest pitch fart ever.’ Jimmy's next message: ‘Had to restart after that.’ A full sound-design department, absolutely unrequested.",
-      "receipts": [
-        {
-          "sender": "Jimmy",
-          "date": "2023-11-30",
-          "text": "The second I start recording my presentation my roommate has a loud piss followed by the highest pitch fart ever"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2023-11-30",
-          "text": "Had to restart after that"
-        }
-      ]
-    },
-    {
-      "id": "nico-work-search",
-      "kind": "single",
-      "category": "Search history incident",
-      "title": "That is not geometry",
-      "prompt": "Nico accidentally searched ‘circumcision’ at work. What was he actually trying to look up?",
-      "options": [
-        "The volume of a cylinder",
-        "The area of a triangle",
-        "The circumference of a circle",
-        "The diameter of a sphere"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "He wanted the circumference of a circle. Instead, the work search took a hard turn into circumcision, followed immediately by ‘My heart dropped.’ Nathan helpfully added ‘Circumscribe.’",
-      "receipts": [
-        {
-          "sender": "Nico",
-          "date": "2023-05-19",
-          "text": "Holy fuck I tried to look up circumference of a circle at work and I accidentally looked up circumcision"
-        },
-        {
-          "sender": "Nico",
-          "date": "2023-05-19",
-          "text": "My heart dropped"
+          "date": "2022-07-31",
+          "text": "Rly stupid way for a wholesome moment to happen but tke was having a zoom meeting but I said in the chat “can I be promoted to elder” but accidentally only sent it to one guy, the president lol"
         },
         {
           "sender": "Nathan",
-          "date": "2023-05-19",
-          "text": "Circumscribe"
+          "date": "2022-07-31",
+          "text": "And he responded “you are already elder”"
         }
       ]
     },
     {
-      "id": "jacky-poop-chat-tap",
+      "id": "white-family-alternate-timeline",
       "kind": "single",
-      "category": "The escalation",
-      "title": "One tap too many",
-      "prompt": "Opening poop chat at Scott was already a bad move. What did Jacky say he accidentally did next?",
+      "category": "Alternate timelines",
+      "title": "The name that got away",
+      "prompt": "Which member said his dad wanted to name him after a great-grandfather called Walter White—handing chat an immediate Walt Jr. opportunity?",
       "options": [
-        "Played a voice note on full volume",
-        "Sent the picture to another chat",
-        "Tapped the poop picture and enlarged it",
-        "Turned his screen brightness all the way up"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "He didn't just open the chat: he accidentally tapped the poop picture and enlarged it. The extra tap was the escalation in Jacky's report.",
-      "receipts": [
-        {
-          "sender": "Jacky",
-          "date": "2024-04-26",
-          "text": "I not only opened poop chat at Scott but also accidentally tapped the poop pic and enlarged it"
-        }
-      ]
-    },
-    {
-      "id": "jacky-voice-message-new-meta",
-      "kind": "single",
-      "category": "The new meta",
-      "title": "Voice messages, but worse",
-      "prompt": "Nico brought up Jacky's unusual way of listening to voice messages. Jacky corrected him: it was ‘the new meta.’ What was the method?",
-      "options": [
-        "Playing them at double speed",
-        "Reading a transcription without listening",
-        "Opening the same message on two phones",
-        "Watching a screen recording of the audio message"
+        "Jimmy",
+        "Charlie",
+        "Nico",
+        "Ben"
       ],
       "answer": [
         3
       ],
-      "explanation": "A screen recording of an audio message, instead of just playing the audio message. Nico said it was one of the funniest things Jacky had said; Jacky's correction was that he'd called it ‘the new meta.’",
+      "explanation": "Ben said he could have been Walter White. Nathan immediately supplied the consequence: he would have been Walt Jr.",
       "receipts": [
         {
-          "sender": "Nico",
-          "date": "2022-07-25",
-          "text": "One of the funniest things Jacky has said was that he’d rather watch a screen recording of an audio message than actually click the audio message"
+          "sender": "Ben",
+          "date": "2022-09-06",
+          "text": "Fun fact my great grandpa was actually named Walter White and when my mom was pregnant my dad wanted me to be Walter"
         },
         {
-          "sender": "Nico",
-          "date": "2022-07-25",
-          "text": "Idky that was so funny to me"
+          "sender": "Ben",
+          "date": "2022-09-06",
+          "text": "I Would’ve either been such an epic chad or get the shit bullied out of me"
         },
         {
-          "sender": "Jacky",
-          "date": "2022-07-25",
-          "text": "No I just said it was the new meta"
+          "sender": "Nathan",
+          "date": "2022-09-06",
+          "text": "You would’ve been Walt jr"
         }
       ]
     },
     {
-      "id": "nathan-dragon-666-superstition",
+      "id": "malaysia-charlie-prediction",
       "kind": "single",
-      "category": "Risk management",
-      "title": "A perfectly reasonable precaution",
-      "prompt": "Nathan reached his 666th dragon. What did he do out of superstition before hatching it?",
+      "category": "Economic opportunities",
+      "title": "Facts?",
+      "prompt": "Nico accidentally applied for a job in Malaysia. Nathan turned it into a plan to earn an American salary and buy a cheap mansion. Whose immediate interest did Nathan wish he'd bet his entire trust fund on?",
       "options": [
-        "Renamed it to avoid tempting fate",
-        "Made sure dragon 667 was already on the way",
-        "Waited until the clock passed midnight",
-        "Asked Charlie to hatch it for him"
+        "Charlie",
+        "Ronan",
+        "Dimitri",
+        "Jacky"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Charlie replied “Facts?” Nathan regretted not wagering everything on that exact outcome. Charlie's counter: “I predict your messages before you send them”.",
+      "receipts": [
+        {
+          "sender": "Nico",
+          "date": "2023-10-04",
+          "text": "accidentally just applied to a job in Malaysia 💯"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2023-10-04",
+          "text": "Live in Malaysia making an American salary for 5 years, buy a Malaysian mansion for $50000 usd and come back to the us rich as shit"
+        },
+        {
+          "sender": "Charlie",
+          "date": "2023-10-04",
+          "text": "Facts?"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2023-10-04",
+          "text": "Damn I honestly should’ve gone to the bank taken out my entire trust fund and put it all on a bet that charlie would be interested in that message"
+        },
+        {
+          "sender": "Charlie",
+          "date": "2023-10-04",
+          "text": "I predict your messages before you send them"
+        }
+      ]
+    },
+    {
+      "id": "dimitri-art-criticism-red",
+      "kind": "single",
+      "category": "Noodle criticism",
+      "title": "The balance was off",
+      "prompt": "Nathan remembered an art-museum trip where a painting was basically a blue smudge and a red smudge. What was Dimitri's critique?",
+      "options": [
+        "It needed a third smudge",
+        "The blue wasn't blue enough",
+        "There was too much red",
+        "They had hung it upside down"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "“Yeah but there’s too much red😤”. Nathan said it blew his mind. Even the dumb art was cool.",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2024-03-14",
+          "text": "Dude I remember when we went to the art museum we were looking at some stupid ass modern art piece of a blue smudge on one side and a red smudge on the other side, and Dimitri’s was like “yeah but there’s too much red😤” and it blew my mind"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2024-03-14",
+          "text": "Even the dumb art was cool"
+        }
+      ]
+    },
+    {
+      "id": "jacky-dream-owen-traction",
+      "kind": "single",
+      "category": "Dream engineering",
+      "title": "Driver assistance",
+      "prompt": "In Jacky's dream, everyone was in a car that kept spinning out. What let Owen regain control almost immediately each time?",
+      "options": [
+        "A Mario Kart steering wheel",
+        "An AI chip in his head",
+        "Force sensitivity",
+        "A controller plugged into the dashboard"
       ],
       "answer": [
         1
       ],
-      "explanation": "He waited until he knew 667 was on the way. Nathan announced ‘My 666th dragon,’ added ‘Spooky,’ and explained his very specific insurance policy against the number.",
+      "explanation": "Not better tires. Dream Owen had an AI chip in his head, so the car could repeatedly spin out without ending the trip.",
+      "receipts": [
+        {
+          "sender": "Jacky",
+          "date": "2025-02-02",
+          "text": "Had this dream a couple days ago where we were all in a car and Owen was behind the wheel and we were spinning out like crazy but Owen had an ai chip in his head and was able to  regain control almost immediately after each spin out"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2025-02-02",
+          "text": "Idk why I still remember dat"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-grape-evacuation",
+      "kind": "single",
+      "category": "Environmental hazards",
+      "title": "Fruit of the doom",
+      "prompt": "Jimmy reported a fart so bad his mom left the room. What food did he blame?",
+      "options": [
+        "A protein shake",
+        "Chipotle",
+        "Grapes",
+        "Hard-boiled eggs"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "A “grape induced fart” cleared the room. Ben then announced his own separate plan to fart in the gym; Charlie advised caution.",
+      "receipts": [
+        {
+          "sender": "Jimmy",
+          "date": "2023-06-21",
+          "text": "Just accidentally had a grape induced fart and it was so bad that my mom left the room"
+        },
+        {
+          "sender": "Ben",
+          "date": "2023-06-21",
+          "text": "Gonna fart in the gym"
+        },
+        {
+          "sender": "Charlie",
+          "date": "2023-06-21",
+          "text": "Be careful"
+        }
+      ]
+    },
+    {
+      "id": "loreframe-fortnite-infringement",
+      "kind": "single",
+      "category": "Intellectual property",
+      "title": "They stole our ideas",
+      "prompt": "Zach accused a game of basically being Loreframe because it put every franchise together. Which game was infringing on Noodle's visionary concept?",
+      "options": [
+        "Fortnite",
+        "Super Smash Bros.",
+        "Roblox",
+        "Kingdom Hearts"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Fortnite's crossover empire was apparently just Loreframe with a budget. Zach's verdict: “they stole our ideas 💯”.",
+      "receipts": [
+        {
+          "sender": "Zach",
+          "date": "2023-11-01",
+          "text": "I was telling Nico this last week but fortnite is basically loreframe. It has every franchise in one, they stole our ideas 💯"
+        }
+      ]
+    },
+    {
+      "id": "golden-age-cubes-vs-pokemon",
+      "kind": "single",
+      "category": "Ancient Noodle",
+      "title": "The golden age debate",
+      "prompt": "The old “Eras of the chat” timeline called Naruto and Cubing the golden age. What argument with Jimmy made its list of notable moments?",
+      "options": [
+        "Dubbed Naruto vs. subbed Naruto",
+        "Destiny vs. Clash Royale",
+        "Star Wars vs. Marvel",
+        "Pokémon vs. Rubik's cubes"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "The golden age had cube congregations, lore chakra energy, Naruto music—and an argument with Jimmy about Pokémon versus Rubik's cubes. Nico agreed that the era was amazing.",
+      "receipts": [
+        {
+          "sender": "Dimitri",
+          "date": "2023-03-20",
+          "text": "5. Naruto and Cubing(golden age)\n\nTime period: November 2017 - March 2017\n\nNotable moments: Naruto grind chat wide, anime wizard obsession, Cubing grind lore, lore chakra energy, cube congregations, naruto music listening. Arguing with jimmy about Pokémon vs rubix cubes."
+        },
+        {
+          "sender": "Nico",
+          "date": "2023-03-20",
+          "text": "The golden age was so amazing"
+        }
+      ]
+    },
+    {
+      "id": "nathan-bionicle-literary-prehistory",
+      "kind": "single",
+      "category": "Expanded universes",
+      "title": "It walked so he could walk",
+      "prompt": "Before Nathan's Star Wars writing, he had already built a whole universe of self-described poorly written lore around what?",
+      "options": [
+        "Destiny",
+        "Bionicle",
+        "Clash of Clans",
+        "Naruto"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "Bionicle. Nathan explained that this early universe walked so his Star Wars writing could… walk a little faster. “Originality do be hard”.",
       "receipts": [
         {
           "sender": "Nathan",
-          "date": "2024-07-06",
-          "text": "My 666th dragon"
+          "date": "2024-05-12",
+          "text": "Dude I had so much bionicle lore in my head in those days"
         },
         {
           "sender": "Nathan",
-          "date": "2024-07-06",
-          "text": "Spooky"
+          "date": "2024-05-12",
+          "text": "Not only just the actual bionicle lore but like my own whole universe of poorly written lore"
         },
         {
           "sender": "Nathan",
-          "date": "2024-07-06",
-          "text": "I waited to hatch it out of superstition until I knew 667 was on the way"
+          "date": "2024-05-12",
+          "text": "That shit walked so that my SW writing could…walk a little faster"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2024-05-12",
+          "text": "Originality do be hard"
+        }
+      ]
+    },
+    {
+      "id": "chipotle-two-ingredient-endgame",
+      "kind": "single",
+      "category": "Fine dining",
+      "title": "The bowl survived",
+      "prompt": "Jimmy's friend ordered a loaded Chipotle bowl through DoorDash. After the restaurant ran out of ingredients, what two things actually arrived in the bowl?",
+      "options": [
+        "Black beans and shredded cheese",
+        "Guacamole and lettuce",
+        "Sour cream and white rice",
+        "Fajita vegetables and hot salsa"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "A bowl of sour cream and white rice. The container was doing more work than the kitchen.",
+      "receipts": [
+        {
+          "sender": "Jimmy",
+          "date": "2022-09-15",
+          "text": "My boy just told me that he doordashed chipotle and ordered a bowl with a bunch of stuff in it and they were out of so much that all he got was a bowl of sour cream and white rice"
         }
       ]
     }
