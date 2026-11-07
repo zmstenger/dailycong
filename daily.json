@@ -33,80 +33,60 @@
       ]
     },
     {
-      "id": "white-family-alternate-timeline",
+      "id": "jacky-door-server-fans",
       "kind": "single",
-      "category": "Alternate timelines",
-      "title": "The name that got away",
-      "prompt": "Which member said his dad wanted to name him after a great-grandfather called Walter White—handing chat an immediate Walt Jr. opportunity?",
+      "category": "Lore overload",
+      "title": "Even Jacky has a limit",
+      "prompt": "Nico remembered one exceptional occasion when Jacky shut his door during the daytime. What lore finally exhausted Jacky's open-door policy?",
       "options": [
-        "Jimmy",
-        "Charlie",
-        "Nico",
-        "Ben"
+        "A frame-by-frame Naruto power-scaling lecture",
+        "A complete breakdown of a fantasy football draft",
+        "An explanation of every change to a Honda engine",
+        "Luke's new server fans"
       ],
       "answer": [
         3
       ],
-      "explanation": "Ben said he could have been Walter White. Nathan immediately supplied the consequence: he would have been Walt Jr.",
+      "explanation": "The server-fan lore finally closed the door. Jacky's defense: “I’m happy for him but it was too much”. He normally left the door open to invite distraction.",
       "receipts": [
         {
-          "sender": "Ben",
-          "date": "2022-09-06",
-          "text": "Fun fact my great grandpa was actually named Walter White and when my mom was pregnant my dad wanted me to be Walter"
+          "sender": "Nico",
+          "date": "2025-02-13",
+          "text": "Bruh I remember there was only one time jacky ever shut his door during the daytime and it was cuz Luke would not shut the fuck up about the new fans he installed onto his server💀💀💀"
         },
         {
-          "sender": "Ben",
-          "date": "2022-09-06",
-          "text": "I Would’ve either been such an epic chad or get the shit bullied out of me"
+          "sender": "Jacky",
+          "date": "2025-02-13",
+          "text": "I’m happy for him but it was too much"
         },
         {
-          "sender": "Nathan",
-          "date": "2022-09-06",
-          "text": "You would’ve been Walt jr"
+          "sender": "Jacky",
+          "date": "2025-02-13",
+          "text": "I always had the door open partially to invite distraction 💀"
         }
       ]
     },
     {
-      "id": "malaysia-charlie-prediction",
+      "id": "marketing-final-redbull-titos",
       "kind": "single",
-      "category": "Economic opportunities",
-      "title": "Facts?",
-      "prompt": "Nico accidentally applied for a job in Malaysia. Nathan turned it into a plan to earn an American salary and buy a cheap mansion. Whose immediate interest did Nathan wish he'd bet his entire trust fund on?",
+      "category": "Business visionaries",
+      "title": "A semester well spent",
+      "prompt": "Jimmy watched a marketing group's final pitch get gently dismantled by the professor, who said their entire product idea had been banned for years. What were they pitching?",
       "options": [
-        "Charlie",
-        "Ronan",
-        "Dimitri",
-        "Jacky"
+        "Red Bull mixed with Tito's",
+        "A vape that also works as an inhaler",
+        "Edible laundry detergent pods",
+        "A drive-through alcohol vending machine"
       ],
       "answer": [
         0
       ],
-      "explanation": "Charlie replied “Facts?” Nathan regretted not wagering everything on that exact outcome. Charlie's counter: “I predict your messages before you send them”.",
+      "explanation": "Red Bull mixed with Tito's. According to Jimmy, the professor was trying very hard to be nice while explaining why the semester's big idea couldn't work.",
       "receipts": [
         {
-          "sender": "Nico",
-          "date": "2023-10-04",
-          "text": "accidentally just applied to a job in Malaysia 💯"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2023-10-04",
-          "text": "Live in Malaysia making an American salary for 5 years, buy a Malaysian mansion for $50000 usd and come back to the us rich as shit"
-        },
-        {
-          "sender": "Charlie",
-          "date": "2023-10-04",
-          "text": "Facts?"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2023-10-04",
-          "text": "Damn I honestly should’ve gone to the bank taken out my entire trust fund and put it all on a bet that charlie would be interested in that message"
-        },
-        {
-          "sender": "Charlie",
-          "date": "2023-10-04",
-          "text": "I predict your messages before you send them"
+          "sender": "Jimmy",
+          "date": "2022-05-09",
+          "text": "This marketing group did a presentation about a new product idea for Red Bull mixed with Tito’s and it was their final project for the semester and the professor was trying so hard to be nice when explaining that their entire idea was illegal and has been banned for years"
         }
       ]
     },
