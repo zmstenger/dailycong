@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-07",
-  "edition": 2,
+  "date": "2026-11-08",
+  "edition": 3,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,292 +9,317 @@
   },
   "questions": [
     {
-      "id": "charlie-bathroom-divination",
+      "id": "exclusioncast-production-demotions",
       "kind": "single",
-      "category": "Noodle inventions",
-      "title": "The future looks grim",
-      "prompt": "Inspired by the fortune-telling scene in Prisoner of Azkaban, what real-life service did Charlie think should exist?",
+      "category": "Noodle media empire",
+      "title": "Survivor: podcast edition",
+      "prompt": "Nathan's Noodle podcast had a built-in elimination system. What would happen to members who turned out to be bad on the mic?",
       "options": [
-        "Reading someone's future from their DoorDash history",
-        "Reading someone's future from poop in a toilet",
-        "Reading someone's future from a bong's residue",
-        "Reading someone's future from their Clash deck"
+        "They would pay for the next recording session",
+        "They would be forced onto the production team",
+        "They would become the show's anonymous callers",
+        "They would have to host a solo apology episode"
       ],
       "answer": [
         1
       ],
-      "explanation": "Charlie wanted divination relocated to the bathroom: poop instead of the grounds, toilet instead of the cup. A new branch of the dark arts.",
+      "explanation": "One by one, the weak performers would be moved behind the scenes. Nathan named it exclusioncast; Jimmy predicted the excluded members would make a better podcast of their own.",
       "receipts": [
         {
-          "sender": "Charlie",
-          "date": "2024-07-26",
-          "text": "In prisoner of Azkaban where the lady reads your future with the coffee grounds and cup, they should have that in real life but it’s poop and a toilet"
+          "sender": "Nathan",
+          "date": "2025-01-03",
+          "text": "Imagine noodle podcast but we collectively weeded out who was good at it and who was bad at it and one by one forced the bad ones onto the production team"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2025-01-03",
+          "text": "And called it exclusioncast"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2025-01-03",
+          "text": "But then the exclusion cast made their own podcast that was better than the main"
         }
       ]
     },
     {
-      "id": "jacky-door-server-fans",
+      "id": "ronan-pop-spite-listening-backfire",
       "kind": "single",
-      "category": "Lore overload",
-      "title": "Even Jacky has a limit",
-      "prompt": "Nico remembered one exceptional occasion when Jacky shut his door during the daytime. What lore finally exhausted Jacky's open-door policy?",
+      "category": "Failed hating",
+      "title": "The investigation backfired",
+      "prompt": "Ronan started listening to pop songs because he was making fun of Jimmy's taste. How did that campaign end?",
       "options": [
-        "A frame-by-frame Naruto power-scaling lecture",
-        "A complete breakdown of a fantasy football draft",
-        "An explanation of every change to a Honda engine",
-        "Luke's new server fans"
+        "He made Jimmy a playlist of replacements",
+        "He challenged Jimmy to a blind listening test",
+        "He decided the songs were all the same",
+        "He kept listening and owed Jimmy an apology"
       ],
       "answer": [
         3
       ],
-      "explanation": "The server-fan lore finally closed the door. Jacky's defense: “I’m happy for him but it was too much”. He normally left the door open to invite distraction.",
+      "explanation": "He went in to hate and came out bumping Chappell. His public concession: “Jimmy i owe you an apology. This is meta”.",
       "receipts": [
         {
-          "sender": "Nico",
-          "date": "2025-02-13",
-          "text": "Bruh I remember there was only one time jacky ever shut his door during the daytime and it was cuz Luke would not shut the fuck up about the new fans he installed onto his server💀💀💀"
+          "sender": "Ronan",
+          "date": "2024-11-29",
+          "text": "I’ve been bumping chappel"
         },
         {
-          "sender": "Jacky",
-          "date": "2025-02-13",
-          "text": "I’m happy for him but it was too much"
+          "sender": "Ronan",
+          "date": "2024-11-29",
+          "text": "I was making fun of jimmy for listening to pop and shit but because i was making fun of him i listened to a couple of those kinds of songs and i’ve been jamming non stop since…"
         },
         {
-          "sender": "Jacky",
-          "date": "2025-02-13",
-          "text": "I always had the door open partially to invite distraction 💀"
+          "sender": "Ronan",
+          "date": "2024-11-29",
+          "text": "Jimmy i owe you an apology. This is meta"
         }
       ]
     },
     {
-      "id": "marketing-final-redbull-titos",
+      "id": "jimmy-employer-toilet-callback",
       "kind": "single",
-      "category": "Business visionaries",
-      "title": "A semester well spent",
-      "prompt": "Jimmy watched a marketing group's final pitch get gently dismantled by the professor, who said their entire product idea had been banned for years. What were they pitching?",
+      "category": "Professional development",
+      "title": "A challenging phone screen",
+      "prompt": "After a round of missed calls, a potential employer finally reached Jimmy. What was he trying to juggle during their five-minute conversation?",
       "options": [
-        "Red Bull mixed with Tito's",
-        "A vape that also works as an inhaler",
-        "Edible laundry detergent pods",
-        "A drive-through alcohol vending machine"
+        "Holding a poop halfway through",
+        "Getting his car through a wash",
+        "Finishing a set of squats",
+        "Escaping a barber's chair"
       ],
       "answer": [
         0
       ],
-      "explanation": "Red Bull mixed with Tito's. According to Jimmy, the professor was trying very hard to be nice while explaining why the semester's big idea couldn't work.",
+      "explanation": "The callback arrived after he sat down on the toilet. Jimmy described the resulting multitasking as “yo-yoing a dookie”.",
       "receipts": [
         {
           "sender": "Jimmy",
-          "date": "2022-05-09",
-          "text": "This marketing group did a presentation about a new product idea for Red Bull mixed with Tito’s and it was their final project for the semester and the professor was trying so hard to be nice when explaining that their entire idea was illegal and has been banned for years"
+          "date": "2024-08-02",
+          "text": "I didn’t answer a phone call cuz it was from a random town in Missouri but they texted after and said it was a job application I filled out and that’s just their corporate hq so I called back they didn’t answer so I’m like ok they’ll follow up soon but as I’m pooping they call back so I just spent 5 minutes on the phone with a potential employer yo-yoing a dookie"
         }
       ]
     },
     {
-      "id": "dimitri-art-criticism-red",
+      "id": "dopamine-stimulus-noodle-economists",
       "kind": "single",
-      "category": "Noodle criticism",
-      "title": "The balance was off",
-      "prompt": "Nathan remembered an art-museum trip where a painting was basically a blue smudge and a red smudge. What was Dimitri's critique?",
+      "category": "The Noodle economy",
+      "title": "An emergency stimulus",
+      "prompt": "Dimitri assigned Noodle's business and economics majors a special responsibility. What were they supposed to develop for the chat?",
       "options": [
-        "It needed a third smudge",
-        "The blue wasn't blue enough",
-        "There was too much red",
-        "They had hung it upside down"
+        "A central bank for Clash gems",
+        "A tariff on exclusion chats",
+        "Dopamine stimulus packages",
+        "An insurance market for failed congs"
       ],
       "answer": [
         2
       ],
-      "explanation": "“Yeah but there’s too much red😤”. Nathan said it blew his mind. Even the dumb art was cool.",
-      "receipts": [
-        {
-          "sender": "Nathan",
-          "date": "2024-03-14",
-          "text": "Dude I remember when we went to the art museum we were looking at some stupid ass modern art piece of a blue smudge on one side and a red smudge on the other side, and Dimitri’s was like “yeah but there’s too much red😤” and it blew my mind"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2024-03-14",
-          "text": "Even the dumb art was cool"
-        }
-      ]
-    },
-    {
-      "id": "jacky-dream-owen-traction",
-      "kind": "single",
-      "category": "Dream engineering",
-      "title": "Driver assistance",
-      "prompt": "In Jacky's dream, everyone was in a car that kept spinning out. What let Owen regain control almost immediately each time?",
-      "options": [
-        "A Mario Kart steering wheel",
-        "An AI chip in his head",
-        "Force sensitivity",
-        "A controller plugged into the dashboard"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "Not better tires. Dream Owen had an AI chip in his head, so the car could repeatedly spin out without ending the trip.",
-      "receipts": [
-        {
-          "sender": "Jacky",
-          "date": "2025-02-02",
-          "text": "Had this dream a couple days ago where we were all in a car and Owen was behind the wheel and we were spinning out like crazy but Owen had an ai chip in his head and was able to  regain control almost immediately after each spin out"
-        },
-        {
-          "sender": "Jacky",
-          "date": "2025-02-02",
-          "text": "Idk why I still remember dat"
-        }
-      ]
-    },
-    {
-      "id": "jimmy-grape-evacuation",
-      "kind": "single",
-      "category": "Environmental hazards",
-      "title": "Fruit of the doom",
-      "prompt": "Jimmy reported a fart so bad his mom left the room. What food did he blame?",
-      "options": [
-        "A protein shake",
-        "Chipotle",
-        "Grapes",
-        "Hard-boiled eggs"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "A “grape induced fart” cleared the room. Ben then announced his own separate plan to fart in the gym; Charlie advised caution.",
-      "receipts": [
-        {
-          "sender": "Jimmy",
-          "date": "2023-06-21",
-          "text": "Just accidentally had a grape induced fart and it was so bad that my mom left the room"
-        },
-        {
-          "sender": "Ben",
-          "date": "2023-06-21",
-          "text": "Gonna fart in the gym"
-        },
-        {
-          "sender": "Charlie",
-          "date": "2023-06-21",
-          "text": "Be careful"
-        }
-      ]
-    },
-    {
-      "id": "loreframe-fortnite-infringement",
-      "kind": "single",
-      "category": "Intellectual property",
-      "title": "They stole our ideas",
-      "prompt": "Zach accused a game of basically being Loreframe because it put every franchise together. Which game was infringing on Noodle's visionary concept?",
-      "options": [
-        "Fortnite",
-        "Super Smash Bros.",
-        "Roblox",
-        "Kingdom Hearts"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Fortnite's crossover empire was apparently just Loreframe with a budget. Zach's verdict: “they stole our ideas 💯”.",
-      "receipts": [
-        {
-          "sender": "Zach",
-          "date": "2023-11-01",
-          "text": "I was telling Nico this last week but fortnite is basically loreframe. It has every franchise in one, they stole our ideas 💯"
-        }
-      ]
-    },
-    {
-      "id": "golden-age-cubes-vs-pokemon",
-      "kind": "single",
-      "category": "Ancient Noodle",
-      "title": "The golden age debate",
-      "prompt": "During the chat's golden age, which debate with Jimmy belonged alongside the Naruto and cubing grind?",
-      "options": [
-        "Dubbed Naruto vs. subbed Naruto",
-        "Destiny vs. Clash Royale",
-        "Star Wars vs. Marvel",
-        "Pokémon vs. Star Wars"
-      ],
-      "answer": [
-        3
-      ],
-      "explanation": "Pokémon versus Star Wars. The golden age also had cube congregations, lore chakra energy and Naruto music. Nico agreed that the era was amazing.",
+      "explanation": "Their degrees were to be put toward dopamine stimulus packages. Nico rejected the leisurely timeline: “Eventually = now, need more dopamine”.",
       "receipts": [
         {
           "sender": "Dimitri",
-          "date": "2023-03-20",
-          "text": "Notable moments: Naruto grind chat wide, anime wizard obsession, Cubing grind lore, lore chakra energy, cube congregations, naruto music listening."
+          "date": "2022-03-30",
+          "text": "Eventually the buissnes and economics majors of noodle will b Responsible for devising dopamine stimulus packages for noodle chat"
         },
         {
           "sender": "Nico",
-          "date": "2023-03-20",
-          "text": "The golden age was so amazing"
+          "date": "2022-03-30",
+          "text": "Eventually = now, need more dopamine"
         }
       ]
     },
     {
-      "id": "nathan-bionicle-literary-prehistory",
+      "id": "asteroid-escape-branch-spaceship",
       "kind": "single",
-      "category": "Expanded universes",
-      "title": "It walked so he could walk",
-      "prompt": "Before Nathan's Star Wars writing, he had already built a whole universe of self-described poorly written lore around what?",
+      "category": "Dream transport",
+      "title": "Nico's aerospace division",
+      "prompt": "In Nathan's dream, Nico needed to escape an asteroid before the loan sharks arrived. What passed for his spaceship?",
       "options": [
-        "Destiny",
-        "Bionicle",
-        "Clash of Clans",
-        "Naruto"
+        "A shopping cart with ceiling fans",
+        "A hollowed-out Bionicle canister",
+        "A Honda with a fish tank over it",
+        "A bundle of branches and twigs"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "Nico threw a branch down and everyone instinctively accepted it as a spaceship. Awake Nico immediately claimed it as his Nimbus 2000.",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2025-04-01",
+          "text": "I had this dream where I was with Nico and his wife living on an asteroid with a weak ass atmosphere and it seemed like Nico was on the run which was reinforced by him eventually saying loan sharks were coming and he took out his space ship to leave but it was literally just a bundle of fucking sticks that we sat down on and it started levitating into space it was trippy as fuck"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2025-04-01",
+          "text": "Dude you literally took a fuckin branch with. Lot of side branches and twigs and shit from off a bush and threw it on the ground and we all just instinctually knew that was a space ship"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2025-04-01",
+          "text": "Fuckin dream logic"
+        },
+        {
+          "sender": "Nico",
+          "date": "2025-04-01",
+          "text": "My magical broom"
+        },
+        {
+          "sender": "Nico",
+          "date": "2025-04-01",
+          "text": "Nimbus 2000"
+        }
+      ]
+    },
+    {
+      "id": "poop-map-family-tracking-bit",
+      "kind": "single",
+      "category": "Family technology",
+      "title": "Life360 has competition",
+      "prompt": "Ben contrasted ordinary families using Life360 with the Stenger–Krohn family's supposed tracking system. What app did he nominate instead?",
+      "options": [
+        "Snap Map",
+        "Poop Map",
+        "Find My Xbox",
+        "Pokémon GO"
       ],
       "answer": [
         1
       ],
-      "explanation": "Bionicle. Nathan explained that this early universe walked so his Star Wars writing could… walk a little faster. “Originality do be hard”.",
+      "explanation": "Ben's family-tracking upgrade was Poop Map. Jimmy had just supplied the parental encouragement: “I’m very proud of you son, make sure you don’t flush”.",
       "receipts": [
         {
-          "sender": "Nathan",
-          "date": "2024-05-12",
-          "text": "Dude I had so much bionicle lore in my head in those days"
+          "sender": "Jimmy",
+          "date": "2023-06-25",
+          "text": "Omg dad look what I made today! “I’m very proud of you son, make sure you don’t flush”"
         },
         {
-          "sender": "Nathan",
-          "date": "2024-05-12",
-          "text": "Not only just the actual bionicle lore but like my own whole universe of poorly written lore"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2024-05-12",
-          "text": "That shit walked so that my SW writing could…walk a little faster"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2024-05-12",
-          "text": "Originality do be hard"
+          "sender": "Ben",
+          "date": "2023-06-25",
+          "text": "Average family: uses life360 or whatever that shit’s called\nStenger-Krohn family: poop map used to keep track of their kids"
         }
       ]
     },
     {
-      "id": "chipotle-two-ingredient-endgame",
+      "id": "charlie-cyberpunk-mood-lightening",
       "kind": "single",
-      "category": "Fine dining",
-      "title": "The bowl survived",
-      "prompt": "Jimmy's friend ordered a loaded Chipotle bowl through DoorDash. After the restaurant ran out of ingredients, what two things actually arrived in the bowl?",
+      "category": "Charlie interventions",
+      "title": "A valuable contribution",
+      "prompt": "A computer-security argument took a turn when Charlie started imagining a cyberpunk hacker breaking into a quantum computer. When questioned, how did he explain his contribution?",
       "options": [
-        "Black beans and shredded cheese",
-        "Guacamole and lettuce",
-        "Sour cream and white rice",
-        "Fajita vegetables and hot salsa"
+        "He was inventing cool scenarios to lighten the mood",
+        "He was translating a technical article for the rest of chat",
+        "He thought everyone was discussing a new video game",
+        "He was trying to demonstrate a real security vulnerability"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "He explicitly had nothing to contribute to the actual argument. The quantum-computer hacker was there to improve the atmosphere.",
+      "receipts": [
+        {
+          "sender": "Charlie",
+          "date": "2024-10-25",
+          "text": "Bro image a cyberpunk type world where someone was cracked enough to get into a quantum computer, that’d be so fricking cool"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2024-10-25",
+          "text": "Alright well now yur just being weird"
+        },
+        {
+          "sender": "Charlie",
+          "date": "2024-10-25",
+          "text": "I have nothing to contribute to the current convo so I’m just spewing creative and cool scenarios to lighten up the mood"
+        }
+      ]
+    },
+    {
+      "id": "noodle-bot-origin-message-database",
+      "kind": "single",
+      "category": "Before the bot",
+      "title": "The origin story was already there",
+      "prompt": "Back in 2023, what discovery made Zach announce that he should try making a Noodle bot?",
+      "options": [
+        "An old Discord bot with everyone's nicknames",
+        "A folder of transcribed voice messages",
+        "His iMessage database, readable through SQL",
+        "A spreadsheet of every group's inside jokes"
       ],
       "answer": [
         2
       ],
-      "explanation": "A bowl of sour cream and white rice. The container was doing more work than the kitchen.",
+      "explanation": "He found the iMessage database and could query his messages in SQL. He immediately started wondering whether ChatGPT could replicate the chat from a JSON file.",
       "receipts": [
         {
-          "sender": "Jimmy",
-          "date": "2022-09-15",
-          "text": "My boy just told me that he doordashed chipotle and ordered a bowl with a bunch of stuff in it and they were out of so much that all he got was a bowl of sour cream and white rice"
+          "sender": "Zach",
+          "date": "2023-01-21",
+          "text": "I should try and make a noodle bot. I found iMessage db file on my computer and was able to look at all my iMessages in sql 😂"
+        },
+        {
+          "sender": "Zach",
+          "date": "2023-01-21",
+          "text": "Edited to “I def think so 😂 I have a chat gpt opened rn asking about lore if I give it a JSON file with our gc data it can try and replicate it. ”"
+        }
+      ]
+    },
+    {
+      "id": "nico-dream-ten-colored-balls",
+      "kind": "single",
+      "category": "Noodle side quests",
+      "title": "The objective survived",
+      "prompt": "Nico forgot almost everything about an “op” dream, but remembered the mission all of Noodle was on. What were they trying to collect?",
+      "options": [
+        "Seven missing Rubik's cubes",
+        "Ten different-colored balls",
+        "Every member's lost Xbox controller",
+        "Twelve pieces of a broken lightsaber"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "Ten different-colored balls. Ronan immediately supplied his interpretation: “Infinity stones”. The rest of the dream was gone, but the fetch quest remained.",
+      "receipts": [
+        {
+          "sender": "Nico",
+          "date": "2022-04-08",
+          "text": "I had the most op dream I don’t remember any of the details but it was all of noodle going on a quest to find 10 different colored balls"
+        },
+        {
+          "sender": "Ronan",
+          "date": "2022-04-08",
+          "text": "Infinity stones"
+        }
+      ]
+    },
+    {
+      "id": "dark-knight-bank-robbery-cutoff",
+      "kind": "single",
+      "category": "Noodle cinema",
+      "title": "Two very different watch parties",
+      "prompt": "Nathan said his college friends would somehow put on The Dark Knight and watch the entire movie while drunk. How did Jacky's version of that ritual differ?",
+      "options": [
+        "They watched it backward to start with the best scenes",
+        "They muted it and supplied all the dialogue themselves",
+        "They only watched the scenes without Batman",
+        "They got sidetracked after the opening bank robbery"
+      ],
+      "answer": [
+        3
+      ],
+      "explanation": "Nathan's friends repeatedly completed the whole film. Jacky's group kept putting it on to drink, then getting distracted immediately after the bank robbery. An extremely short Dark Knight tradition.",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2024-10-04",
+          "text": "God I’ve “watched” dark knight a lot in the last year bc my friends always find a way to put that movie on and watch the whole thing when we get super fucked up but I haven’t rly sat down and enjoyed it in a while"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2024-10-04",
+          "text": "Bruh in college we would put it on and drink and we never get past anything after the bank robbery scene cuz we end up sidetracked"
         }
       ]
     }
