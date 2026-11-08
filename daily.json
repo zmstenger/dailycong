@@ -17,7 +17,6 @@
       "options": [
         "They would pay for the next recording session",
         "They would be forced onto the production team",
-        "They would become the show's anonymous callers",
         "They would have to host a solo apology episode"
       ],
       "answer": [
@@ -40,7 +39,11 @@
           "date": "2025-01-03",
           "text": "But then the exclusion cast made their own podcast that was better than the main"
         }
-      ]
+      ],
+      "legacyRemoved": {
+        "index": 2,
+        "text": "They would become the show's anonymous callers"
+      }
     },
     {
       "id": "ronan-pop-spite-listening-backfire",
@@ -51,11 +54,10 @@
       "options": [
         "He made Jimmy a playlist of replacements",
         "He challenged Jimmy to a blind listening test",
-        "He decided the songs were all the same",
         "He kept listening and owed Jimmy an apology"
       ],
       "answer": [
-        3
+        2
       ],
       "explanation": "He went in to hate and came out bumping Chappell. His public concession: “Jimmy i owe you an apology. This is meta”.",
       "receipts": [
@@ -74,7 +76,11 @@
           "date": "2024-11-29",
           "text": "Jimmy i owe you an apology. This is meta"
         }
-      ]
+      ],
+      "legacyRemoved": {
+        "index": 2,
+        "text": "He decided the songs were all the same"
+      }
     },
     {
       "id": "jimmy-employer-toilet-callback",
@@ -85,8 +91,7 @@
       "options": [
         "Holding a poop halfway through",
         "Getting his car through a wash",
-        "Finishing a set of squats",
-        "Escaping a barber's chair"
+        "Finishing a set of squats"
       ],
       "answer": [
         0
@@ -98,7 +103,11 @@
           "date": "2024-08-02",
           "text": "I didn’t answer a phone call cuz it was from a random town in Missouri but they texted after and said it was a job application I filled out and that’s just their corporate hq so I called back they didn’t answer so I’m like ok they’ll follow up soon but as I’m pooping they call back so I just spent 5 minutes on the phone with a potential employer yo-yoing a dookie"
         }
-      ]
+      ],
+      "legacyRemoved": {
+        "index": 3,
+        "text": "Escaping a barber's chair"
+      }
     },
     {
       "id": "dopamine-stimulus-noodle-economists",
@@ -107,13 +116,12 @@
       "title": "An emergency stimulus",
       "prompt": "Dimitri assigned Noodle's business and economics majors a special responsibility. What were they supposed to develop for the chat?",
       "options": [
-        "A central bank for Clash gems",
         "A tariff on exclusion chats",
         "Dopamine stimulus packages",
         "An insurance market for failed congs"
       ],
       "answer": [
-        2
+        1
       ],
       "explanation": "Their degrees were to be put toward dopamine stimulus packages. Nico rejected the leisurely timeline: “Eventually = now, need more dopamine”.",
       "receipts": [
@@ -127,7 +135,11 @@
           "date": "2022-03-30",
           "text": "Eventually = now, need more dopamine"
         }
-      ]
+      ],
+      "legacyRemoved": {
+        "index": 0,
+        "text": "A central bank for Clash gems"
+      }
     },
     {
       "id": "asteroid-escape-branch-spaceship",
@@ -137,12 +149,11 @@
       "prompt": "In Nathan's dream, Nico needed to escape an asteroid before the loan sharks arrived. What passed for his spaceship?",
       "options": [
         "A shopping cart with ceiling fans",
-        "A hollowed-out Bionicle canister",
         "A Honda with a fish tank over it",
         "A bundle of branches and twigs"
       ],
       "answer": [
-        3
+        2
       ],
       "explanation": "Nico threw a branch down and everyone instinctively accepted it as a spaceship. Awake Nico immediately claimed it as his Nimbus 2000.",
       "receipts": [
@@ -171,7 +182,11 @@
           "date": "2025-04-01",
           "text": "Nimbus 2000"
         }
-      ]
+      ],
+      "legacyRemoved": {
+        "index": 1,
+        "text": "A hollowed-out Bionicle canister"
+      }
     },
     {
       "id": "poop-map-family-tracking-bit",
@@ -182,7 +197,6 @@
       "options": [
         "Snap Map",
         "Poop Map",
-        "Find My Xbox",
         "Pokémon GO"
       ],
       "answer": [
@@ -200,7 +214,11 @@
           "date": "2023-06-25",
           "text": "Average family: uses life360 or whatever that shit’s called\nStenger-Krohn family: poop map used to keep track of their kids"
         }
-      ]
+      ],
+      "legacyRemoved": {
+        "index": 2,
+        "text": "Find My Xbox"
+      }
     },
     {
       "id": "charlie-cyberpunk-mood-lightening",
@@ -211,7 +229,6 @@
       "options": [
         "He was inventing cool scenarios to lighten the mood",
         "He was translating a technical article for the rest of chat",
-        "He thought everyone was discussing a new video game",
         "He was trying to demonstrate a real security vulnerability"
       ],
       "answer": [
@@ -234,7 +251,11 @@
           "date": "2024-10-25",
           "text": "I have nothing to contribute to the current convo so I’m just spewing creative and cool scenarios to lighten up the mood"
         }
-      ]
+      ],
+      "legacyRemoved": {
+        "index": 2,
+        "text": "He thought everyone was discussing a new video game"
+      }
     },
     {
       "id": "noodle-bot-origin-message-database",
@@ -244,12 +265,11 @@
       "prompt": "Back in 2023, what discovery made Zach announce that he should try making a Noodle bot?",
       "options": [
         "An old Discord bot with everyone's nicknames",
-        "A folder of transcribed voice messages",
         "His iMessage database, readable through SQL",
         "A spreadsheet of every group's inside jokes"
       ],
       "answer": [
-        2
+        1
       ],
       "explanation": "He found the iMessage database and could query his messages in SQL. He immediately started wondering whether ChatGPT could replicate the chat from a JSON file.",
       "receipts": [
@@ -263,7 +283,11 @@
           "date": "2023-01-21",
           "text": "Edited to “I def think so 😂 I have a chat gpt opened rn asking about lore if I give it a JSON file with our gc data it can try and replicate it. ”"
         }
-      ]
+      ],
+      "legacyRemoved": {
+        "index": 1,
+        "text": "A folder of transcribed voice messages"
+      }
     },
     {
       "id": "nico-dream-ten-colored-balls",
@@ -272,13 +296,12 @@
       "title": "The objective survived",
       "prompt": "Nico forgot almost everything about an “op” dream, but remembered the mission all of Noodle was on. What were they trying to collect?",
       "options": [
-        "Seven missing Rubik's cubes",
         "Ten different-colored balls",
         "Every member's lost Xbox controller",
         "Twelve pieces of a broken lightsaber"
       ],
       "answer": [
-        1
+        0
       ],
       "explanation": "Ten different-colored balls. Ronan immediately supplied his interpretation: “Infinity stones”. The rest of the dream was gone, but the fetch quest remained.",
       "receipts": [
@@ -292,7 +315,11 @@
           "date": "2022-04-08",
           "text": "Infinity stones"
         }
-      ]
+      ],
+      "legacyRemoved": {
+        "index": 0,
+        "text": "Seven missing Rubik's cubes"
+      }
     },
     {
       "id": "dark-knight-bank-robbery-cutoff",
@@ -301,13 +328,12 @@
       "title": "Two very different watch parties",
       "prompt": "Nathan said his college friends would somehow put on The Dark Knight and watch the entire movie while drunk. How did Jacky's version of that ritual differ?",
       "options": [
-        "They watched it backward to start with the best scenes",
         "They muted it and supplied all the dialogue themselves",
         "They only watched the scenes without Batman",
         "They got sidetracked after the opening bank robbery"
       ],
       "answer": [
-        3
+        2
       ],
       "explanation": "Nathan's friends repeatedly completed the whole film. Jacky's group kept putting it on to drink, then getting distracted immediately after the bank robbery. An extremely short Dark Knight tradition.",
       "receipts": [
@@ -321,7 +347,11 @@
           "date": "2024-10-04",
           "text": "Bruh in college we would put it on and drink and we never get past anything after the bank robbery scene cuz we end up sidetracked"
         }
-      ]
+      ],
+      "legacyRemoved": {
+        "index": 0,
+        "text": "They watched it backward to start with the best scenes"
+      }
     }
   ]
 }

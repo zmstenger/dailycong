@@ -9,13 +9,21 @@ export function correct(q,a){return a.length===q.answer.length&&[...a].sort((x,y
 export function validateQuiz(qz){
  if(!qz||!/^\d{4}-\d{2}-\d{2}$/.test(qz.date)||!Number.isInteger(qz.edition)||!Array.isArray(qz.questions)||qz.questions.length!==10)throw Error('Invalid daily edition');
  const ids=new Set();for(const q of qz.questions){
-  if(!q.id||ids.has(q.id)||!['single','multiple'].includes(q.kind)||!Array.isArray(q.options)||q.options.length<4||q.options.length>5||new Set(q.options).size!==q.options.length||!Array.isArray(q.answer)||q.answer.length!==(q.kind==='multiple'?2:1)||new Set(q.answer).size!==q.answer.length||!q.answer.every(a=>Number.isInteger(a)&&a>=0&&a<q.options.length)||!q.receipts?.length||![q.title,q.prompt,q.explanation,q.category,...q.options].every(s=>typeof s==='string'&&s.length))throw Error('Invalid question');ids.add(q.id);
+  if(!q.id||ids.has(q.id)||!['single','multiple'].includes(q.kind)||!Array.isArray(q.options)||q.options.length!==3||new Set(q.options).size!==q.options.length||!Array.isArray(q.answer)||q.answer.length!==(q.kind==='multiple'?2:1)||new Set(q.answer).size!==q.answer.length||!q.answer.every(a=>Number.isInteger(a)&&a>=0&&a<q.options.length)||!q.receipts?.length||![q.title,q.prompt,q.explanation,q.category,...q.options].every(s=>typeof s==='string'&&s.length))throw Error('Invalid question');ids.add(q.id);
  }return qz;
 }
-export function newRecord(q){return {date:q.date,ids:q.questions.map(q=>q.id),answers:[],finishedAt:null};}
+export function newRecord(q){return {date:q.date,ids:q.questions.map(q=>q.id),optionSchema:3,answers:[],finishedAt:null};}
+export function migrateOptions(q,r){
+ if(!r||r.optionSchema===3||r.date!==q.date||JSON.stringify(r.ids)!==JSON.stringify(q.questions.map(q=>q.id))||!Array.isArray(r.answers)||r.answers.length>10)return r;
+ if(!q.questions.every(x=>x.options.length===3&&x.legacyRemoved))return r;
+ if(!r.answers.every(a=>Array.isArray(a)&&a.length===1&&Number.isInteger(a[0])&&a[0]>=0&&a[0]<4))return r;
+ const removedSelections={};
+ const next={...r,optionSchema:3,answers:r.answers.map((a,i)=>{const removed=q.questions[i].legacyRemoved;if(a[0]===removed.index){removedSelections[i]=removed.text;return [-1];}return [a[0]>removed.index?a[0]-1:a[0]];})};
+ return {...next,legacySelections:removedSelections};
+}
 export function validRecord(q,r){
  if(!r||r.date!==q.date||JSON.stringify(r.ids)!==JSON.stringify(q.questions.map(q=>q.id))||!Array.isArray(r.answers)||r.answers.length>10)return false;
- return r.answers.every((a,i)=>Array.isArray(a)&&new Set(a).size===a.length&&a.length===q.questions[i].answer.length&&a.every(v=>Number.isInteger(v)&&v>=0&&v<q.questions[i].options.length));
+ return r.answers.every((a,i)=>Array.isArray(a)&&new Set(a).size===a.length&&a.length===q.questions[i].answer.length&&a.every(v=>Number.isInteger(v)&&((v>=0&&v<q.questions[i].options.length)||(v===-1&&r.optionSchema===3&&q.questions[i].legacyRemoved&&r.legacySelections?.[i]===q.questions[i].legacyRemoved.text))));
 }
 export function points(q,r){return r.answers.reduce((n,a,i)=>n+Number(correct(q.questions[i],a)),0);}
 export function statistics(history,today){
