@@ -32,86 +32,91 @@
       ]
     },
     {
-      "id": "nathan-berea-airport-vocabulary",
+      "id": "noodle-points-buy-censorship",
       "kind": "single",
-      "category": "Geographical discoveries",
-      "title": "A college education finally paid off",
-      "prompt": "Nathan had already graduated college when he learned Berea was a town. What had he thought the word meant?",
+      "category": "The Noodle economy",
+      "title": "Betting with consequences",
+      "prompt": "Nathan proposed betting on what chat members would say or do. What could you buy once you'd earned enough Noodle points?",
       "options": [
-        "A special lane reserved for airport buses",
-        "An abbreviation for baggage-reclaim area",
-        "A fancy airport word for the central plaza"
+        "The right to rename everyone's contacts",
+        "A guaranteed plus-one at the next cong",
+        "Someone's removal or censorship for the day"
       ],
       "answer": [
         2
       ],
-      "explanation": "Berea had apparently been an airport feature all along. Only after college did Nathan realize the road signs referred to a town.",
+      "explanation": "The winnings weren't money—they were the power to remove or censor a friend. Jimmy immediately proposed betting two days of removal that he could make Jacky mad in one text.",
       "receipts": [
         {
           "sender": "Nathan",
-          "date": "2024-08-19",
-          "text": "I had graduated college before I realized Berea was the name of some town on the same interstate route as the airport and not a fancy airport word for central plaza"
+          "date": "2024-04-19",
+          "text": "We should start making betting lines on what ppl r gonna say or do and the monetary reward is noodle points and once u accumulate enough points u can spend them to have someone in chat be removed or completely censored for the day"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2024-04-19",
+          "text": "“I bet 2 days of removal that I can make Jacky mad in one text”\n*Star Wars sucks JJK overrated Dark Souls sucks AOT mid*"
         }
       ]
     },
     {
-      "id": "ben-ddr-remote-without-batteries",
+      "id": "noodle-complex-lego-star-wars-museum",
       "kind": "single",
-      "category": "School revelations",
-      "title": "The illusion of control",
-      "prompt": "Looking back at Dance Dance Revolution in Boulevard gym class, what did Ben conclude they'd been getting the whole time?",
+      "category": "Noodle urban planning",
+      "title": "The complete development",
+      "prompt": "Ben expanded the Noodle TikTok house into a gym-and-restaurant complex serving Quinn's spicy meatballs. What museum was also going next door?",
       "options": [
-        "The same song on repeat with a different title",
-        "The unplugged-controller treatment",
-        "A prerecorded leaderboard full of teachers"
+        "A museum of every Noodle dad",
+        "A LEGO Star Wars museum",
+        "A museum of retired Xbox controllers"
       ],
       "answer": [
         1
       ],
-      "explanation": "Ben compared it to handing somebody a remote with no batteries. They'd been dancing for no reason; Nico called it inflating their egos at a young age.",
+      "explanation": "A LEGO Star Wars museum completed the district. The neighboring restaurant had Quinn's spicy meatballs; Jimmy expanded the menu with Dan Rigatoni and Marc Alfredo.",
       "receipts": [
         {
           "sender": "Ben",
-          "date": "2023-01-05",
-          "text": "Just remembered dance dance revolution during gym class at boulevard and realized the whole time we were getting the remote w no batteries treatment and were dancing for no reason lol"
+          "date": "2022-12-26",
+          "text": "What if noodle opened a gym next to the noodle tiktok house"
         },
         {
-          "sender": "Nico",
-          "date": "2023-01-05",
-          "text": "Inflating our egos at a young age"
+          "sender": "Ben",
+          "date": "2022-12-26",
+          "text": "Noodle restaurant w quinn’s spicy meatballs next to hype house next to gym next to lego star wars museum"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2022-12-26",
+          "text": "We have the suspiciously Italian special of Dan Rigatoni served with fresh Marc Alfredo sauce"
         }
       ]
     },
     {
-      "id": "nathan-dinosaur-novel-bread-escalation",
+      "id": "nico-joke-sword-auction",
       "kind": "single",
-      "category": "Noodle literature",
-      "title": "The stakes were rising",
-      "prompt": "In Nathan's novel about kids who could turn into dinosaurs, what crisis led the characters to kill dinosaurs and eat them?",
+      "category": "Expensive bits",
+      "title": "The auctioneer didn't know it was ironic",
+      "prompt": "How did Nico nearly turn a joke into a $160 sword purchase?",
       "options": [
-        "Someone offered bread, but it wasn't enough",
-        "They needed to prove they weren't herbivores",
-        "Their dinosaur forms wouldn't eat human food"
+        "He raised his hand at an actual auction",
+        "He dared a friend to order one with his card",
+        "He mistook the buy button for a wish list"
       ],
       "answer": [
         0
       ],
-      "explanation": "“I’m still hungry.” “I have some bread.” The narrator announced that it wasn't enough, so a dinosaur hunt followed. His lengthy novel was six pages with four chapters.",
+      "explanation": "The sword was at $150, and Nico jokingly bid $160. The joke nearly cost him $160 before somebody else offered $170. Aidan confirmed it was funny.",
       "receipts": [
         {
-          "sender": "Nathan",
-          "date": "2024-08-13",
-          "text": "I wrote a lengthy novel (it was 6 pages with 4 chapters) about kids that were somehow in the Jurassic age that could also somehow turn into dinosaurs"
+          "sender": "Nico",
+          "date": "2024-08-12",
+          "text": "Bruh there was an auction for a sword and it was at $150 and I jokingly raised my hand for $160 and it almost sold before some guy did $170"
         },
         {
-          "sender": "Nathan",
-          "date": "2024-08-13",
-          "text": "I remember one part “I’m still hungry”\n“I have some bread”\nNarrator: but it wasn’t enough"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2024-08-13",
-          "text": "So then they went and killed dinosaurs and ate them"
+          "sender": "Aidan",
+          "date": "2024-08-12",
+          "text": "It was so funny"
         }
       ]
     },
@@ -139,45 +144,30 @@
       ]
     },
     {
-      "id": "nico-tree-exam-winter-sticks",
+      "id": "dimitri-reaction-based-text-allowance",
       "kind": "single",
-      "category": "Academic design flaws",
-      "title": "Nature withheld the study guide",
-      "prompt": "Nico's plant exams required him to identify trees by their leaves. What problem did he suddenly realize he was facing?",
+      "category": "Noodle governance",
+      "title": "Earn your next message",
+      "prompt": "Dimitri proposed that chat members shouldn't all get the same freedom to keep texting. What would determine your text allowance?",
       "options": [
-        "The course used trees that only grew overseas",
-        "It was winter, so he had to identify bare sticks",
-        "The exam photos had all been printed in black and white"
+        "How many congs you had hosted",
+        "How many reactions your messages got",
+        "How long you'd been in Noodle"
       ],
       "answer": [
         1
       ],
-      "explanation": "“I just gotta look at the sticks and know”. Jacky asked what more they wanted from a stick; Johannes supplied the Minecraft tree catalog, and Ronan added acacia.",
+      "explanation": "Your allowance would depend on the reactions you earned. Jimmy immediately endorsed turning the chat into a performance-based texting economy.",
       "receipts": [
         {
-          "sender": "Nico",
-          "date": "2022-11-17",
-          "text": "Holy fuck I just realized this. For my plant exams you need to look at the leaves to identify what tree it is but it’s winter time so all the leaves are gone"
+          "sender": "Dimitri",
+          "date": "2023-12-08",
+          "text": "I’d like see a system in noodle where the amount of texts ur allowed is tied to how many reactions u get"
         },
         {
-          "sender": "Nico",
-          "date": "2022-11-17",
-          "text": "I just gotta look at the sticks and know"
-        },
-        {
-          "sender": "Johannes",
-          "date": "2022-11-17",
-          "text": "It’s all birtch, oak, dark oak and jungle wood"
-        },
-        {
-          "sender": "Jacky",
-          "date": "2022-11-17",
-          "text": "It’s a fucking stick what more do they want"
-        },
-        {
-          "sender": "Ronan",
-          "date": "2022-11-17",
-          "text": "Acacia"
+          "sender": "Jimmy",
+          "date": "2023-12-08",
+          "text": "That’d be so op"
         }
       ]
     },
@@ -210,40 +200,40 @@
       ]
     },
     {
-      "id": "charlie-multiple-apps-zach-simulator",
+      "id": "jim-sr-internship-reference-loophole",
       "kind": "single",
-      "category": "Charlie inventions",
-      "title": "The technology already exists",
-      "prompt": "Charlie proposed using multiple phone apps at once on a bigger Mac screen. How did Zach respond to this technological vision?",
+      "category": "Career development",
+      "title": "The reference checks out",
+      "prompt": "Dimitri wanted to put a Jim Sr. internship on his résumé and use Jimmy as the reference. What was the loophole?",
       "options": [
-        "He could already do it with multiple iOS simulators",
-        "He suggested buying a separate phone for each app",
-        "He said it would require a quantum computer"
+        "Jimmy had already written the recommendation",
+        "The reference form didn't allow phone calls",
+        "Jimmy was technically also Jim Sammon"
       ],
       "answer": [
-        0
+        2
       ],
-      "explanation": "Zach could already run multiple iOS simulator instances. Charlie's response was “wtf”; Nico explained the underlying ambition as “For more stim”.",
+      "explanation": "Dimitri proposed giving them Jimmy's number because he was technically Jim Sammon too. Zach agreed: it was still Jim Sammon. Extremely rigorous reference checking.",
       "receipts": [
         {
-          "sender": "Charlie",
-          "date": "2025-02-19",
-          "text": "So you know how you can mirror ur phone on ur Mac, Zach and Ronan, what if you could simulate multiple apps on ur bigger screen at once"
+          "sender": "Dimitri",
+          "date": "2022-09-28",
+          "text": "I gotta add the Jim sr internship Fr"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2022-09-28",
+          "text": "Give them jimmy number as reference technically is Jim Sammon"
         },
         {
           "sender": "Zach",
-          "date": "2025-02-19",
-          "text": "I can do that with multiple instances of an iOS simulator lol"
+          "date": "2022-09-28",
+          "text": "😂😂😂"
         },
         {
-          "sender": "Charlie",
-          "date": "2025-02-19",
-          "text": "wtf"
-        },
-        {
-          "sender": "Nico",
-          "date": "2025-02-19",
-          "text": "For more stim"
+          "sender": "Zach",
+          "date": "2022-09-28",
+          "text": "Tru is Jim sammon still"
         }
       ]
     },
@@ -276,25 +266,35 @@
       ]
     },
     {
-      "id": "zach-guinness-apply-to-break-record",
+      "id": "nico-poggio-gym-food-greetings",
       "kind": "single",
-      "category": "Unfortunate interfaces",
-      "title": "Maybe hide that button",
-      "prompt": "Zach landed on the Guinness World Records page for most murders committed. What perfectly routine website button became incredibly unfortunate in that context?",
+      "category": "Instant cultural exchange",
+      "title": "He learned one fact about Nico",
+      "prompt": "After Nico told an older guy at the gym his surname was Poggio, what did the guy's greetings turn into?",
       "options": [
-        "Apply to break record",
-        "Find an event near you",
-        "Invite your friends"
+        "Nico's full name followed by Italian foods",
+        "Requests for tips on his bench press",
+        "Questions about whether he knew Mario"
       ],
       "answer": [
         0
       ],
-      "explanation": "The page apparently offered an “Apply to break record” button. Not every record page needs the same call to action.",
+      "explanation": "“Nico Poggio!” followed by Italian foods. Nico supplied examples: “Pizza pasta!” and “I’ll see you at the pizza stand!”.",
       "receipts": [
         {
-          "sender": "Zach",
-          "date": "2022-10-13",
-          "text": "I was reading lore last night and found myself on the Guinness book of world record page for most murders committed and I saw a button that said “Apply to break record” 😭😭😭"
+          "sender": "Nico",
+          "date": "2025-03-29",
+          "text": "I told this old head at the gym that my last name was Poggio and the only things he’s said after that is “Nico Poggio!” Followed by Italian foods"
+        },
+        {
+          "sender": "Nico",
+          "date": "2025-03-29",
+          "text": "Pizza pasta!"
+        },
+        {
+          "sender": "Nico",
+          "date": "2025-03-29",
+          "text": "I’ll see you at the pizza stand!"
         }
       ]
     }
