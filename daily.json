@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-08",
-  "edition": 3,
+  "date": "2026-11-09",
+  "edition": 4,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,349 +9,294 @@
   },
   "questions": [
     {
-      "id": "exclusioncast-production-demotions",
+      "id": "jimmy-dog-snowball-cleanup",
       "kind": "single",
-      "category": "Noodle media empire",
-      "title": "Survivor: podcast edition",
-      "prompt": "Nathan's Noodle podcast had a built-in elimination system. What would happen to members who turned out to be bad on the mic?",
+      "category": "Innovative solutions",
+      "title": "A hands-off approach",
+      "prompt": "The dog Jimmy was watching had a huge dingleberry, and he wouldn't let her back inside until it was gone. What was his improvised removal method?",
       "options": [
-        "They would pay for the next recording session",
-        "They would be forced onto the production team",
-        "They would have to host a solo apology episode"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "One by one, the weak performers would be moved behind the scenes. Nathan named it exclusioncast; Jimmy predicted the excluded members would make a better podcast of their own.",
-      "receipts": [
-        {
-          "sender": "Nathan",
-          "date": "2025-01-03",
-          "text": "Imagine noodle podcast but we collectively weeded out who was good at it and who was bad at it and one by one forced the bad ones onto the production team"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2025-01-03",
-          "text": "And called it exclusioncast"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2025-01-03",
-          "text": "But then the exclusion cast made their own podcast that was better than the main"
-        }
-      ],
-      "legacyRemoved": {
-        "index": 2,
-        "text": "They would become the show's anonymous callers"
-      }
-    },
-    {
-      "id": "ronan-pop-spite-listening-backfire",
-      "kind": "single",
-      "category": "Failed hating",
-      "title": "The investigation backfired",
-      "prompt": "Ronan started listening to pop songs because he was making fun of Jimmy's taste. How did that campaign end?",
-      "options": [
-        "He made Jimmy a playlist of replacements",
-        "He challenged Jimmy to a blind listening test",
-        "He kept listening and owed Jimmy an apology"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "He went in to hate and came out bumping Chappell. His public concession: “Jimmy i owe you an apology. This is meta”.",
-      "receipts": [
-        {
-          "sender": "Ronan",
-          "date": "2024-11-29",
-          "text": "I’ve been bumping chappel"
-        },
-        {
-          "sender": "Ronan",
-          "date": "2024-11-29",
-          "text": "I was making fun of jimmy for listening to pop and shit but because i was making fun of him i listened to a couple of those kinds of songs and i’ve been jamming non stop since…"
-        },
-        {
-          "sender": "Ronan",
-          "date": "2024-11-29",
-          "text": "Jimmy i owe you an apology. This is meta"
-        }
-      ],
-      "legacyRemoved": {
-        "index": 2,
-        "text": "He decided the songs were all the same"
-      }
-    },
-    {
-      "id": "jimmy-employer-toilet-callback",
-      "kind": "single",
-      "category": "Professional development",
-      "title": "A challenging phone screen",
-      "prompt": "After a round of missed calls, a potential employer finally reached Jimmy. What was he trying to juggle during their five-minute conversation?",
-      "options": [
-        "Holding a poop halfway through",
-        "Getting his car through a wash",
-        "Finishing a set of squats"
+        "Throwing snowballs at it",
+        "Getting her to sit on a sled",
+        "Leading her through a sprinkler"
       ],
       "answer": [
         0
       ],
-      "explanation": "The callback arrived after he sat down on the toilet. Jimmy described the resulting multitasking as “yo-yoing a dookie”.",
+      "explanation": "He resorted to throwing snowballs at it. The dog hadn't even noticed the problem, but Jimmy had already developed a ranged solution.",
       "receipts": [
         {
           "sender": "Jimmy",
-          "date": "2024-08-02",
-          "text": "I didn’t answer a phone call cuz it was from a random town in Missouri but they texted after and said it was a job application I filled out and that’s just their corporate hq so I called back they didn’t answer so I’m like ok they’ll follow up soon but as I’m pooping they call back so I just spent 5 minutes on the phone with a potential employer yo-yoing a dookie"
+          "date": "2022-12-28",
+          "text": "Bruh the dog I’m watching has a huge dingleberry and doesn’t notice it I can’t let her inside til I somehow remove it so I’ve been throwing snowballs at it😭"
         }
-      ],
-      "legacyRemoved": {
-        "index": 3,
-        "text": "Escaping a barber's chair"
-      }
+      ]
     },
     {
-      "id": "dopamine-stimulus-noodle-economists",
+      "id": "nathan-berea-airport-vocabulary",
       "kind": "single",
-      "category": "The Noodle economy",
-      "title": "An emergency stimulus",
-      "prompt": "Dimitri assigned Noodle's business and economics majors a special responsibility. What were they supposed to develop for the chat?",
+      "category": "Geographical discoveries",
+      "title": "A college education finally paid off",
+      "prompt": "Nathan had already graduated college when he learned Berea was a town. What had he thought the word meant?",
       "options": [
-        "A tariff on exclusion chats",
-        "Dopamine stimulus packages",
-        "An insurance market for failed congs"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "Their degrees were to be put toward dopamine stimulus packages. Nico rejected the leisurely timeline: “Eventually = now, need more dopamine”.",
-      "receipts": [
-        {
-          "sender": "Dimitri",
-          "date": "2022-03-30",
-          "text": "Eventually the buissnes and economics majors of noodle will b Responsible for devising dopamine stimulus packages for noodle chat"
-        },
-        {
-          "sender": "Nico",
-          "date": "2022-03-30",
-          "text": "Eventually = now, need more dopamine"
-        }
-      ],
-      "legacyRemoved": {
-        "index": 0,
-        "text": "A central bank for Clash gems"
-      }
-    },
-    {
-      "id": "asteroid-escape-branch-spaceship",
-      "kind": "single",
-      "category": "Dream transport",
-      "title": "Nico's aerospace division",
-      "prompt": "In Nathan's dream, Nico needed to escape an asteroid before the loan sharks arrived. What passed for his spaceship?",
-      "options": [
-        "A shopping cart with ceiling fans",
-        "A Honda with a fish tank over it",
-        "A bundle of branches and twigs"
+        "A special lane reserved for airport buses",
+        "An abbreviation for baggage-reclaim area",
+        "A fancy airport word for the central plaza"
       ],
       "answer": [
         2
       ],
-      "explanation": "Nico threw a branch down and everyone instinctively accepted it as a spaceship. Awake Nico immediately claimed it as his Nimbus 2000.",
+      "explanation": "Berea had apparently been an airport feature all along. Only after college did Nathan realize the road signs referred to a town.",
       "receipts": [
         {
           "sender": "Nathan",
-          "date": "2025-04-01",
-          "text": "I had this dream where I was with Nico and his wife living on an asteroid with a weak ass atmosphere and it seemed like Nico was on the run which was reinforced by him eventually saying loan sharks were coming and he took out his space ship to leave but it was literally just a bundle of fucking sticks that we sat down on and it started levitating into space it was trippy as fuck"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2025-04-01",
-          "text": "Dude you literally took a fuckin branch with. Lot of side branches and twigs and shit from off a bush and threw it on the ground and we all just instinctually knew that was a space ship"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2025-04-01",
-          "text": "Fuckin dream logic"
-        },
-        {
-          "sender": "Nico",
-          "date": "2025-04-01",
-          "text": "My magical broom"
-        },
-        {
-          "sender": "Nico",
-          "date": "2025-04-01",
-          "text": "Nimbus 2000"
+          "date": "2024-08-19",
+          "text": "I had graduated college before I realized Berea was the name of some town on the same interstate route as the airport and not a fancy airport word for central plaza"
         }
-      ],
-      "legacyRemoved": {
-        "index": 1,
-        "text": "A hollowed-out Bionicle canister"
-      }
+      ]
     },
     {
-      "id": "poop-map-family-tracking-bit",
+      "id": "ben-ddr-remote-without-batteries",
       "kind": "single",
-      "category": "Family technology",
-      "title": "Life360 has competition",
-      "prompt": "Ben contrasted ordinary families using Life360 with the Stenger–Krohn family's supposed tracking system. What app did he nominate instead?",
+      "category": "School revelations",
+      "title": "The illusion of control",
+      "prompt": "Looking back at Dance Dance Revolution in Boulevard gym class, what did Ben conclude they'd been getting the whole time?",
       "options": [
-        "Snap Map",
-        "Poop Map",
-        "Pokémon GO"
+        "The same song on repeat with a different title",
+        "The unplugged-controller treatment",
+        "A prerecorded leaderboard full of teachers"
       ],
       "answer": [
         1
       ],
-      "explanation": "Ben's family-tracking upgrade was Poop Map. Jimmy had just supplied the parental encouragement: “I’m very proud of you son, make sure you don’t flush”.",
+      "explanation": "Ben compared it to handing somebody a remote with no batteries. They'd been dancing for no reason; Nico called it inflating their egos at a young age.",
       "receipts": [
-        {
-          "sender": "Jimmy",
-          "date": "2023-06-25",
-          "text": "Omg dad look what I made today! “I’m very proud of you son, make sure you don’t flush”"
-        },
         {
           "sender": "Ben",
-          "date": "2023-06-25",
-          "text": "Average family: uses life360 or whatever that shit’s called\nStenger-Krohn family: poop map used to keep track of their kids"
+          "date": "2023-01-05",
+          "text": "Just remembered dance dance revolution during gym class at boulevard and realized the whole time we were getting the remote w no batteries treatment and were dancing for no reason lol"
+        },
+        {
+          "sender": "Nico",
+          "date": "2023-01-05",
+          "text": "Inflating our egos at a young age"
         }
-      ],
-      "legacyRemoved": {
-        "index": 2,
-        "text": "Find My Xbox"
-      }
+      ]
     },
     {
-      "id": "charlie-cyberpunk-mood-lightening",
+      "id": "nathan-dinosaur-novel-bread-escalation",
       "kind": "single",
-      "category": "Charlie interventions",
-      "title": "A valuable contribution",
-      "prompt": "A computer-security argument took a turn when Charlie started imagining a cyberpunk hacker breaking into a quantum computer. When questioned, how did he explain his contribution?",
+      "category": "Noodle literature",
+      "title": "The stakes were rising",
+      "prompt": "In Nathan's novel about kids who could turn into dinosaurs, what crisis led the characters to kill dinosaurs and eat them?",
       "options": [
-        "He was inventing cool scenarios to lighten the mood",
-        "He was translating a technical article for the rest of chat",
-        "He was trying to demonstrate a real security vulnerability"
+        "Someone offered bread, but it wasn't enough",
+        "They needed to prove they weren't herbivores",
+        "Their dinosaur forms wouldn't eat human food"
       ],
       "answer": [
         0
       ],
-      "explanation": "He explicitly had nothing to contribute to the actual argument. The quantum-computer hacker was there to improve the atmosphere.",
+      "explanation": "“I’m still hungry.” “I have some bread.” The narrator announced that it wasn't enough, so a dinosaur hunt followed. His lengthy novel was six pages with four chapters.",
       "receipts": [
         {
-          "sender": "Charlie",
-          "date": "2024-10-25",
-          "text": "Bro image a cyberpunk type world where someone was cracked enough to get into a quantum computer, that’d be so fricking cool"
+          "sender": "Nathan",
+          "date": "2024-08-13",
+          "text": "I wrote a lengthy novel (it was 6 pages with 4 chapters) about kids that were somehow in the Jurassic age that could also somehow turn into dinosaurs"
         },
         {
           "sender": "Nathan",
-          "date": "2024-10-25",
-          "text": "Alright well now yur just being weird"
+          "date": "2024-08-13",
+          "text": "I remember one part “I’m still hungry”\n“I have some bread”\nNarrator: but it wasn’t enough"
         },
         {
-          "sender": "Charlie",
-          "date": "2024-10-25",
-          "text": "I have nothing to contribute to the current convo so I’m just spewing creative and cool scenarios to lighten up the mood"
+          "sender": "Nathan",
+          "date": "2024-08-13",
+          "text": "So then they went and killed dinosaurs and ate them"
         }
-      ],
-      "legacyRemoved": {
-        "index": 2,
-        "text": "He thought everyone was discussing a new video game"
-      }
+      ]
     },
     {
-      "id": "noodle-bot-origin-message-database",
+      "id": "jimmy-migos-car-beeping",
       "kind": "single",
-      "category": "Before the bot",
-      "title": "The origin story was already there",
-      "prompt": "Back in 2023, what discovery made Zach announce that he should try making a Noodle bot?",
+      "category": "Automotive diagnostics",
+      "title": "The check-engine playlist",
+      "prompt": "Jimmy thought something was seriously wrong with his car. What turned out to be causing the alarming beeps?",
       "options": [
-        "An old Discord bot with everyone's nicknames",
-        "His iMessage database, readable through SQL",
-        "A spreadsheet of every group's inside jokes"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "He found the iMessage database and could query his messages in SQL. He immediately started wondering whether ChatGPT could replicate the chat from a JSON file.",
-      "receipts": [
-        {
-          "sender": "Zach",
-          "date": "2023-01-21",
-          "text": "I should try and make a noodle bot. I found iMessage db file on my computer and was able to look at all my iMessages in sql 😂"
-        },
-        {
-          "sender": "Zach",
-          "date": "2023-01-21",
-          "text": "Edited to “I def think so 😂 I have a chat gpt opened rn asking about lore if I give it a JSON file with our gc data it can try and replicate it. ”"
-        }
-      ],
-      "legacyRemoved": {
-        "index": 1,
-        "text": "A folder of transcribed voice messages"
-      }
-    },
-    {
-      "id": "nico-dream-ten-colored-balls",
-      "kind": "single",
-      "category": "Noodle side quests",
-      "title": "The objective survived",
-      "prompt": "Nico forgot almost everything about an “op” dream, but remembered the mission all of Noodle was on. What were they trying to collect?",
-      "options": [
-        "Ten different-colored balls",
-        "Every member's lost Xbox controller",
-        "Twelve pieces of a broken lightsaber"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Ten different-colored balls. Ronan immediately supplied his interpretation: “Infinity stones”. The rest of the dream was gone, but the fetch quest remained.",
-      "receipts": [
-        {
-          "sender": "Nico",
-          "date": "2022-04-08",
-          "text": "I had the most op dream I don’t remember any of the details but it was all of noodle going on a quest to find 10 different colored balls"
-        },
-        {
-          "sender": "Ronan",
-          "date": "2022-04-08",
-          "text": "Infinity stones"
-        }
-      ],
-      "legacyRemoved": {
-        "index": 0,
-        "text": "Seven missing Rubik's cubes"
-      }
-    },
-    {
-      "id": "dark-knight-bank-robbery-cutoff",
-      "kind": "single",
-      "category": "Noodle cinema",
-      "title": "Two very different watch parties",
-      "prompt": "Nathan said his college friends would somehow put on The Dark Knight and watch the entire movie while drunk. How did Jacky's version of that ritual differ?",
-      "options": [
-        "They muted it and supplied all the dialogue themselves",
-        "They only watched the scenes without Batman",
-        "They got sidetracked after the opening bank robbery"
+        "His Bluetooth speaker reconnecting in the trunk",
+        "A parking-assist tutorial playing on his phone",
+        "The sound effects in Migos' Open It Up"
       ],
       "answer": [
         2
       ],
-      "explanation": "Nathan's friends repeatedly completed the whole film. Jacky's group kept putting it on to drink, then getting distracted immediately after the bank robbery. An extremely short Dark Knight tradition.",
+      "explanation": "The car wasn't the problem. Migos had simply put enough beeping into Open It Up to send Jimmy into diagnostic mode.",
       "receipts": [
         {
-          "sender": "Nathan",
-          "date": "2024-10-04",
-          "text": "God I’ve “watched” dark knight a lot in the last year bc my friends always find a way to put that movie on and watch the whole thing when we get super fucked up but I haven’t rly sat down and enjoyed it in a while"
+          "sender": "Jimmy",
+          "date": "2023-12-12",
+          "text": "I thought something was seriously wrong with my car until I realized Migos just have a lot of beeping sound effects in open it up"
+        }
+      ]
+    },
+    {
+      "id": "nico-tree-exam-winter-sticks",
+      "kind": "single",
+      "category": "Academic design flaws",
+      "title": "Nature withheld the study guide",
+      "prompt": "Nico's plant exams required him to identify trees by their leaves. What problem did he suddenly realize he was facing?",
+      "options": [
+        "The course used trees that only grew overseas",
+        "It was winter, so he had to identify bare sticks",
+        "The exam photos had all been printed in black and white"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "“I just gotta look at the sticks and know”. Jacky asked what more they wanted from a stick; Johannes supplied the Minecraft tree catalog, and Ronan added acacia.",
+      "receipts": [
+        {
+          "sender": "Nico",
+          "date": "2022-11-17",
+          "text": "Holy fuck I just realized this. For my plant exams you need to look at the leaves to identify what tree it is but it’s winter time so all the leaves are gone"
+        },
+        {
+          "sender": "Nico",
+          "date": "2022-11-17",
+          "text": "I just gotta look at the sticks and know"
+        },
+        {
+          "sender": "Johannes",
+          "date": "2022-11-17",
+          "text": "It’s all birtch, oak, dark oak and jungle wood"
         },
         {
           "sender": "Jacky",
-          "date": "2024-10-04",
-          "text": "Bruh in college we would put it on and drink and we never get past anything after the bank robbery scene cuz we end up sidetracked"
+          "date": "2022-11-17",
+          "text": "It’s a fucking stick what more do they want"
+        },
+        {
+          "sender": "Ronan",
+          "date": "2022-11-17",
+          "text": "Acacia"
         }
+      ]
+    },
+    {
+      "id": "jacky-private-story-death-stranding",
+      "kind": "single",
+      "category": "Misleading branding",
+      "title": "Not what the title advertised",
+      "prompt": "Jacky considered reviving his private story called “Kate Upton's Voluptuous Breasts.” What had he actually mostly been posting there?",
+      "options": [
+        "Rubik's cube speedruns",
+        "His Dark Souls builds",
+        "Death Stranding"
       ],
-      "legacyRemoved": {
-        "index": 0,
-        "text": "They watched it backward to start with the best scenes"
-      }
+      "answer": [
+        2
+      ],
+      "explanation": "It was mostly Death Stranding. Playing the game again prompted the revival idea, followed immediately by “Nah snapchat sucks”.",
+      "receipts": [
+        {
+          "sender": "Jacky",
+          "date": "2025-03-29",
+          "text": "Just realized since I’m playing death stranding again and Kate uptons voluptuous breasts was just me posting about the game pretty much then should da private story come back"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2025-03-29",
+          "text": "Nah snapchat sucks"
+        }
+      ]
+    },
+    {
+      "id": "charlie-multiple-apps-zach-simulator",
+      "kind": "single",
+      "category": "Charlie inventions",
+      "title": "The technology already exists",
+      "prompt": "Charlie proposed using multiple phone apps at once on a bigger Mac screen. How did Zach respond to this technological vision?",
+      "options": [
+        "He could already do it with multiple iOS simulators",
+        "He suggested buying a separate phone for each app",
+        "He said it would require a quantum computer"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Zach could already run multiple iOS simulator instances. Charlie's response was “wtf”; Nico explained the underlying ambition as “For more stim”.",
+      "receipts": [
+        {
+          "sender": "Charlie",
+          "date": "2025-02-19",
+          "text": "So you know how you can mirror ur phone on ur Mac, Zach and Ronan, what if you could simulate multiple apps on ur bigger screen at once"
+        },
+        {
+          "sender": "Zach",
+          "date": "2025-02-19",
+          "text": "I can do that with multiple instances of an iOS simulator lol"
+        },
+        {
+          "sender": "Charlie",
+          "date": "2025-02-19",
+          "text": "wtf"
+        },
+        {
+          "sender": "Nico",
+          "date": "2025-02-19",
+          "text": "For more stim"
+        }
+      ]
+    },
+    {
+      "id": "ronan-birdwatching-fluid-mechanics",
+      "kind": "single",
+      "category": "Equivalent qualifications",
+      "title": "Same thing, apparently",
+      "prompt": "Which class did Ronan use as his joking benchmark for how hard Nathan's engineering coursework could possibly be?",
+      "options": [
+        "Wine tasting",
+        "Birdwatching",
+        "Intro to film studies"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "Ronan remembered his birdwatching class, so surely engineering couldn't be harder. Nathan distilled the comparison: “Fluid mechanics, bird watching, same thing”.",
+      "receipts": [
+        {
+          "sender": "Ronan",
+          "date": "2023-06-21",
+          "text": "Bird watching is easy as hell and i made a comedically inclined comparison saying that since I remember my birdwatching class, surely your engineering class must be no harder, satirically of course"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2023-06-21",
+          "text": "Fluid mechanics, bird watching, same thing"
+        }
+      ]
+    },
+    {
+      "id": "zach-guinness-apply-to-break-record",
+      "kind": "single",
+      "category": "Unfortunate interfaces",
+      "title": "Maybe hide that button",
+      "prompt": "Zach landed on the Guinness World Records page for most murders committed. What perfectly routine website button became incredibly unfortunate in that context?",
+      "options": [
+        "Apply to break record",
+        "Find an event near you",
+        "Invite your friends"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "The page apparently offered an “Apply to break record” button. Not every record page needs the same call to action.",
+      "receipts": [
+        {
+          "sender": "Zach",
+          "date": "2022-10-13",
+          "text": "I was reading lore last night and found myself on the Guinness book of world record page for most murders committed and I saw a button that said “Apply to break record” 😭😭😭"
+        }
+      ]
     }
   ]
 }
