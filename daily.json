@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "edition": 4,
+  "date": "2026-11-10",
+  "edition": 5,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,292 +9,252 @@
   },
   "questions": [
     {
-      "id": "jimmy-dog-snowball-cleanup",
+      "id": "nico-bank-heist-jump-boost-otto",
       "kind": "single",
-      "category": "Innovative solutions",
-      "title": "A hands-off approach",
-      "prompt": "The dog Jimmy was watching had a huge dingleberry, and he wouldn't let her back inside until it was gone. What was his improvised removal method?",
+      "category": "Noodle heist planning",
+      "title": "The getaway worked",
+      "prompt": "In Nico's bank-heist dream, a Minecraft potion helped him escape. What was the major flaw in his getaway?",
       "options": [
-        "Throwing snowballs at it",
-        "Getting her to sit on a sled",
-        "Leading her through a sprinkler"
+        "He left Otto inside the bank",
+        "He jumped straight onto a police car",
+        "He forgot the bag with all the money"
       ],
       "answer": [
         0
       ],
-      "explanation": "He resorted to throwing snowballs at it. The dog hadn't even noticed the problem, but Jimmy had already developed a ranged solution.",
-      "receipts": [
-        {
-          "sender": "Jimmy",
-          "date": "2022-12-28",
-          "text": "Bruh the dog I’m watching has a huge dingleberry and doesn’t notice it I can’t let her inside til I somehow remove it so I’ve been throwing snowballs at it😭"
-        }
-      ]
-    },
-    {
-      "id": "noodle-points-buy-censorship",
-      "kind": "single",
-      "category": "The Noodle economy",
-      "title": "Betting with consequences",
-      "prompt": "Nathan proposed betting on what chat members would say or do. What could you buy once you'd earned enough Noodle points?",
-      "options": [
-        "The right to rename everyone's contacts",
-        "A guaranteed plus-one at the next cong",
-        "Someone's removal or censorship for the day"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "The winnings weren't money—they were the power to remove or censor a friend. Jimmy immediately proposed betting two days of removal that he could make Jacky mad in one text.",
-      "receipts": [
-        {
-          "sender": "Nathan",
-          "date": "2024-04-19",
-          "text": "We should start making betting lines on what ppl r gonna say or do and the monetary reward is noodle points and once u accumulate enough points u can spend them to have someone in chat be removed or completely censored for the day"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2024-04-19",
-          "text": "“I bet 2 days of removal that I can make Jacky mad in one text”\n*Star Wars sucks JJK overrated Dark Souls sucks AOT mid*"
-        }
-      ]
-    },
-    {
-      "id": "noodle-complex-lego-star-wars-museum",
-      "kind": "single",
-      "category": "Noodle urban planning",
-      "title": "The complete development",
-      "prompt": "Ben expanded the Noodle TikTok house into a gym-and-restaurant complex serving Quinn's spicy meatballs. What museum was also going next door?",
-      "options": [
-        "A museum of every Noodle dad",
-        "A LEGO Star Wars museum",
-        "A museum of retired Xbox controllers"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "A LEGO Star Wars museum completed the district. The neighboring restaurant had Quinn's spicy meatballs; Jimmy expanded the menu with Dan Rigatoni and Marc Alfredo.",
-      "receipts": [
-        {
-          "sender": "Ben",
-          "date": "2022-12-26",
-          "text": "What if noodle opened a gym next to the noodle tiktok house"
-        },
-        {
-          "sender": "Ben",
-          "date": "2022-12-26",
-          "text": "Noodle restaurant w quinn’s spicy meatballs next to hype house next to gym next to lego star wars museum"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2022-12-26",
-          "text": "We have the suspiciously Italian special of Dan Rigatoni served with fresh Marc Alfredo sauce"
-        }
-      ]
-    },
-    {
-      "id": "nico-joke-sword-auction",
-      "kind": "single",
-      "category": "Expensive bits",
-      "title": "The auctioneer didn't know it was ironic",
-      "prompt": "How did Nico nearly turn a joke into a $160 sword purchase?",
-      "options": [
-        "He raised his hand at an actual auction",
-        "He dared a friend to order one with his card",
-        "He mistook the buy button for a wish list"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "The sword was at $150, and Nico jokingly bid $160. The joke nearly cost him $160 before somebody else offered $170. Aidan confirmed it was funny.",
+      "explanation": "Jump Boost II got Nico out. Remembering his accomplice was apparently a separate skill tree: Otto was still inside.",
       "receipts": [
         {
           "sender": "Nico",
-          "date": "2024-08-12",
-          "text": "Bruh there was an auction for a sword and it was at $150 and I jokingly raised my hand for $160 and it almost sold before some guy did $170"
-        },
-        {
-          "sender": "Aidan",
-          "date": "2024-08-12",
-          "text": "It was so funny"
+          "date": "2024-07-11",
+          "text": "I had a dream that I was robbing a bank with Otto and I was using a jump boost 2 potion from Minecraft but once I escaped I forgot that I left Otto inside"
         }
       ]
     },
     {
-      "id": "jimmy-migos-car-beeping",
+      "id": "jacky-cursed-id-return-the-slab",
       "kind": "single",
-      "category": "Automotive diagnostics",
-      "title": "The check-engine playlist",
-      "prompt": "Jimmy thought something was seriously wrong with his car. What turned out to be causing the alarming beeps?",
+      "category": "Cursed artifacts",
+      "title": "Return the slab",
+      "prompt": "After Nico recalled losing something Jacky had lent him, Jacky replied, 'Return the slab' and 'Or suffer my curse.' What was the cursed artifact?",
       "options": [
-        "His Bluetooth speaker reconnecting in the trunk",
-        "A parking-assist tutorial playing on his phone",
-        "The sound effects in Migos' Open It Up"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "The car wasn't the problem. Migos had simply put enough beeping into Open It Up to send Jimmy into diagnostic mode.",
-      "receipts": [
-        {
-          "sender": "Jimmy",
-          "date": "2023-12-12",
-          "text": "I thought something was seriously wrong with my car until I realized Migos just have a lot of beeping sound effects in open it up"
-        }
-      ]
-    },
-    {
-      "id": "dimitri-reaction-based-text-allowance",
-      "kind": "single",
-      "category": "Noodle governance",
-      "title": "Earn your next message",
-      "prompt": "Dimitri proposed that chat members shouldn't all get the same freedom to keep texting. What would determine your text allowance?",
-      "options": [
-        "How many congs you had hosted",
-        "How many reactions your messages got",
-        "How long you'd been in Noodle"
+        "An old Xbox hard drive",
+        "Jacky's ID",
+        "A borrowed Catan board"
       ],
       "answer": [
         1
       ],
-      "explanation": "Your allowance would depend on the reactions you earned. Jimmy immediately endorsed turning the chat into a performance-based texting economy.",
+      "explanation": "Jacky had jokingly warned Nico not to lose his ID. Nico lost it, declared the ID cursed, and Jacky supplied the ancient curse dialogue.",
       "receipts": [
         {
-          "sender": "Dimitri",
-          "date": "2023-12-08",
-          "text": "I’d like see a system in noodle where the amount of texts ur allowed is tied to how many reactions u get"
+          "sender": "Nico",
+          "date": "2025-02-12",
+          "text": "Shoutout to when jacky gave me his id to go to Scott and says “don’t lose it” as a joke and I lose it"
         },
+        {
+          "sender": "Nico",
+          "date": "2025-02-12",
+          "text": "Jacky’s ID is cursed everytime it leaves his possession something bad happens"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2025-02-12",
+          "text": "Return the slab"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2025-02-12",
+          "text": "Or suffer my curse"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-alarm-versus-creatine",
+      "kind": "single",
+      "category": "Priorities",
+      "title": "Tomorrow's problem",
+      "prompt": "Jimmy described his drunk preparation for the next workday: setting an alarm lost out to which essential task?",
+      "options": [
+        "Updating his fantasy football lineup",
+        "Laying out an entire matching outfit",
+        "Putting creatine in his water bottle"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Getting to work on time: no. Making sure the water bottle contained creatine: absolutely. The preparation had a very specific focus.",
+      "receipts": [
         {
           "sender": "Jimmy",
-          "date": "2023-12-08",
-          "text": "That’d be so op"
+          "date": "2025-03-16",
+          "text": "Drunk Jimmy logic\nSet my alarm so I’m at work on time❌\nMake sure my water bottle has creatine in it✅"
         }
       ]
     },
     {
-      "id": "jacky-private-story-death-stranding",
+      "id": "noodle-narration-act-one-text",
       "kind": "single",
-      "category": "Misleading branding",
-      "title": "Not what the title advertised",
-      "prompt": "Jacky considered reviving his private story called “Kate Upton's Voluptuous Breasts.” What had he actually mostly been posting there?",
+      "category": "Noodle jurisprudence",
+      "title": "The commentary crackdown",
+      "prompt": "The Narration Act of 2018 treated what extremely normal chat behavior as grounds for a six-hour ban that doubled with each offense?",
       "options": [
-        "Rubik's cube speedruns",
-        "His Dark Souls builds",
-        "Death Stranding"
+        "Sending more than one text narrating a show, movie or game",
+        "Sending a voice memo longer than thirty seconds",
+        "Reviewing a movie before everyone else had watched it"
       ],
       "answer": [
-        2
+        0
       ],
-      "explanation": "It was mostly Death Stranding. Playing the game again prompted the revival idea, followed immediately by “Nah snapchat sucks”.",
-      "receipts": [
-        {
-          "sender": "Jacky",
-          "date": "2025-03-29",
-          "text": "Just realized since I’m playing death stranding again and Kate uptons voluptuous breasts was just me posting about the game pretty much then should da private story come back"
-        },
-        {
-          "sender": "Jacky",
-          "date": "2025-03-29",
-          "text": "Nah snapchat sucks"
-        }
-      ]
-    },
-    {
-      "id": "jim-sr-internship-reference-loophole",
-      "kind": "single",
-      "category": "Career development",
-      "title": "The reference checks out",
-      "prompt": "Dimitri wanted to put a Jim Sr. internship on his résumé and use Jimmy as the reference. What was the loophole?",
-      "options": [
-        "Jimmy had already written the recommendation",
-        "The reference form didn't allow phone calls",
-        "Jimmy was technically also Jim Sammon"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "Dimitri proposed giving them Jimmy's number because he was technically Jim Sammon too. Zach agreed: it was still Jim Sammon. Extremely rigorous reference checking.",
+      "explanation": "One narration text was the limit outside the relevant chat or a discussion with another member. Dimitri's verdict on enforcement: 'We all would be locked up'.",
       "receipts": [
         {
           "sender": "Dimitri",
-          "date": "2022-09-28",
-          "text": "I gotta add the Jim sr internship Fr"
+          "date": "2024-08-12",
+          "text": "Narration Act of 2018 \nMore than one text about anything pertaining to a show, movie or video game in which u are having an experience except in its respective chat (and if it's a discussion between 2 or more members) is hereby banned for 6 hours doubling with each offense"
         },
         {
           "sender": "Dimitri",
-          "date": "2022-09-28",
-          "text": "Give them jimmy number as reference technically is Jim Sammon"
-        },
-        {
-          "sender": "Zach",
-          "date": "2022-09-28",
-          "text": "😂😂😂"
-        },
-        {
-          "sender": "Zach",
-          "date": "2022-09-28",
-          "text": "Tru is Jim sammon still"
+          "date": "2024-08-12",
+          "text": "We all would be locked up"
         }
       ]
     },
     {
-      "id": "ronan-birdwatching-fluid-mechanics",
+      "id": "dimitri-ai-export-noodle-friendship",
       "kind": "single",
-      "category": "Equivalent qualifications",
-      "title": "Same thing, apparently",
-      "prompt": "Which class did Ronan use as his joking benchmark for how hard Nathan's engineering coursework could possibly be?",
+      "category": "Noodle ventures",
+      "title": "Friendship as a service",
+      "prompt": "During Noodle's business brainstorming, Dimitri proposed an AI product. What would it do for its customers?",
       "options": [
-        "Wine tasting",
-        "Birdwatching",
-        "Intro to film studies"
+        "Argue with their bosses until they got promoted",
+        "Enter their group chat and turn it into a friend group like Noodle",
+        "Generate fake receipts proving they had attended every cong"
       ],
       "answer": [
         1
       ],
-      "explanation": "Ronan remembered his birdwatching class, so surely engineering couldn't be harder. Nathan distilled the comparison: “Fluid mechanics, bird watching, same thing”.",
+      "explanation": "The product was Noodle itself: an AI that would enter another group chat and upgrade the friend group. Other people apparently needed the technology to catch up.",
+      "receipts": [
+        {
+          "sender": "Dimitri",
+          "date": "2024-10-21",
+          "text": "We need to make an ai where it comes into ur group chat and turns you into a fire friend group like noodle"
+        }
+      ]
+    },
+    {
+      "id": "charlie-poop-text-primate-theory",
+      "kind": "single",
+      "category": "Evolutionary Noodle",
+      "title": "The digital equivalent",
+      "prompt": "Charlie proposed that sending poop over text was the modern equivalent of what animal behavior?",
+      "options": [
+        "Dogs marking their territory",
+        "Cats bringing dead mice home",
+        "Monkeys throwing poop at each other"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Charlie located the evolutionary roots of poop chat. The technology changed; the proposed social function did not.",
+      "receipts": [
+        {
+          "sender": "Charlie",
+          "date": "2024-09-22",
+          "text": "Is sending poop over text the equivalent of monkeys throwing poop at each other"
+        }
+      ]
+    },
+    {
+      "id": "ronan-biblically-accurate-work-toilet",
+      "kind": "single",
+      "category": "Workplace revelations",
+      "title": "Be not afraid",
+      "prompt": "Who announced that he'd 'dropped a biblically accurate angel in the work toilet'?",
+      "options": [
+        "Ronan",
+        "Jimmy",
+        "Dimitri"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Ronan's work bathroom update went straight past ordinary descriptions and into divine revelation.",
       "receipts": [
         {
           "sender": "Ronan",
-          "date": "2023-06-21",
-          "text": "Bird watching is easy as hell and i made a comedically inclined comparison saying that since I remember my birdwatching class, surely your engineering class must be no harder, satirically of course"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2023-06-21",
-          "text": "Fluid mechanics, bird watching, same thing"
+          "date": "2024-01-05",
+          "text": "Just dropped a biblically accurate angel in the work toilet"
         }
       ]
     },
     {
-      "id": "nico-poggio-gym-food-greetings",
+      "id": "geometry-dash-funeral-jump-timing",
       "kind": "single",
-      "category": "Instant cultural exchange",
-      "title": "He learned one fact about Nico",
-      "prompt": "After Nico told an older guy at the gym his surname was Poggio, what did the guy's greetings turn into?",
+      "category": "The grind continues",
+      "title": "An important accommodation",
+      "prompt": "In Nathan's imaginary argument about playing Geometry Dash music at a funeral, why couldn't he turn it down?",
       "options": [
-        "Nico's full name followed by Italian foods",
-        "Requests for tips on his bench press",
-        "Questions about whether he knew Mario"
+        "The level had become a memorial tribute",
+        "It helped him time his jumps",
+        "He'd promised to finish it without headphones"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "Jump timing outranked the occasion. This landed in the middle of the chat's Blast Processing grind.",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2022-07-07",
+          "text": "No mom I will not turn down the geometry dash music at the funeral it helps me time my jumps"
+        }
+      ]
+    },
+    {
+      "id": "ben-dream-shameless-family-reunion",
+      "kind": "single",
+      "category": "Crossover episodes",
+      "title": "The reunion guest list",
+      "prompt": "Ben's dream featured a reunion of both sides of his family, plus characters from which show?",
+      "options": [
+        "Modern Family",
+        "The Sopranos",
+        "Shameless"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Both sides of the family were there, and so was the cast of Shameless. The dream had quietly become a crossover episode.",
+      "receipts": [
+        {
+          "sender": "Ben",
+          "date": "2023-05-10",
+          "text": "Had such a weird dream where all my family on both sides were at some reunion but there were also characters from shameless"
+        }
+      ]
+    },
+    {
+      "id": "alexa-weather-history-nasdaq-whiplash",
+      "kind": "single",
+      "category": "Good morning, apparently",
+      "title": "A balanced briefing",
+      "prompt": "Nathan's Alexa briefing jumped from sunny weather to a Unabomber plane-bombing history fact. What cheerful update came immediately afterward?",
+      "options": [
+        "The Nasdaq was up",
+        "It was national pancake day",
+        "His package had been delivered"
       ],
       "answer": [
         0
       ],
-      "explanation": "“Nico Poggio!” followed by Italian foods. Nico supplied examples: “Pizza pasta!” and “I’ll see you at the pizza stand!”.",
+      "explanation": "Weather, an attempted plane bombing, then 'The nasdaq is up!' The morning briefing covered quite a range.",
       "receipts": [
         {
-          "sender": "Nico",
-          "date": "2025-03-29",
-          "text": "I told this old head at the gym that my last name was Poggio and the only things he’s said after that is “Nico Poggio!” Followed by Italian foods"
-        },
-        {
-          "sender": "Nico",
-          "date": "2025-03-29",
-          "text": "Pizza pasta!"
-        },
-        {
-          "sender": "Nico",
-          "date": "2025-03-29",
-          "text": "I’ll see you at the pizza stand!"
+          "sender": "Nathan",
+          "date": "2023-11-15",
+          "text": "It is 44° and sunny\nOn this day something years ago the unabomber almost destroyed a fucking plane with a Ted special home made bomb\nThe nasdaq is up!"
         }
       ]
     }
