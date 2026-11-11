@@ -32,13 +32,13 @@
  <section id="game" hidden aria-labelledby="q-title">
   <div class="game-nav"><button class="text-button" id="home-button">← Save & leave</button><span id="q-count"></span><span id="score"></span></div><div class="progress" aria-label="Quiz progress"><div id="progress-fill"></div></div>
   <div class="question-heading"><span class="eyebrow" id="q-category"></span><h1 id="q-title" tabindex="-1"></h1><p id="q-prompt"></p></div>
+  <div id="options" class="options" role="group" aria-labelledby="q-title q-prompt"></div>
   <section id="question-feedback" aria-labelledby="feedback-title">
-   <h3 id="feedback-title">Was this funny?</h3>
+   <h3 id="feedback-title">Good question?</h3>
    <p>Optional rating · question + choices</p>
-   <div class="feedback-buttons"><button id="question-like" type="button">👍 Funny</button><button id="question-dislike" type="button">👎 Not funny</button></div>
+   <div class="feedback-buttons"><button id="question-like" type="button">👍 Good</button><button id="question-dislike" type="button">👎 Bad</button></div>
    <p id="feedback-status" role="status" aria-live="polite">Optional · rate before answering.</p>
   </section>
-  <div id="options" class="options" role="group" aria-labelledby="q-title q-prompt"></div>
   <div class="answer-actions"><div class="verdict" id="answer-verdict" hidden aria-live="polite"><h2 id="verdict"></h2><span id="answer-score"></span></div><button class="primary" id="next" disabled>Next question →</button></div>
   <div id="multi-actions" hidden><p class="hint" id="selection-count" aria-live="polite"></p><button class="primary" id="submit" disabled>Lock in answers →</button></div>
   <section id="reveal" class="reveal" hidden><p id="explanation"></p><details id="receipt-details"><summary>Open the receipts <span>↗</span></summary><div id="receipts"></div></details></section>
