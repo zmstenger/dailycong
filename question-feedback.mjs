@@ -7,6 +7,6 @@ export async function submitVote(edition,question,voter,vote){
  const response=await fetch(FEEDBACK_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({edition,question,voter,vote}),signal:AbortSignal.timeout(12000)});
  if(!response.ok)throw Error('Vote could not be saved');
  const result=await response.json();
- if(!result.ok||!['like','dislike'].includes(result.vote))throw Error('Invalid vote confirmation');
+ if(!result.ok||!['like','meh','dislike'].includes(result.vote))throw Error('Invalid vote confirmation');
  return result.vote;
 }

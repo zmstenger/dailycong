@@ -1,15 +1,15 @@
 import {validateQuiz,newRecord,validRecord,points,correct,niceDate,editionDate,shareScore,statistics,powerLevel,migrateOptions} from './daily-engine.mjs?v=30';
-import {questionKey,submitVote} from './question-feedback.mjs?v=1';
+import {questionKey,submitVote} from './question-feedback.mjs?v=2';
 let questionKeys=[],votes={},voter,busyVote=false;
 try{votes=JSON.parse(localStorage.getItem('dailycong-question-votes')||'{}');if(!votes||typeof votes!=='object'||Array.isArray(votes))votes={};voter=localStorage.getItem('dailycong-voter');}catch{}
 if(!/^[a-f0-9-]{36}$/.test(voter||'')){voter=crypto.randomUUID();try{localStorage.setItem('dailycong-voter',voter);}catch{}}
 const voteKey=()=>`${editionKey()}/${questionKeys[index]}`;
 const currentVote=()=>votes[voteKey()];
-function drawFeedback(){const answered=index<record.answers.length,vote=currentVote();$('question-feedback').hidden=answered;for(const [id,value]of[['question-like','like'],['question-dislike','dislike']]){$(id).disabled=busyVote||!!vote;$(id).setAttribute('aria-pressed',String(vote===value));}$('feedback-status').textContent=busyVote?'Saving your vote…':vote?'Vote saved. Now pick your answer.':'Optional · rate before answering.';}
+function drawFeedback(){const answered=index<record.answers.length,vote=currentVote();$('question-feedback').hidden=answered;for(const [id,value]of[['question-like','like'],['question-meh','meh'],['question-dislike','dislike']]){$(id).disabled=busyVote||!!vote;$(id).setAttribute('aria-pressed',String(vote===value));}$('feedback-status').textContent=busyVote?'Saving your vote…':vote?'Vote saved. Now pick your answer.':'Optional · rate before answering.';}
 async function rateQuestion(vote){if(busyVote||currentVote()||index<record.answers.length)return;busyVote=true;drawFeedback();const key=voteKey(),ratedIndex=index;try{votes[key]=await submitVote(editionKey(),questionKeys[index],voter,vote);try{localStorage.setItem('dailycong-question-votes',JSON.stringify(votes));}catch{}busyVote=false;drawFeedback();}catch{busyVote=false;drawFeedback();if(index===ratedIndex&&index>=record.answers.length){$('feedback-status').textContent='Couldn’t save your rating. You can still answer.';}}}
 const $=id=>document.getElementById(id),KEY='noodle-daily-v2';
 let quiz,record,index=0,selected=[],memory={},persistent=true;
-$('question-like').onclick=()=>rateQuestion('like');$('question-dislike').onclick=()=>rateQuestion('dislike');
+$('question-like').onclick=()=>rateQuestion('like');$('question-meh').onclick=()=>rateQuestion('meh');$('question-dislike').onclick=()=>rateQuestion('dislike');
 try{memory=JSON.parse(localStorage.getItem(KEY)||'{}');if(!memory||typeof memory!=='object'||Array.isArray(memory))memory={};}catch{persistent=false;}
 const element=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e;};
 const editionKey=()=>`${quiz.date}#${quiz.edition}`;
