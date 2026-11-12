@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "edition": 6,
+  "date": "2026-11-12",
+  "edition": 7,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,307 +9,292 @@
   },
   "questions": [
     {
-      "id": "the-nathan-magnetic-wood-overlord",
+      "id": "aidan-short-lego-sale-announcement",
       "kind": "single",
-      "category": "Noodle dystopias",
-      "title": "THE NATHAN",
-      "prompt": "In Nico's futuristic nightmare, an overlord machine called THE NATHAN used magnetic fields to force humanity to do what?",
+      "category": "Public service announcement",
+      "title": "I'll Keep This Short",
+      "prompt": "Aidan sent an enormous message cataloguing games, prices, discounts, editions and several corrections, then said he 'wanted to keep the list short.' What was this urgent Noodle bulletin about?",
       "options": [
-        "Bring wood to one place and build a massive structure",
-        "Form a human chain around the entire planet",
-        "Carry buckets of water to an enormous empty pool"
+        "A Steam sale on Lego games",
+        "Every possible DragonVale breeding combination",
+        "A ranking of every airport he'd ever visited"
       ],
       "answer": [
         0
       ],
-      "explanation": "Humanity had been drafted into THE NATHAN's construction project. Refusing meant a trip to a Sarlacc-pit-type situation. All of this fit into a fifteen-minute dream.",
-      "receipts": [
-        {
-          "sender": "Nico",
-          "date": "2023-06-02",
-          "text": "Oh hell nah I just had a dream I was in a hyper futuristic world and there was this overload machine called THE NATHAN and it would use magnetic force fields to force everyone in the world to bring wood to this one location and build a massive structure"
-        },
-        {
-          "sender": "Nico",
-          "date": "2023-06-02",
-          "text": "And if you didn’t do it you would go into a Sarlacc pit thing"
-        },
-        {
-          "sender": "Nico",
-          "date": "2023-06-02",
-          "text": "And this all happened between 6:05 and 6:20am"
-        }
-      ]
-    },
-    {
-      "id": "jimmy-sidewalk-roommates-dog-cover",
-      "kind": "single",
-      "category": "Unsolved neighborhood mysteries",
-      "title": "The prime suspect",
-      "prompt": "After Jimmy's infamous sidewalk emergency, his roommates discovered the evidence the next day. Who did they blame?",
-      "options": [
-        "A drunk stranger walking home",
-        "Someone's dog",
-        "A raccoon raiding the trash"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "The roommates thought a dog had done it. Jimmy's response was 'oh… about that'. Later, he described the bugs feasting on it as 'bug thanksgiving'.",
-      "receipts": [
-        {
-          "sender": "Jimmy",
-          "date": "2025-04-01",
-          "text": "I had to let it out so I shat on the sidewalk enough to go inside and finish up in there"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2025-04-01",
-          "text": "Then the next day my roommates were like bruh did y’all see someone’s dog took a big ass shit near our house and I was like oh… about that"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2025-04-01",
-          "text": "Gave them bug thanksgiving"
-        }
-      ]
-    },
-    {
-      "id": "charlie-skunk-body-language-diplomacy",
-      "kind": "single",
-      "category": "Animal diplomacy",
-      "title": "First contact",
-      "prompt": "Charlie recalled a drunken encounter with a skunk in the middle of the night. How did he try to communicate with it?",
-      "options": [
-        "By offering it some leftover food",
-        "By imitating the noises it made",
-        "By speaking through body language"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "He was more scared of the skunk than it was of him, but still attempted body-language diplomacy. His follow-up to the story: 'U def asked'.",
-      "receipts": [
-        {
-          "sender": "Charlie",
-          "date": "2023-11-02",
-          "text": "Weird factoid but i just randomly remembered walking past a skunk middle of the night and I was more scared of it than it was of me and I so fucking drunk I tried to do speak to it through body language"
-        },
-        {
-          "sender": "Charlie",
-          "date": "2023-11-02",
-          "text": "U def asked"
-        }
-      ]
-    },
-    {
-      "id": "science-camp-clan-leader-gems",
-      "kind": "single",
-      "category": "Chain of command",
-      "title": "Unauthorized gems",
-      "prompt": "At science camp, Nathan warned Nico that buying $5 worth of Clash gems would upset their clan leader. Who was apparently running this operation?",
-      "options": [
-        "Charlie",
-        "Ronan",
-        "Jimmy"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "Ronan didn't even remember being the leader. Nico had remembered the warning for years; Ronan wanted to know how he'd managed to get the job.",
-      "receipts": [
-        {
-          "sender": "Nico",
-          "date": "2024-09-12",
-          "text": "I told Nathan in science camp that I asked my mom for $5 worth of gems and he told me our leader (you) would get mad at me if I gemmed"
-        },
-        {
-          "sender": "Nico",
-          "date": "2024-09-12",
-          "text": "Core memory"
-        },
-        {
-          "sender": "Ronan",
-          "date": "2024-09-12",
-          "text": "I was the leader? 😂😂😂"
-        },
-        {
-          "sender": "Ronan",
-          "date": "2024-09-12",
-          "text": "How did i finangle that"
-        }
-      ]
-    },
-    {
-      "id": "ben-toiletless-dream-eddy-murphy-boxing",
-      "kind": "single",
-      "category": "Dream escalation",
-      "title": "An eventful morning",
-      "prompt": "Ben described a dream that went from a toiletless bathroom disaster straight into boxing which celebrity?",
-      "options": [
-        "Adam Sandler",
-        "Jackie Chan",
-        "Eddie Murphy"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "A bathroom with no toilet, shitting his pants, then boxing Eddie Murphy. Ben reported this entire plot while getting ready for class.",
-      "receipts": [
-        {
-          "sender": "Ben",
-          "date": "2023-04-19",
-          "text": "Went from having a dream about rly needing to take a shit and ending up shitting my pants in a toiletless bathroom to boxing eddy murphy all while getting ready for class"
-        }
-      ]
-    },
-    {
-      "id": "ronan-paid-actor-second-phone-theory",
-      "kind": "single",
-      "category": "Deep Noodle conspiracy",
-      "title": "The Ronan operation",
-      "prompt": "Zach's explanation for Nathan 'owning' Ronan involved a paid actor playing Ronan in person. In this theory, who was actually sending Ronan's texts?",
-      "options": [
-        "Nathan, using another phone",
-        "Charlie, using Nathan's account",
-        "Zach, switching between two accounts"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "The theory required a paid actor for real life and Nathan on a second phone for the chat. Ronan was apparently a whole production.",
-      "receipts": [
-        {
-          "sender": "Nathan",
-          "date": "2022-05-25",
-          "text": "I own you"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2022-05-25",
-          "text": "You Are my intellectual and physical property"
-        },
-        {
-          "sender": "Zach",
-          "date": "2022-05-25",
-          "text": "The Ronan we’ve met irl is a paid actor nathan hired and all the texts ronan sends in this gc r actually nathan on another phone"
-        }
-      ]
-    },
-    {
-      "id": "dimitri-news-split-screen-subway-surfers",
-      "kind": "single",
-      "category": "Broadcast brainrot",
-      "title": "The news got an upgrade",
-      "prompt": "Dimitri saw a drone story taking up two-thirds of a TV news screen, with other stories crammed into the remaining third. What did he compare the experience to?",
-      "options": [
-        "Watching a Geometry Dash level",
-        "Playing Temple Run",
-        "Watching Subway Surfers"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "The news had acquired its own attention-span side quest. Dimitri said it hit just like Subway Surfers; Nico replied 'Stimnation'.",
-      "receipts": [
-        {
-          "sender": "Dimitri",
-          "date": "2024-12-15",
-          "text": "they literally have the drone story on 2/3rds of the screen and the other 1/3 are just other stories. Hits just like subway surfers"
-        },
-        {
-          "sender": "Nico",
-          "date": "2024-12-15",
-          "text": "Stimnation"
-        }
-      ]
-    },
-    {
-      "id": "jacky-chat-government-prohibition-experiment",
-      "kind": "single",
-      "category": "Noodle policy lab",
-      "title": "Just to see what happens",
-      "prompt": "Jacky proposed trying 'real tyrannical laws' in chat, naming prohibition as an example. What was the plan before repealing them?",
-      "options": [
-        "Wait until everyone had paid a fine",
-        "Watch the chat self-destruct for a bit",
-        "Have each member write a formal appeal"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "The proposed experiment was to impose tyranny, watch chat self-destruct, then repeal the law. Jacky supplied prohibition as the example. A very normal policy trial.",
-      "receipts": [
-        {
-          "sender": "Jacky",
-          "date": "2024-08-15",
-          "text": "We should establish sum real tyrannical laws and see chat self destruct for a bit before we repeal the law"
-        },
-        {
-          "sender": "Jacky",
-          "date": "2024-08-15",
-          "text": "Like prohibition"
-        }
-      ]
-    },
-    {
-      "id": "aidan-phone-fart-repeat-what",
-      "kind": "single",
-      "category": "Could you repeat that?",
-      "title": "Loud and clear",
-      "prompt": "Who described opening a phone call with a fart, hearing 'what?', and responding by farting again?",
-      "options": [
-        "Aidan",
-        "Jimmy",
-        "Charlie"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Aidan. She asked 'what?' and he repeated himself.",
+      "explanation": "The Lego sale needed a full prospectus. He even forgot that Lego Star Wars III was the Clone Wars game, corrected himself, and kept going.",
       "receipts": [
         {
           "sender": "Aidan",
-          "date": "2025-01-11",
-          "text": "I immediately farted into the phone. She said “what?” So I farted again"
+          "date": "2023-07-14",
+          "text": "Boys just so you know Jonathan especially you can get almost any lego game right now on steam for 5$ they’re all on 75% sale right now"
+        },
+        {
+          "sender": "Aidan",
+          "date": "2023-07-14",
+          "text": "Wait hold on they have Lego Star Wars three which I already said, I forgot that that one was the one about the clone wars."
+        },
+        {
+          "sender": "Aidan",
+          "date": "2023-07-14",
+          "text": "They have a few other Lego games, but I wanted to keep the list short and make sure the only list the notable ones"
         }
       ]
     },
     {
-      "id": "charlie-coprolite-time-capsule-diet",
+      "id": "dimitri-football-improvisation-disappointment",
       "kind": "single",
-      "category": "Preserving our legacy",
-      "title": "A gift to future historians",
-      "prompt": "Charlie proposed a group time capsule so future people could work out what humans ate in 2024. What were they supposed to analyze?",
+      "category": "Sports revelation",
+      "title": "Yes, And... Touchdown",
+      "prompt": "What football revelation disappointed Dimitri enough that Nathan had to explain the game was 'literally human chess'?",
       "options": [
-        "A collection of old DoorDash receipts",
-        "Coprolite—fossilized poop",
-        "The remains of a sealed Chipotle bowl"
+        "The players weren't allowed to name their own positions",
+        "The players weren't just making up the plays on the spot",
+        "The coaches couldn't substitute themselves into the game"
       ],
       "answer": [
         1
       ],
-      "explanation": "Charlie proposed preserving the coprolite. Nathan looked up the word and burst out laughing; Jacky said Charlie had used fossil poop's 'government name'.",
+      "explanation": "Dimitri had been giving the players credit for live improvisation. Finding out there was a plan took some of the magic out of it.",
       "receipts": [
         {
-          "sender": "Charlie",
-          "date": "2024-08-18",
-          "text": "We should all make a time capsule and when it gets dug up they can see what humans in 2024 ate after analyzing the coprolite"
+          "sender": "Dimitri",
+          "date": "2024-10-25",
+          "text": "Bruh I was so disappointed when I learned that the football players dont just come up with the stuff on the spot"
         },
         {
           "sender": "Nathan",
-          "date": "2024-08-18",
-          "text": "What is a coprolite"
+          "date": "2024-10-25",
+          "text": "Game would suck"
         },
         {
           "sender": "Nathan",
-          "date": "2024-08-18",
-          "text": "I looked it up and burst into laughter in 3 seconds"
+          "date": "2024-10-25",
+          "text": "It’s literally human chess"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-pokemon-showdown-fart-threat",
+      "kind": "single",
+      "category": "Competitive integrity",
+      "title": "New Poison Move",
+      "prompt": "Jimmy reported that an opponent in Pokémon Showdown had taken trash talk in a very Noodle direction. What did the guy threaten to do?",
+      "options": [
+        "Email Jimmy's team to his professor",
+        "Challenge the entire chat to a spelling bee",
+        "Fart on him"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Not a threat to sweep his team. A threat to fart on him. Competitive Pokémon apparently has a physical damage category the game doesn't list.",
+      "receipts": [
+        {
+          "sender": "Jimmy",
+          "date": "2023-11-29",
+          "text": "Dude in Pokemon showdown just threatened to fart on me"
+        }
+      ]
+    },
+    {
+      "id": "jacky-dad-magical-alarm-clock-box",
+      "kind": "single",
+      "category": "Dad inventory",
+      "title": "Already in Stock",
+      "prompt": "Jacky was about to order something to keep himself off his phone in the morning. His dad immediately produced one from 'the magical box.' What was sitting in dad's inventory?",
+      "options": [
+        "An alarm clock",
+        "A phone-sized Faraday cage",
+        "A rooster-shaped kitchen timer"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "No delivery required. Jacky concluded that his dad 'just got everything on hand.' The magical box had an alarm clock ready to go.",
+      "receipts": [
+        {
+          "sender": "Jacky",
+          "date": "2025-01-31",
+          "text": "I was gonna order an alarm clock so I don’t have to go on my phone in the morning and my dad just whips out the magical box and hands me one bruh this dude just got everything on hand"
+        }
+      ]
+    },
+    {
+      "id": "ben-living-in-walls-shower-plumbing-bit",
+      "kind": "single",
+      "category": "Home improvement",
+      "title": "Your Plumber Is Ben",
+      "prompt": "Ben abruptly interrupted an argument to announce some 'living in your walls activity.' In his threat, what home upgrade had he supposedly completed for everyone?",
+      "options": [
+        "Connected every doorbell to the Noodle national anthem",
+        "Rerouted the pipes so poop water would come out of the shower",
+        "Installed a microphone that broadcasts every toilet flush to the chat"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "An argument was happening. Ben contributed imaginary sewage sabotage, followed by 'Just kidding! Or am i?'",
+      "receipts": [
+        {
+          "sender": "Ben",
+          "date": "2022-05-19",
+          "text": "I have switched the piping in all of your houses (living in your walls activity) to make poop water come out of your shower at an unexpected moment. Just kidding! Or am i?"
+        }
+      ]
+    },
+    {
+      "id": "nico-dream-driving-jacky-charlie-reality-check",
+      "kind": "single",
+      "category": "Dream logic",
+      "title": "The Commute Gave It Away",
+      "prompt": "Nico escaped one dream, got ready, and drove Jacky and Charlie to class. What made him realize he was STILL dreaming?",
+      "options": [
+        "Jacky paid him for gas without being asked",
+        "Charlie was teaching the class from the back seat",
+        "He'd never actually driven those two to class"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "The first dream had an impossible apartment layout. The second was exposed by an even less believable event: Nico doing that carpool.",
+      "receipts": [
+        {
+          "sender": "Nico",
+          "date": "2022-11-03",
+          "text": "I woke up and walked out my room and the entire layout of my apartment was completely different then I realized I was dreaming so I woke up. I then got ready and drove jackh and charlie to class and then realized I was dreaming cuz I’ve never done that"
+        },
+        {
+          "sender": "Zach",
+          "date": "2022-11-03",
+          "text": "Lol u be driving them to class"
+        },
+        {
+          "sender": "Zach",
+          "date": "2022-11-03",
+          "text": "Yeah doesn’t sounds right"
+        }
+      ]
+    },
+    {
+      "id": "jacky-star-wars-salt-dealer-bartender-cousin",
+      "kind": "single",
+      "category": "Desired spin-off",
+      "title": "A Smaller Star War",
+      "prompt": "While defending Star Wars worldbuilding, Jacky pitched the exact tiny scene that would make his day: a guy chats with an Arconan bartender, who mentions a cousin. What does that cousin do?",
+      "options": [
+        "Deals salt",
+        "Audits the Death Star's expenses",
+        "Runs a Jedi driving school"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Jacky didn't need another galaxy-ending superweapon. A bartender with a salt-dealing cousin was enough.",
+      "receipts": [
+        {
+          "sender": "Jacky",
+          "date": "2022-09-28",
+          "text": "But I gotta focus in on visual media im saying og Star Wars as in Lucas sw world was so damn real that you can make a story out of anything and anyone"
         },
         {
           "sender": "Jacky",
-          "date": "2024-08-18",
-          "text": "Charlie whipped out fossil poops government name 😂"
+          "date": "2022-09-28",
+          "text": "I just wanna see some guy walk into a bar and talk to his arconan bartender friend who tells him he’s got a cousin who’s a salt dealer"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2022-09-28",
+          "text": "That would make my day"
+        }
+      ]
+    },
+    {
+      "id": "nathan-met-museum-fountain-head-dunk",
+      "kind": "single",
+      "category": "Cultural enrichment",
+      "title": "An Immersive Exhibit",
+      "prompt": "Nathan's report from the MET art museum wasn't about a painting. What did he admit doing, then clarify he'd done TWICE?",
+      "options": [
+        "Asking a security guard where the Lego section was",
+        "Dunking his head in the fountain",
+        "Trying to pay for a sculpture with Clash gems"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "He dunked his head in the museum fountain. Then volunteered that once had not been enough.",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2022-04-17",
+          "text": "I dunked my head in the MET art museum fountain"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2022-04-17",
+          "text": "I did it twice"
+        }
+      ]
+    },
+    {
+      "id": "charlie-ronan-greeting-warmest-condolences",
+      "kind": "single",
+      "category": "Correspondence",
+      "title": "Sorry for Your Hello",
+      "prompt": "Ronan said 'Hello charlie murlin.' How did Charlie turn this completely normal greeting into an unnecessarily formal occasion?",
+      "options": [
+        "He requested a signed letter of introduction",
+        "He sent Ronan an invoice for the conversation",
+        "He expressed his 'warmest condolences' on receiving the message"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Charlie's reply managed to sound both delighted and bereaved. He then offered to trifle Ronan with his interests or fathom his fondest thought.",
+      "receipts": [
+        {
+          "sender": "Ronan",
+          "date": "2025-02-24",
+          "text": "Hello charlie murlin"
+        },
+        {
+          "sender": "Charlie",
+          "date": "2025-02-24",
+          "text": "I hope this message finds you well. I am elated to express my warmest condolences to have received your message. I could trifle you with my most recent interests, or fathom your most fondest thought today."
+        }
+      ]
+    },
+    {
+      "id": "nathan-fart-toots-chat-analytics-request",
+      "kind": "single",
+      "category": "Noodle data science",
+      "title": "The Important Metrics",
+      "prompt": "Nathan prefaced a programming request to Zach with 'I do not mean this as an insult.' What did he want the next chat-analysis program to track?",
+      "options": [
+        "Mentions of 'fart' and 'toots'",
+        "How many arguments ended with 'true'",
+        "How often someone announced they were leaving and kept texting"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Message counts weren't enough. Nathan wanted a dedicated fart-and-toots tracker. He called it 'good lord analysis.'",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2023-11-07",
+          "text": "Zach I do not mean this as an insult but can u make a program that tracks the mention of the words fart and toots in the gc that would be op"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2023-11-07",
+          "text": "Like u did for messages sent and shit"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2023-11-07",
+          "text": "Would be good lord analysis"
         }
       ]
     }
