@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "edition": 7,
+  "date": "2026-11-13",
+  "edition": 8,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,292 +9,277 @@
   },
   "questions": [
     {
-      "id": "aidan-short-lego-sale-announcement",
+      "id": "nathan-connect-four-tournament-grounding",
       "kind": "single",
-      "category": "Public service announcement",
-      "title": "I'll Keep This Short",
-      "prompt": "Aidan sent an enormous message cataloguing games, prices, discounts, editions and several corrections, then said he 'wanted to keep the list short.' What was this urgent Noodle bulletin about?",
+      "category": "Organized crime",
+      "title": "Four in a Row, Grounded",
+      "prompt": "Nathan said organizing a roughly 2,500-message tournament got him grounded in ninth grade. What dangerous competitive activity had taken over the group chat?",
       "options": [
-        "A Steam sale on Lego games",
-        "Every possible DragonVale breeding combination",
-        "A ranking of every airport he'd ever visited"
+        "Connect Four",
+        "Clash Royale",
+        "A spelling bee conducted entirely through voice messages"
       ],
       "answer": [
         0
       ],
-      "explanation": "The Lego sale needed a full prospectus. He even forgot that Lego Star Wars III was the Clone Wars game, corrected himself, and kept going.",
+      "explanation": "A Connect Four tournament had become a 2,500-message domestic incident. The punishment was temporary; the competitive spirit survived.",
       "receipts": [
         {
-          "sender": "Aidan",
-          "date": "2023-07-14",
-          "text": "Boys just so you know Jonathan especially you can get almost any lego game right now on steam for 5$ they’re all on 75% sale right now"
-        },
-        {
-          "sender": "Aidan",
-          "date": "2023-07-14",
-          "text": "Wait hold on they have Lego Star Wars three which I already said, I forgot that that one was the one about the clone wars."
-        },
-        {
-          "sender": "Aidan",
-          "date": "2023-07-14",
-          "text": "They have a few other Lego games, but I wanted to keep the list short and make sure the only list the notable ones"
+          "sender": "Nathan",
+          "date": "2025-02-15",
+          "text": "I got grounded for a short time for having/organizing a 2500 ish message connect four tournament in the gc in 9th grade"
         }
       ]
     },
     {
-      "id": "dimitri-football-improvisation-disappointment",
+      "id": "nico-dream-premium-water-pursuit-penalty",
       "kind": "single",
-      "category": "Sports revelation",
-      "title": "Yes, And... Touchdown",
-      "prompt": "What football revelation disappointed Dimitri enough that Nathan had to explain the game was 'literally human chess'?",
+      "category": "Pay to lose",
+      "title": "Premium Hydration Penalty",
+      "prompt": "In Nico's video-game-like chase dream, he reached a convenience store. What happened if he bought the fancy water instead of the bad water?",
       "options": [
-        "The players weren't allowed to name their own positions",
-        "The players weren't just making up the plays on the spot",
-        "The coaches couldn't substitute themselves into the game"
+        "He had to restart the whole dream",
+        "The people chasing him got closer",
+        "The cashier became the final boss"
       ],
       "answer": [
         1
       ],
-      "explanation": "Dimitri had been giving the players credit for live improvisation. Finding out there was a plan took some of the magic out of it.",
-      "receipts": [
-        {
-          "sender": "Dimitri",
-          "date": "2024-10-25",
-          "text": "Bruh I was so disappointed when I learned that the football players dont just come up with the stuff on the spot"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2024-10-25",
-          "text": "Game would suck"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2024-10-25",
-          "text": "It’s literally human chess"
-        }
-      ]
-    },
-    {
-      "id": "jimmy-pokemon-showdown-fart-threat",
-      "kind": "single",
-      "category": "Competitive integrity",
-      "title": "New Poison Move",
-      "prompt": "Jimmy reported that an opponent in Pokémon Showdown had taken trash talk in a very Noodle direction. What did the guy threaten to do?",
-      "options": [
-        "Email Jimmy's team to his professor",
-        "Challenge the entire chat to a spelling bee",
-        "Fart on him"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "Not a threat to sweep his team. A threat to fart on him. Competitive Pokémon apparently has a physical damage category the game doesn't list.",
-      "receipts": [
-        {
-          "sender": "Jimmy",
-          "date": "2023-11-29",
-          "text": "Dude in Pokemon showdown just threatened to fart on me"
-        }
-      ]
-    },
-    {
-      "id": "jacky-dad-magical-alarm-clock-box",
-      "kind": "single",
-      "category": "Dad inventory",
-      "title": "Already in Stock",
-      "prompt": "Jacky was about to order something to keep himself off his phone in the morning. His dad immediately produced one from 'the magical box.' What was sitting in dad's inventory?",
-      "options": [
-        "An alarm clock",
-        "A phone-sized Faraday cage",
-        "A rooster-shaped kitchen timer"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "No delivery required. Jacky concluded that his dad 'just got everything on hand.' The magical box had an alarm clock ready to go.",
-      "receipts": [
-        {
-          "sender": "Jacky",
-          "date": "2025-01-31",
-          "text": "I was gonna order an alarm clock so I don’t have to go on my phone in the morning and my dad just whips out the magical box and hands me one bruh this dude just got everything on hand"
-        }
-      ]
-    },
-    {
-      "id": "ben-living-in-walls-shower-plumbing-bit",
-      "kind": "single",
-      "category": "Home improvement",
-      "title": "Your Plumber Is Ben",
-      "prompt": "Ben abruptly interrupted an argument to announce some 'living in your walls activity.' In his threat, what home upgrade had he supposedly completed for everyone?",
-      "options": [
-        "Connected every doorbell to the Noodle national anthem",
-        "Rerouted the pipes so poop water would come out of the shower",
-        "Installed a microphone that broadcasts every toilet flush to the chat"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "An argument was happening. Ben contributed imaginary sewage sabotage, followed by 'Just kidding! Or am i?'",
-      "receipts": [
-        {
-          "sender": "Ben",
-          "date": "2022-05-19",
-          "text": "I have switched the piping in all of your houses (living in your walls activity) to make poop water come out of your shower at an unexpected moment. Just kidding! Or am i?"
-        }
-      ]
-    },
-    {
-      "id": "nico-dream-driving-jacky-charlie-reality-check",
-      "kind": "single",
-      "category": "Dream logic",
-      "title": "The Commute Gave It Away",
-      "prompt": "Nico escaped one dream, got ready, and drove Jacky and Charlie to class. What made him realize he was STILL dreaming?",
-      "options": [
-        "Jacky paid him for gas without being asked",
-        "Charlie was teaching the class from the back seat",
-        "He'd never actually driven those two to class"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "The first dream had an impossible apartment layout. The second was exposed by an even less believable event: Nico doing that carpool.",
+      "explanation": "Bad water let the chase continue normally. Fancy water actively helped his pursuers. Even the dream's upgrade system was against him.",
       "receipts": [
         {
           "sender": "Nico",
-          "date": "2022-11-03",
-          "text": "I woke up and walked out my room and the entire layout of my apartment was completely different then I realized I was dreaming so I woke up. I then got ready and drove jackh and charlie to class and then realized I was dreaming cuz I’ve never done that"
-        },
-        {
-          "sender": "Zach",
-          "date": "2022-11-03",
-          "text": "Lol u be driving them to class"
-        },
-        {
-          "sender": "Zach",
-          "date": "2022-11-03",
-          "text": "Yeah doesn’t sounds right"
+          "date": "2022-05-18",
+          "text": "My dream was me and 2 other people I forgot who were being chased by these people in a video game like world and I was at a convenience store and if I bought the fancy water bottle the people chasing me would get closer but if I got the bad water bottle I could continue as normal"
         }
       ]
     },
     {
-      "id": "jacky-star-wars-salt-dealer-bartender-cousin",
+      "id": "ronan-office-olympics-stolen-clif-bars",
       "kind": "single",
-      "category": "Desired spin-off",
-      "title": "A Smaller Star War",
-      "prompt": "While defending Star Wars worldbuilding, Jacky pitched the exact tiny scene that would make his day: a guy chats with an Arconan bartender, who mentions a cousin. What does that cousin do?",
+      "category": "International incident",
+      "title": "The Olympic Scandal",
+      "prompt": "Ronan's workplace Olympics included ping-pong, walking relays and seating people with their assigned countries. What scandal occurred at his desk while he worked from home?",
       "options": [
-        "Deals salt",
-        "Audits the Death Star's expenses",
-        "Runs a Jedi driving school"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Jacky didn't need another galaxy-ending superweapon. A bartender with a salt-dealing cousin was enough.",
-      "receipts": [
-        {
-          "sender": "Jacky",
-          "date": "2022-09-28",
-          "text": "But I gotta focus in on visual media im saying og Star Wars as in Lucas sw world was so damn real that you can make a story out of anything and anyone"
-        },
-        {
-          "sender": "Jacky",
-          "date": "2022-09-28",
-          "text": "I just wanna see some guy walk into a bar and talk to his arconan bartender friend who tells him he’s got a cousin who’s a salt dealer"
-        },
-        {
-          "sender": "Jacky",
-          "date": "2022-09-28",
-          "text": "That would make my day"
-        }
-      ]
-    },
-    {
-      "id": "nathan-met-museum-fountain-head-dunk",
-      "kind": "single",
-      "category": "Cultural enrichment",
-      "title": "An Immersive Exhibit",
-      "prompt": "Nathan's report from the MET art museum wasn't about a painting. What did he admit doing, then clarify he'd done TWICE?",
-      "options": [
-        "Asking a security guard where the Lego section was",
-        "Dunking his head in the fountain",
-        "Trying to pay for a sculpture with Clash gems"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "He dunked his head in the museum fountain. Then volunteered that once had not been enough.",
-      "receipts": [
-        {
-          "sender": "Nathan",
-          "date": "2022-04-17",
-          "text": "I dunked my head in the MET art museum fountain"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2022-04-17",
-          "text": "I did it twice"
-        }
-      ]
-    },
-    {
-      "id": "charlie-ronan-greeting-warmest-condolences",
-      "kind": "single",
-      "category": "Correspondence",
-      "title": "Sorry for Your Hello",
-      "prompt": "Ronan said 'Hello charlie murlin.' How did Charlie turn this completely normal greeting into an unnecessarily formal occasion?",
-      "options": [
-        "He requested a signed letter of introduction",
-        "He sent Ronan an invoice for the conversation",
-        "He expressed his 'warmest condolences' on receiving the message"
+        "His team traded him for a printer cartridge",
+        "Someone entered his chair in the walking relay",
+        "Whoever sat there ate two of his Clif bars"
       ],
       "answer": [
         2
       ],
-      "explanation": "Charlie's reply managed to sound both delighted and bereaved. He then offered to trifle Ronan with his interests or fathom his fondest thought.",
+      "explanation": "The international seating arrangement cost Ronan two Clif bars. He was not celebrating the spirit of the Games.",
       "receipts": [
         {
           "sender": "Ronan",
-          "date": "2025-02-24",
-          "text": "Hello charlie murlin"
-        },
-        {
-          "sender": "Charlie",
-          "date": "2025-02-24",
-          "text": "I hope this message finds you well. I am elated to express my warmest condolences to have received your message. I could trifle you with my most recent interests, or fathom your most fondest thought today."
+          "date": "2024-08-01",
+          "text": "We are doing this olympics shit this week at work some of the events are work related and some are fun like walking relay or pingpong but yesterday when i was working from home they had the seating rearranged so people were sitting with their country/teams which are randomly selected. Anyway whoever was sitting at my desk ate 2 of my clif bars im pissed"
         }
       ]
     },
     {
-      "id": "nathan-fart-toots-chat-analytics-request",
+      "id": "charlie-free-beer-versus-free-laptop",
       "kind": "single",
-      "category": "Noodle data science",
-      "title": "The Important Metrics",
-      "prompt": "Nathan prefaced a programming request to Zach with 'I do not mean this as an insult.' What did he want the next chat-analysis program to track?",
+      "category": "Opportunity cost",
+      "title": "Liquidity Problem",
+      "prompt": "Charlie argued a free beer beat a free laptop. Nathan pointed out that a laptop could be sold for many beers. What was Charlie's decisive counterargument?",
       "options": [
-        "Mentions of 'fart' and 'toots'",
-        "How many arguments ended with 'true'",
-        "How often someone announced they were leaving and kept texting"
+        "What if you want a beer right now?",
+        "The laptop might only run beer-making software on Windows",
+        "Selling it would technically make the beers no longer free"
       ],
       "answer": [
         0
       ],
-      "explanation": "Message counts weren't enough. Nathan wanted a dedicated fart-and-toots tracker. He called it 'good lord analysis.'",
+      "explanation": "A laptop can teach you how to make beer. That does not solve the immediate problem of wanting one. Charlie valued time to beer.",
+      "receipts": [
+        {
+          "sender": "Charlie",
+          "date": "2024-08-13",
+          "text": "IMO a free beer would beat a free laptop"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2024-08-13",
+          "text": "A free laptop can be sold for numerous free beers ☝🏼🤓"
+        },
+        {
+          "sender": "Charlie",
+          "date": "2024-08-13",
+          "text": "With a laptop you can search how to make beer, but what if you want a beer right now? That is why you go with the beer"
+        }
+      ]
+    },
+    {
+      "id": "johannes-artifacts-dream-car-over-fence",
+      "kind": "single",
+      "category": "Dream getaway",
+      "title": "No Names, No Exclusion",
+      "prompt": "In Johannes' secret-artifact dream, an old woman with a shotgun blocked the group with a semi truck. How did the unnamed Noodle expedition escape?",
+      "options": [
+        "Disguised themselves as the artifacts",
+        "Threw their car over a fence onto the highway",
+        "Convinced her that Dimitri owned the trucking company"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "They worked together to throw the entire car over a fence. Johannes withheld the cast list to avoid exclusion allegations; Dimitri still demanded to have been there.",
+      "receipts": [
+        {
+          "sender": "Johannes",
+          "date": "2024-03-13",
+          "text": "Had a dream where some of y’all, no names for the exclusion allegations, and I in the states. We were diggin up secret artifacts and this old woman with a shotgun blocked us off with a semi truck and we worked together to throw our car over a fence onto the highway to escape. Can’t wait for part 2 of this"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2024-03-13",
+          "text": "I better have been there"
+        }
+      ]
+    },
+    {
+      "id": "dimitri-noodle-restaurant-ai-passive-income",
+      "kind": "single",
+      "category": "Noodle hospitality",
+      "title": "Almost Fully Automated",
+      "prompt": "Dimitri's restaurant plan had AI doing everything for 'passive income.' Why did he think one person might still need to be inside?",
+      "options": [
+        "To stop the robot from eating the profits",
+        "To manually type every order into the group chat",
+        "To be a face or security"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "The restaurant could apparently run itself, except for needing a human face and possibly a bouncer. Jimmy immediately volunteered for the role.",
+      "receipts": [
+        {
+          "sender": "Dimitri",
+          "date": "2024-12-14",
+          "text": "We could just get an AI to do everything in the restaurant"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2024-12-14",
+          "text": "Passive income"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2024-12-14",
+          "text": "one person has to be in there maybe just to be a face or security"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2024-12-14",
+          "text": "I’ll do it, I’ll be like the happy mask salesman"
+        }
+      ]
+    },
+    {
+      "id": "aidan-pilot-practice-exam-tiktok-drinks",
+      "kind": "single",
+      "category": "Practice conditions",
+      "title": "Minimum Passing Altitude",
+      "prompt": "Aidan passed his first pilot-ground-school PRACTICE exam with the minimum score. How did he say he'd spent about 45 minutes of the two-hour limit?",
+      "options": [
+        "On TikTok or getting more alcohol",
+        "Building a flight simulator out of dining-room chairs",
+        "Arguing with the test bank about whether birds have right of way"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "He said he was noticeably drunk, guessed some of the math questions, and still scraped a pass. This was his practice exam at home, not an actual flight.",
+      "receipts": [
+        {
+          "sender": "Aidan",
+          "date": "2025-02-26",
+          "text": "Now that I’ve finished, I need to prepare for the written exam, which is half of what you need to pass to get your private pilots license."
+        },
+        {
+          "sender": "Aidan",
+          "date": "2025-02-26",
+          "text": "I just took my first practice exam, noticeably drunk, in the dining room at my laptop, and passed on the first try (with the minimum score) despite spending about 45 minutes of the 2 hour time limit either on tik tok or getting more alcohol."
+        },
+        {
+          "sender": "Aidan",
+          "date": "2025-02-26",
+          "text": "And guessing on like 8 questions and marking them bc I was too drunk to attempt the math they needed"
+        }
+      ]
+    },
+    {
+      "id": "nathan-fallout-legendary-settler-autosave-regret",
+      "kind": "single",
+      "category": "Save-file ethics",
+      "title": "Clean Conscience, No Loot",
+      "prompt": "Nathan found a cool legendary in Fallout during 25 unsaved minutes, then said he chose a clean conscience over loot. What had gone wrong?",
+      "options": [
+        "The legendary belonged to a child NPC",
+        "He accidentally killed his own settler and everyone turned on him",
+        "He discovered the weapon was a reward for joining the wrong faction"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "He was fighting gunners outside his settlement and hit one of his own people. The entire settlement turned on him. Goodbye, legendary; hello, conscience.",
       "receipts": [
         {
           "sender": "Nathan",
-          "date": "2023-11-07",
-          "text": "Zach I do not mean this as an insult but can u make a program that tracks the mention of the words fart and toots in the gc that would be op"
+          "date": "2024-10-04",
+          "text": "Just played for 25 minutes without saving in fallout and got a cool legendary during that time but I was killing some gunners outside my main settlement and accidentally killed my own settler and everyone turned on me"
         },
         {
           "sender": "Nathan",
-          "date": "2023-11-07",
-          "text": "Like u did for messages sent and shit"
-        },
+          "date": "2024-10-04",
+          "text": "I choose clean conscious over loot but what a pain in the ass"
+        }
+      ]
+    },
+    {
+      "id": "jacky-fly-booklet-accidental-guillotine",
+      "kind": "single",
+      "category": "Pest control",
+      "title": "Death by Pamphlet",
+      "prompt": "Jacky swatted a fly with a booklet, then hit it vertically after it fell. What did he discover while picking it up?",
+      "options": [
+        "It was still carrying a crumb of his food",
+        "It had landed inside a picture of another fly",
+        "He'd decapitated it"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "The second booklet strike had become a tiny guillotine. He only noticed during cleanup.",
+      "receipts": [
         {
-          "sender": "Nathan",
-          "date": "2023-11-07",
-          "text": "Would be good lord analysis"
+          "sender": "Jacky",
+          "date": "2024-08-27",
+          "text": "I slapped this fly buzzing in my room with a booklet and it fell on the ground injured and I then hit the fly with the booklet vertically and then when picking it up to throw away I realized I decapitated that mf"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-noodle-restaurant-overcooked-ingredients",
+      "kind": "single",
+      "category": "Alternative business plan",
+      "title": "The Kitchen Has a Physics Engine",
+      "prompt": "During the AI-restaurant pitch, Jimmy offered a different operating model based on Overcooked. How would the Noodle kitchen produce its 'mid food'?",
+      "options": [
+        "By throwing ingredients at each other",
+        "By giving each cook a separate restaurant to crash into",
+        "By serving whatever the robot refused to eat"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Dimitri wanted passive income. Jimmy wanted to throw ingredients around an Overcooked kitchen. Neither pitch promised great food.",
+      "receipts": [
+        {
+          "sender": "Jimmy",
+          "date": "2024-12-14",
+          "text": "What if we just run a kitchen like in overcooked where we make mid food by throwing ingredients at each other"
         }
       ]
     }
