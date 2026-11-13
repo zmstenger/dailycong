@@ -9,71 +9,86 @@
   },
   "questions": [
     {
-      "id": "nathan-connect-four-tournament-grounding",
+      "id": "jim-sr-nickname-kenzie-greeting-reaches-dad",
       "kind": "single",
-      "category": "Organized crime",
-      "title": "Four in a Row, Grounded",
-      "prompt": "Nathan said organizing a roughly 2,500-message tournament got him grounded in ninth grade. What dangerous competitive activity had taken over the group chat?",
+      "category": "The lore escaped",
+      "title": "He Knows",
+      "prompt": "Jimmy announced that his dad was officially aware of 'Jim Sr' and wasn't happy about it. How had the nickname finally reached him?",
       "options": [
-        "Connect Four",
-        "Clash Royale",
-        "A spelling bee conducted entirely through voice messages"
+        "Kenzie walked up and said 'sup Jim sr'",
+        "It appeared on his birthday cake",
+        "Someone introduced Jimmy as Jim Jr at dinner"
       ],
       "answer": [
         0
       ],
-      "explanation": "A Connect Four tournament had become a 2,500-message domestic incident. The punishment was temporary; the competitive spirit survived.",
+      "explanation": "His family and friends already called him Jimmy. Noodle's solution was Jim Sr, and Kenzie delivered the update directly.",
       "receipts": [
         {
-          "sender": "Nathan",
-          "date": "2025-02-15",
-          "text": "I got grounded for a short time for having/organizing a 2500 ish message connect four tournament in the gc in 9th grade"
+          "sender": "Jimmy",
+          "date": "2022-07-06",
+          "text": "Funny enough my dads whole family and his friends call him Jimmy so it can get confusing"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2022-07-06",
+          "text": "My dads not happy about it but Jim Sr caught on officially now and he’s aware of it, yesterday Kenzie went up to him and said “sup Jim sr”"
         }
       ]
     },
     {
-      "id": "nico-dream-premium-water-pursuit-penalty",
+      "id": "nico-minecraft-vacation-too-tired-cover-story",
       "kind": "single",
-      "category": "Pay to lose",
-      "title": "Premium Hydration Penalty",
-      "prompt": "In Nico's video-game-like chase dream, he reached a convenience store. What happened if he bought the fancy water instead of the bad water?",
+      "category": "Sixth-grade diplomacy",
+      "title": "Just Say You're Not Home",
+      "prompt": "Zach was spam-texting sixth-grade Nico to get on their Minecraft server. Nico said he was too tired to go downstairs to his computer. What was he actually doing?",
       "options": [
-        "He had to restart the whole dream",
-        "The people chasing him got closer",
-        "The cashier became the final boss"
+        "Already playing on a different server",
+        "Still riding home from vacation",
+        "Waiting for Zach to finish building his house for him"
       ],
       "answer": [
         1
       ],
-      "explanation": "Bad water let the chase continue normally. Fancy water actively helped his pursuers. Even the dream's upgrade system was against him.",
+      "explanation": "He wasn't even home. Instead of saying that, he invented a downstairs journey he was too tired to make, leaving Zach trying to negotiate him out of it.",
       "receipts": [
         {
           "sender": "Nico",
-          "date": "2022-05-18",
-          "text": "My dream was me and 2 other people I forgot who were being chased by these people in a video game like world and I was at a convenience store and if I bought the fancy water bottle the people chasing me would get closer but if I got the bad water bottle I could continue as normal"
+          "date": "2022-06-19",
+          "text": "you told me to log onto the server to do something for a second but I was still driving back from vacation but instead of just saying that I lied and said I was too tired to go down to my computer and log on and you were spam texting me to get on"
         }
       ]
     },
     {
-      "id": "ronan-office-olympics-stolen-clif-bars",
+      "id": "nathan-fart-audio-depressurized-before-recording",
       "kind": "single",
-      "category": "International incident",
-      "title": "The Olympic Scandal",
-      "prompt": "Ronan's workplace Olympics included ping-pong, walking relays and seating people with their assigned countries. What scandal occurred at his desk while he worked from home?",
+      "category": "Lost media",
+      "title": "Compression Ruined the Audio",
+      "prompt": "Nathan tried to hold a fart long enough to record it for the chat. What technical failure ruined the performance?",
       "options": [
-        "His team traded him for a printer cartridge",
-        "Someone entered his chair in the walking relay",
-        "Whoever sat there ate two of his Clif bars"
+        "His phone connected to the car speakers",
+        "He recorded a video with the microphone muted",
+        "It 'depressurized' and came out weak"
       ],
       "answer": [
         2
       ],
-      "explanation": "The international seating arrangement cost Ronan two Clif bars. He was not celebrating the spirit of the Games.",
+      "explanation": "He reached the chat in time, but the fart had lost its power. Jimmy immediately related and wondered how Zach anticipates his recordings.",
       "receipts": [
         {
-          "sender": "Ronan",
-          "date": "2024-08-01",
-          "text": "We are doing this olympics shit this week at work some of the events are work related and some are fun like walking relay or pingpong but yesterday when i was working from home they had the seating rearranged so people were sitting with their country/teams which are randomly selected. Anyway whoever was sitting at my desk ate 2 of my clif bars im pissed"
+          "sender": "Nathan",
+          "date": "2025-02-19",
+          "text": "Tried to hold the fart long enough to get to gc but when I released it for the audio message it depressurized and was weak af 😔"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2025-02-19",
+          "text": "Me every god damn time"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2025-02-19",
+          "text": "Idk how Zach just anticipates it"
         }
       ]
     },
@@ -177,109 +192,114 @@
       ]
     },
     {
-      "id": "aidan-pilot-practice-exam-tiktok-drinks",
+      "id": "jacky-chat-inflation-federal-reserve-chair",
       "kind": "single",
-      "category": "Practice conditions",
-      "title": "Minimum Passing Altitude",
-      "prompt": "Aidan passed his first pilot-ground-school PRACTICE exam with the minimum score. How did he say he'd spent about 45 minutes of the two-hour limit?",
+      "category": "Chat macroeconomics",
+      "title": "The Fed Has Entered the Chat",
+      "prompt": "Jacky proposed letting chat nonsense build up 'inflation' until someone gets serious and triggers a discussion boom. What government job did Dimitri immediately assign him?",
       "options": [
-        "On TikTok or getting more alcohol",
-        "Building a flight simulator out of dining-room chairs",
-        "Arguing with the test bank about whether birds have right of way"
+        "Chair of the Federal Reserve",
+        "Secretary of Agriculture",
+        "Chief justice of the Supreme Court"
       ],
       "answer": [
         0
       ],
-      "explanation": "He said he was noticeably drunk, guessed some of the math questions, and still scraped a pass. This was his practice exam at home, not an actual flight.",
+      "explanation": "Jacky had turned getting annoyed at the chat into monetary policy. Nathan asked whether he'd just solved 'group chat world hunger.'",
       "receipts": [
         {
-          "sender": "Aidan",
-          "date": "2025-02-26",
-          "text": "Now that I’ve finished, I need to prepare for the written exam, which is half of what you need to pass to get your private pilots license."
+          "sender": "Jacky",
+          "date": "2023-12-15",
+          "text": "until a breaking point where it is one persons turn to get serious and said serious reaction incites actual chat economy to boom with real discussion"
         },
         {
-          "sender": "Aidan",
-          "date": "2025-02-26",
-          "text": "I just took my first practice exam, noticeably drunk, in the dining room at my laptop, and passed on the first try (with the minimum score) despite spending about 45 minutes of the 2 hour time limit either on tik tok or getting more alcohol."
+          "sender": "Nathan",
+          "date": "2023-12-15",
+          "text": "Woah did jacky just solve group chat world hunger"
         },
         {
-          "sender": "Aidan",
-          "date": "2025-02-26",
-          "text": "And guessing on like 8 questions and marking them bc I was too drunk to attempt the math they needed"
+          "sender": "Dimitri",
+          "date": "2023-12-15",
+          "text": "In chat govenrment jacky gotta be chair of federal reserve"
         }
       ]
     },
     {
-      "id": "nathan-fallout-legendary-settler-autosave-regret",
+      "id": "ronan-superman-scarecrow-solar-system-dream",
       "kind": "single",
-      "category": "Save-file ethics",
-      "title": "Clean Conscience, No Loot",
-      "prompt": "Nathan found a cool legendary in Fallout during 25 unsaved minutes, then said he chose a clean conscience over loot. What had gone wrong?",
+      "category": "Dream power scaling",
+      "title": "Superman Takes the L",
+      "prompt": "Ronan dreamed he was Superman fighting an invincible Scarecrow alongside Batman. How did he handle realizing he couldn't hurt the villain?",
       "options": [
-        "The legendary belonged to a child NPC",
-        "He accidentally killed his own settler and everyone turned on him",
-        "He discovered the weapon was a reward for joining the wrong faction"
+        "Asked Batman to buy the villain's universe",
+        "Flew into the sun and blew up the solar system",
+        "Changed his costume and pretended to be a different Superman"
       ],
       "answer": [
         1
       ],
-      "explanation": "He was fighting gunners outside his settlement and hit one of his own people. The entire settlement turned on him. Goodbye, legendary; hello, conscience.",
+      "explanation": "Scarecrow had become the embodiment of defeat and hopelessness. Superman's response was to destroy the solar system. Scarecrow was still laughing in the final scene.",
       "receipts": [
         {
-          "sender": "Nathan",
-          "date": "2024-10-04",
-          "text": "Just played for 25 minutes without saving in fallout and got a cool legendary during that time but I was killing some gunners outside my main settlement and accidentally killed my own settler and everyone turned on me"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2024-10-04",
-          "text": "I choose clean conscious over loot but what a pain in the ass"
+          "sender": "Ronan",
+          "date": "2022-05-31",
+          "text": "I think it was because i watched stranger things. Basically i was superman and i was with batman and we were fighting this like alternate universe version of scarecrow but it was fucking invincible and it turned out that universe’s version of scarecrow made a pact with a god to become the embodiment of defeat and hopelessness and i became so distraught (being superman and not hurting him) that i flew into the sun and blew up like the whole solar system and the final scene was just scarecrow laughing maniacally while everything went into flames around him."
         }
       ]
     },
     {
-      "id": "jacky-fly-booklet-accidental-guillotine",
+      "id": "nathan-gym-snack-alarm-proposal",
       "kind": "single",
-      "category": "Pest control",
-      "title": "Death by Pamphlet",
-      "prompt": "Jacky swatted a fly with a booklet, then hit it vertically after it fell. What did he discover while picking it up?",
+      "category": "Gym infrastructure",
+      "title": "Beyond the Lunk Alarm",
+      "prompt": "After discussing Planet Fitness's lunk alarm, Nathan pitched a 'gym snack alarm.' What incident was this new safety system supposed to detect?",
       "options": [
-        "It was still carrying a crumb of his food",
-        "It had landed inside a picture of another fly",
-        "He'd decapitated it"
+        "Someone eating between every rep",
+        "A protein shake exploding in a locker",
+        "Someone straining so hard they shit their pants"
       ],
       "answer": [
         2
       ],
-      "explanation": "The second booklet strike had become a tiny guillotine. He only noticed during cleanup.",
+      "explanation": "The lunk alarm was apparently not monitoring the right emergencies. Nathan proposed a much more specific one.",
       "receipts": [
         {
-          "sender": "Jacky",
-          "date": "2024-08-27",
-          "text": "I slapped this fly buzzing in my room with a booklet and it fell on the ground injured and I then hit the fly with the booklet vertically and then when picking it up to throw away I realized I decapitated that mf"
+          "sender": "Nathan",
+          "date": "2024-07-16",
+          "text": "They should make a gym snack alarm for when someone strains themselves so hard they shit their pants"
         }
       ]
     },
     {
-      "id": "jimmy-noodle-restaurant-overcooked-ingredients",
+      "id": "dimitri-exclusion-chats-grandfather-clause",
       "kind": "single",
-      "category": "Alternative business plan",
-      "title": "The Kitchen Has a Physics Engine",
-      "prompt": "During the AI-restaurant pitch, Jimmy offered a different operating model based on Overcooked. How would the Noodle kitchen produce its 'mid food'?",
+      "category": "Regulatory capture",
+      "title": "Exclusion, With Exceptions",
+      "prompt": "Dimitri announced that new exclusion chats were banned to protect the main-chat economy. What convenient exception did the legislation make?",
       "options": [
-        "By throwing ingredients at each other",
-        "By giving each cook a separate restaurant to crash into",
-        "By serving whatever the robot refused to eat"
+        "Existing exclusion chats were grandfathered in",
+        "A new chat was legal if everyone had the same first name",
+        "The ban didn't apply after midnight"
       ],
       "answer": [
         0
       ],
-      "explanation": "Dimitri wanted passive income. Jimmy wanted to throw ingredients around an Overcooked kitchen. Neither pitch promised great food.",
+      "explanation": "No new exclusion. The exclusion already in operation could continue 'of course.' Nathan promptly pointed out he was in three side chats with Ben.",
       "receipts": [
         {
-          "sender": "Jimmy",
-          "date": "2024-12-14",
-          "text": "What if we just run a kitchen like in overcooked where we make mid food by throwing ingredients at each other"
+          "sender": "Dimitri",
+          "date": "2023-08-30",
+          "text": "The most recent noodle legislation declared that exclusion new groupchats couldn’t be formed, as evidence found that new chats could be too detrimental to noodle main chat economy. Older exclusion chats are still grandfathered in of course."
+        },
+        {
+          "sender": "Ben",
+          "date": "2023-08-30",
+          "text": "Simple chatflation economics"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2023-08-30",
+          "text": "Bitch I’m in 3 other side groupchats with you in it"
         }
       ]
     }
