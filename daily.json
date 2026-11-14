@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "edition": 8,
+  "date": "2026-11-14",
+  "edition": 9,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,297 +9,297 @@
   },
   "questions": [
     {
-      "id": "jim-sr-nickname-kenzie-greeting-reaches-dad",
+      "id": "aidan-airport-delayed-christmas-carol-booed",
       "kind": "single",
-      "category": "The lore escaped",
-      "title": "He Knows",
-      "prompt": "Jimmy announced that his dad was officially aware of 'Jim Sr' and wasn't happy about it. How had the nickname finally reached him?",
+      "category": "Seasonal customer service",
+      "title": "Read the Terminal",
+      "prompt": "Aidan's Christmas Eve flight was cancelled. A gate attendant tried cheering everyone up by replacing 'jolly' with 'delayed' in a Christmas carol. How did the passengers respond?",
       "options": [
-        "Kenzie walked up and said 'sup Jim sr'",
-        "It appeared on his birthday cake",
-        "Someone introduced Jimmy as Jim Jr at dinner"
+        "Booed until she stopped",
+        "Sang the next verse back",
+        "Asked for an encore over the PA"
       ],
       "answer": [
         0
       ],
-      "explanation": "His family and friends already called him Jimmy. Noodle's solution was Jim Sr, and Kenzie delivered the update directly.",
+      "explanation": "'Tis the season to read the room. Aidan even corrected the story: the flight wasn't just delayed—it was cancelled.",
       "receipts": [
         {
-          "sender": "Jimmy",
-          "date": "2022-07-06",
-          "text": "Funny enough my dads whole family and his friends call him Jimmy so it can get confusing"
+          "sender": "Aidan",
+          "date": "2022-12-24",
+          "text": "A gate attended just sang “Tis the season to be jolly” with the word “jolly” replaced with “delayed” and everybody in the cleveland flight (that got delayed) boo’d until she stopped"
         },
         {
-          "sender": "Jimmy",
-          "date": "2022-07-06",
-          "text": "My dads not happy about it but Jim Sr caught on officially now and he’s aware of it, yesterday Kenzie went up to him and said “sup Jim sr”"
+          "sender": "Aidan",
+          "date": "2022-12-24",
+          "text": "(That got cancelled)*"
         }
       ]
     },
     {
-      "id": "nico-minecraft-vacation-too-tired-cover-story",
+      "id": "johannes-animal-battle-apes-commandeer-tank",
       "kind": "single",
-      "category": "Sixth-grade diplomacy",
-      "title": "Just Say You're Not Home",
-      "prompt": "Zach was spam-texting sixth-grade Nico to get on their Minecraft server. Nico said he was too tired to go downstairs to his computer. What was he actually doing?",
+      "category": "Opposable thumbs",
+      "title": "Combined Arms",
+      "prompt": "The animal-battle debate had already acquired a multi-year elephant revenge plot. What did Johannes say apes could do with their thumbs?",
       "options": [
-        "Already playing on a different server",
-        "Still riding home from vacation",
-        "Waiting for Zach to finish building his house for him"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "He wasn't even home. Instead of saying that, he invented a downstairs journey he was too tired to make, leaving Zach trying to negotiate him out of it.",
-      "receipts": [
-        {
-          "sender": "Nico",
-          "date": "2022-06-19",
-          "text": "you told me to log onto the server to do something for a second but I was still driving back from vacation but instead of just saying that I lied and said I was too tired to go down to my computer and log on and you were spam texting me to get on"
-        }
-      ]
-    },
-    {
-      "id": "nathan-fart-audio-depressurized-before-recording",
-      "kind": "single",
-      "category": "Lost media",
-      "title": "Compression Ruined the Audio",
-      "prompt": "Nathan tried to hold a fart long enough to record it for the chat. What technical failure ruined the performance?",
-      "options": [
-        "His phone connected to the car speakers",
-        "He recorded a video with the microphone muted",
-        "It 'depressurized' and came out weak"
+        "Build a flamethrower",
+        "Steal a helicopter",
+        "Commandeer a tank"
       ],
       "answer": [
         2
       ],
-      "explanation": "He reached the chat in time, but the fart had lost its power. Jimmy immediately related and wondered how Zach anticipates his recordings.",
-      "receipts": [
-        {
-          "sender": "Nathan",
-          "date": "2025-02-19",
-          "text": "Tried to hold the fart long enough to get to gc but when I released it for the audio message it depressurized and was weak af 😔"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2025-02-19",
-          "text": "Me every god damn time"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2025-02-19",
-          "text": "Idk how Zach just anticipates it"
-        }
-      ]
-    },
-    {
-      "id": "charlie-free-beer-versus-free-laptop",
-      "kind": "single",
-      "category": "Opportunity cost",
-      "title": "Liquidity Problem",
-      "prompt": "Charlie argued a free beer beat a free laptop. Nathan pointed out that a laptop could be sold for many beers. What was Charlie's decisive counterargument?",
-      "options": [
-        "What if you want a beer right now?",
-        "The laptop might only run beer-making software on Windows",
-        "Selling it would technically make the beers no longer free"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "A laptop can teach you how to make beer. That does not solve the immediate problem of wanting one. Charlie valued time to beer.",
-      "receipts": [
-        {
-          "sender": "Charlie",
-          "date": "2024-08-13",
-          "text": "IMO a free beer would beat a free laptop"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2024-08-13",
-          "text": "A free laptop can be sold for numerous free beers ☝🏼🤓"
-        },
-        {
-          "sender": "Charlie",
-          "date": "2024-08-13",
-          "text": "With a laptop you can search how to make beer, but what if you want a beer right now? That is why you go with the beer"
-        }
-      ]
-    },
-    {
-      "id": "johannes-artifacts-dream-car-over-fence",
-      "kind": "single",
-      "category": "Dream getaway",
-      "title": "No Names, No Exclusion",
-      "prompt": "In Johannes' secret-artifact dream, an old woman with a shotgun blocked the group with a semi truck. How did the unnamed Noodle expedition escape?",
-      "options": [
-        "Disguised themselves as the artifacts",
-        "Threw their car over a fence onto the highway",
-        "Convinced her that Dimitri owned the trucking company"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "They worked together to throw the entire car over a fence. Johannes withheld the cast list to avoid exclusion allegations; Dimitri still demanded to have been there.",
+      "explanation": "The other animals were still working with teeth and claws. Johannes gave the apes an armored division.",
       "receipts": [
         {
           "sender": "Johannes",
-          "date": "2024-03-13",
-          "text": "Had a dream where some of y’all, no names for the exclusion allegations, and I in the states. We were diggin up secret artifacts and this old woman with a shotgun blocked us off with a semi truck and we worked together to throw our car over a fence onto the highway to escape. Can’t wait for part 2 of this"
+          "date": "2024-08-17",
+          "text": "If apes were on there they’d probably commandeer a tank due to their thumbs and just blow up the elephant"
         },
         {
-          "sender": "Dimitri",
-          "date": "2024-03-13",
-          "text": "I better have been there"
+          "sender": "Ronan",
+          "date": "2024-08-17",
+          "text": "Bro you overthinking it ode 😂"
+        },
+        {
+          "sender": "Ronan",
+          "date": "2024-08-17",
+          "text": "It’s a bunch of animals fighting"
         }
       ]
     },
     {
-      "id": "dimitri-noodle-restaurant-ai-passive-income",
+      "id": "jacky-breaking-bad-jimmy-one-season-fix",
       "kind": "single",
-      "category": "Noodle hospitality",
-      "title": "Almost Fully Automated",
-      "prompt": "Dimitri's restaurant plan had AI doing everything for 'passive income.' Why did he think one person might still need to be inside?",
+      "category": "Backseat screenwriting",
+      "title": "Cancel Season Two",
+      "prompt": "Jacky told Jimmy to start Breaking Bad, then immediately reconsidered. What Jimmy commentary was he already dreading?",
       "options": [
-        "To stop the robot from eating the profits",
-        "To manually type every order into the group chat",
-        "To be a face or security"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "The restaurant could apparently run itself, except for needing a human face and possibly a bouncer. Jimmy immediately volunteered for the role.",
-      "receipts": [
-        {
-          "sender": "Dimitri",
-          "date": "2024-12-14",
-          "text": "We could just get an AI to do everything in the restaurant"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2024-12-14",
-          "text": "Passive income"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2024-12-14",
-          "text": "one person has to be in there maybe just to be a face or security"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2024-12-14",
-          "text": "I’ll do it, I’ll be like the happy mask salesman"
-        }
-      ]
-    },
-    {
-      "id": "jacky-chat-inflation-federal-reserve-chair",
-      "kind": "single",
-      "category": "Chat macroeconomics",
-      "title": "The Fed Has Entered the Chat",
-      "prompt": "Jacky proposed letting chat nonsense build up 'inflation' until someone gets serious and triggers a discussion boom. What government job did Dimitri immediately assign him?",
-      "options": [
-        "Chair of the Federal Reserve",
-        "Secretary of Agriculture",
-        "Chief justice of the Supreme Court"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Jacky had turned getting annoyed at the chat into monetary policy. Nathan asked whether he'd just solved 'group chat world hunger.'",
-      "receipts": [
-        {
-          "sender": "Jacky",
-          "date": "2023-12-15",
-          "text": "until a breaking point where it is one persons turn to get serious and said serious reaction incites actual chat economy to boom with real discussion"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2023-12-15",
-          "text": "Woah did jacky just solve group chat world hunger"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2023-12-15",
-          "text": "In chat govenrment jacky gotta be chair of federal reserve"
-        }
-      ]
-    },
-    {
-      "id": "ronan-superman-scarecrow-solar-system-dream",
-      "kind": "single",
-      "category": "Dream power scaling",
-      "title": "Superman Takes the L",
-      "prompt": "Ronan dreamed he was Superman fighting an invincible Scarecrow alongside Batman. How did he handle realizing he couldn't hurt the villain?",
-      "options": [
-        "Asked Batman to buy the villain's universe",
-        "Flew into the sun and blew up the solar system",
-        "Changed his costume and pretended to be a different Superman"
+        "Ranking every character by Clash Royale deck",
+        "Explaining how one simple fix would end the whole show",
+        "Pausing every episode to review Walter's outfit"
       ],
       "answer": [
         1
       ],
-      "explanation": "Scarecrow had become the embodiment of defeat and hopelessness. Superman's response was to destroy the solar system. Scarecrow was still laughing in the final scene.",
+      "explanation": "First Jacky recommended the show. Then he remembered Jimmy might solve the premise and complain that everyone had wasted five seasons.",
       "receipts": [
         {
-          "sender": "Ronan",
-          "date": "2022-05-31",
-          "text": "I think it was because i watched stranger things. Basically i was superman and i was with batman and we were fighting this like alternate universe version of scarecrow but it was fucking invincible and it turned out that universe’s version of scarecrow made a pact with a god to become the embodiment of defeat and hopelessness and i became so distraught (being superman and not hurting him) that i flew into the sun and blew up like the whole solar system and the final scene was just scarecrow laughing maniacally while everything went into flames around him."
+          "sender": "Jacky",
+          "date": "2022-07-22",
+          "text": "Ok start breaking bad"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2022-07-22",
+          "text": "Actually don’t watch breaking bad I don’t wanna hear jimmy say “why couldn’t just do this” or “if they just did this the show would’ve just been one season” or the like"
         }
       ]
     },
     {
-      "id": "nathan-gym-snack-alarm-proposal",
+      "id": "ronan-clash-of-clans-civil-war-reenactment",
       "kind": "single",
-      "category": "Gym infrastructure",
-      "title": "Beyond the Lunk Alarm",
-      "prompt": "After discussing Planet Fitness's lunk alarm, Nathan pitched a 'gym snack alarm.' What incident was this new safety system supposed to detect?",
+      "category": "Live-action mobile gaming",
+      "title": "Bring Your Own Barbarian",
+      "prompt": "Ronan wanted the full Civil War battle-reenactment treatment for something else. What was getting the historical-society production budget?",
       "options": [
-        "Someone eating between every rep",
-        "A protein shake exploding in a locker",
-        "Someone straining so hard they shit their pants"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "The lunk alarm was apparently not monitoring the right emergencies. Nathan proposed a much more specific one.",
-      "receipts": [
-        {
-          "sender": "Nathan",
-          "date": "2024-07-16",
-          "text": "They should make a gym snack alarm for when someone strains themselves so hard they shit their pants"
-        }
-      ]
-    },
-    {
-      "id": "dimitri-exclusion-chats-grandfather-clause",
-      "kind": "single",
-      "category": "Regulatory capture",
-      "title": "Exclusion, With Exceptions",
-      "prompt": "Dimitri announced that new exclusion chats were banned to protect the main-chat economy. What convenient exception did the legislation make?",
-      "options": [
-        "Existing exclusion chats were grandfathered in",
-        "A new chat was legal if everyone had the same first name",
-        "The ban didn't apply after midnight"
+        "Clash of Clans battles",
+        "A Pokémon gym challenge",
+        "A round of Bloons Tower Defense"
       ],
       "answer": [
         0
       ],
-      "explanation": "No new exclusion. The exclusion already in operation could continue 'of course.' Nathan promptly pointed out he was in three side chats with Ben.",
+      "explanation": "Period uniforms out. Barbarians in. Jimmy's review of the pitch was simply 'Touchable fs.'",
+      "receipts": [
+        {
+          "sender": "Ronan",
+          "date": "2025-03-09",
+          "text": "I was just talking to my boy imagine if they did like civil war recreations battles but its clash of clans 😂😂"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2025-03-09",
+          "text": "Touchable fs"
+        }
+      ]
+    },
+    {
+      "id": "nathan-panera-bread-bowl-baguette-redundancy",
+      "kind": "single",
+      "category": "Bread with a side of bread",
+      "title": "Would You Like Bread With That?",
+      "prompt": "Nathan's Panera order already had a bread bowl, bread in the soup, and the sourdough scooped out of the bowl. What side did they keep giving him?",
+      "options": [
+        "Another empty bread bowl",
+        "A cup of croutons",
+        "A slice of baguette"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "The structural bread, the internal bread, the excavated bread—and a little baguette in case the meal needed bread.",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2024-06-14",
+          "text": "Every time I go to Panera I get a bread bowl chicken noodle or some other soup and every time they give a a slice of a baguette as a side even tho the bowl is made of bread, the soup is full of bread, and they give u the extra sourdough they took out to make the bread bowl"
+        }
+      ]
+    },
+    {
+      "id": "charlie-dung-beetle-endless-poop-hill",
+      "kind": "single",
+      "category": "Late-night philosophy",
+      "title": "One Must Imagine Him Stinky",
+      "prompt": "Charlie suddenly dropped an image of endless, doomed labor into chat. Who was stuck failing to finish the job?",
+      "options": [
+        "An ant rebuilding a sandcastle in the rain",
+        "A dung beetle rolling poop uphill and never reaching the top",
+        "A snail trying to leave a treadmill"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "Zach called it interesting imagery and said it must mean something deep. Charlie had supplied a poop-powered philosophy seminar.",
+      "receipts": [
+        {
+          "sender": "Charlie",
+          "date": "2024-12-09",
+          "text": "Imagine being a dung beetle rolling a ball of poop up a hill but failing every time before reaching the top"
+        },
+        {
+          "sender": "Zach",
+          "date": "2024-12-09",
+          "text": "That’s some interesting imagery"
+        },
+        {
+          "sender": "Zach",
+          "date": "2024-12-09",
+          "text": "Must mean something deep"
+        }
+      ]
+    },
+    {
+      "id": "ben-dream-hotel-assassins-cop-grenade-belt",
+      "kind": "single",
+      "category": "Dream police equipment",
+      "title": "Standard Issue, Apparently",
+      "prompt": "In Ben's dream, a hotel arrest turned into a fight with trained assassins. What did dream-cop Ben suddenly have on his utility belt?",
+      "options": [
+        "A grenade",
+        "A grappling hook",
+        "A portable riot shield"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "The hotel guests were assassins, his backup was gone, and his dream supplied the grenade. Ben even questioned why a cop would have one on his belt.",
+      "receipts": [
+        {
+          "sender": "Ben",
+          "date": "2023-10-01",
+          "text": "I had op dream where my pov was this cop arresting these belligerent hotel guests but then it turned out they were trained assassins and my cop friends got murked and i died pulling a grenade as they surrounded me (as a cop would have one on their utility belt of course)"
+        }
+      ]
+    },
+    {
+      "id": "dimitri-drinking-olympics-relay-drunk-cubing",
+      "kind": "single",
+      "category": "Representing Noodle",
+      "title": "The Cube Has Been Passed",
+      "prompt": "Dimitri declared he would win for Noodle at the drinking Olympics. When Nathan asked his specialty, which event did he nominate?",
+      "options": [
+        "Blindfolded beer pong",
+        "Speedrunning a Mario Kart drinking lap",
+        "Relay drunk cubing"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Noodle's sporting representative went straight to the cube relay. Nathan was immediately confident he could still hit a good average.",
       "receipts": [
         {
           "sender": "Dimitri",
-          "date": "2023-08-30",
-          "text": "The most recent noodle legislation declared that exclusion new groupchats couldn’t be formed, as evidence found that new chats could be too detrimental to noodle main chat economy. Older exclusion chats are still grandfathered in of course."
-        },
-        {
-          "sender": "Ben",
-          "date": "2023-08-30",
-          "text": "Simple chatflation economics"
+          "date": "2025-03-15",
+          "text": "I’m gonna win for noodle"
         },
         {
           "sender": "Nathan",
-          "date": "2023-08-30",
-          "text": "Bitch I’m in 3 other side groupchats with you in it"
+          "date": "2025-03-15",
+          "text": "So D what events r yur specialty"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2025-03-15",
+          "text": "Relay drunk cubing"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2025-03-15",
+          "text": "I can def still hit a good avg"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-noodle-monopoly-nye-lose-200",
+      "kind": "single",
+      "category": "Community Chest",
+      "title": "Do Not Collect",
+      "prompt": "Jimmy proposed an actual Noodle Monopoly game and immediately wrote a New Year's Eve card. What was its financial effect?",
+      "options": [
+        "Collect $200 for hosting",
+        "Lose $200",
+        "Pay every other player $20"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "The first sample card was already charging you for New Year's Eve. Noodle Monopoly was not handing out a holiday bonus.",
+      "receipts": [
+        {
+          "sender": "Jimmy",
+          "date": "2023-12-10",
+          "text": "We should unironically make a monopoly game of noodle thing"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2023-12-10",
+          "text": "lose $200"
+        }
+      ]
+    },
+    {
+      "id": "nico-separate-question-answer-narration-chats",
+      "kind": "single",
+      "category": "Message routing",
+      "title": "Your Answer Is in Another Chat",
+      "prompt": "Nico proposed separate chats for asking questions, answering them, and narration. What missing function did Nathan immediately demand its own chat for?",
+      "options": [
+        "Reactions",
+        "Correcting typos",
+        "Announcing that you're typing"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nico then wanted subcategories, and Nathan wanted questions, answers and lore discussion for each one. Even the reactions needed their own destination.",
+      "receipts": [
+        {
+          "sender": "Nico",
+          "date": "2022-04-17",
+          "text": "We should make a chat for asking questions and another for responding to questions and another for narration"
+        },
+        {
+          "sender": "Nico",
+          "date": "2022-04-17",
+          "text": "And another for each subcategory of interest"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2022-04-17",
+          "text": "Yes we’ve been over this before we need a reactions chat too we also need a questions and answers and lore discussion chat for each subcategory"
         }
       ]
     }
