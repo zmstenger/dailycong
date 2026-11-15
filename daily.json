@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14",
-  "edition": 9,
+  "date": "2026-11-15",
+  "edition": 10,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,297 +9,292 @@
   },
   "questions": [
     {
-      "id": "aidan-airport-delayed-christmas-carol-booed",
+      "id": "aidan-imperial-speed-percent-fast",
       "kind": "single",
-      "category": "Seasonal customer service",
-      "title": "Read the Terminal",
-      "prompt": "Aidan's Christmas Eve flight was cancelled. A gate attendant tried cheering everyone up by replacing 'jolly' with 'delayed' in a Christmas carol. How did the passengers respond?",
+      "category": "American units",
+      "title": "Full Speed, Mathematically",
+      "prompt": "Defending imperial units, Aidan explained why 100 mph makes intuitive sense. What did he say it means?",
       "options": [
-        "Booed until she stopped",
-        "Sang the next verse back",
-        "Asked for an encore over the PA"
+        "You're going 100% fast",
+        "You're using 100% of the engine",
+        "You've reached 100% of the speed limit"
       ],
       "answer": [
         0
       ],
-      "explanation": "'Tis the season to read the room. Aidan even corrected the story: the flight wasn't just delayed—it was cancelled.",
+      "explanation": "20 mph was 20% fast. When Nathan suggested defining 100% by the fastest you'd ever driven, Aidan insisted it should be defined by how it feels.",
       "receipts": [
         {
           "sender": "Aidan",
-          "date": "2022-12-24",
-          "text": "A gate attended just sang “Tis the season to be jolly” with the word “jolly” replaced with “delayed” and everybody in the cleveland flight (that got delayed) boo’d until she stopped"
+          "date": "2025-02-13",
+          "text": "If you’re driving, right, you go 100 mph, you’re going 100% fast. You go 20 mph, you’re going 20% fast. This applies to all speeds"
         },
         {
           "sender": "Aidan",
-          "date": "2022-12-24",
-          "text": "(That got cancelled)*"
+          "date": "2025-02-13",
+          "text": "No, it should be defined as how it feels. 100 feels like 100% to most people."
         }
       ]
     },
     {
-      "id": "johannes-animal-battle-apes-commandeer-tank",
+      "id": "nico-send-later-five-hour-fart-no-audio",
       "kind": "single",
-      "category": "Opposable thumbs",
-      "title": "Combined Arms",
-      "prompt": "The animal-battle debate had already acquired a multi-year elephant revenge plot. What did Johannes say apes could do with their thumbs?",
+      "category": "Scheduled delivery",
+      "title": "Aged to Imperfection",
+      "prompt": "Nico scheduled a message announcing his five-hour-old fart. What problem did his grand use of Send Later immediately run into?",
       "options": [
-        "Build a flamethrower",
-        "Steal a helicopter",
-        "Commandeer a tank"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "The other animals were still working with teeth and claws. Johannes gave the apes an armored division.",
-      "receipts": [
-        {
-          "sender": "Johannes",
-          "date": "2024-08-17",
-          "text": "If apes were on there they’d probably commandeer a tank due to their thumbs and just blow up the elephant"
-        },
-        {
-          "sender": "Ronan",
-          "date": "2024-08-17",
-          "text": "Bro you overthinking it ode 😂"
-        },
-        {
-          "sender": "Ronan",
-          "date": "2024-08-17",
-          "text": "It’s a bunch of animals fighting"
-        }
-      ]
-    },
-    {
-      "id": "jacky-breaking-bad-jimmy-one-season-fix",
-      "kind": "single",
-      "category": "Backseat screenwriting",
-      "title": "Cancel Season Two",
-      "prompt": "Jacky told Jimmy to start Breaking Bad, then immediately reconsidered. What Jimmy commentary was he already dreading?",
-      "options": [
-        "Ranking every character by Clash Royale deck",
-        "Explaining how one simple fix would end the whole show",
-        "Pausing every episode to review Walter's outfit"
+        "It sent to the wrong group",
+        "Audio messages couldn't be scheduled",
+        "The recording expired before delivery"
       ],
       "answer": [
         1
       ],
-      "explanation": "First Jacky recommended the show. Then he remembered Jimmy might solve the premise and complain that everyone had wasted five seasons.",
+      "explanation": "The announcement arrived. The aged audio did not: Nico followed it with the discovery that he couldn't send audio messages later.",
       "receipts": [
         {
-          "sender": "Jacky",
-          "date": "2022-07-22",
-          "text": "Ok start breaking bad"
+          "sender": "Nico",
+          "date": "2025-02-18",
+          "text": "Hey guys I’m using the Apple send later feature to send this at 7pm. It’s currently 1:45 so here is my 5 hour old fart"
         },
         {
-          "sender": "Jacky",
-          "date": "2022-07-22",
-          "text": "Actually don’t watch breaking bad I don’t wanna hear jimmy say “why couldn’t just do this” or “if they just did this the show would’ve just been one season” or the like"
+          "sender": "Nico",
+          "date": "2025-02-18",
+          "text": "Bruh I can’t send audio messages later"
         }
       ]
     },
     {
-      "id": "ronan-clash-of-clans-civil-war-reenactment",
+      "id": "ben-dubai-prank-hair-passport",
       "kind": "single",
-      "category": "Live-action mobile gaming",
-      "title": "Bring Your Own Barbarian",
-      "prompt": "Ronan wanted the full Civil War battle-reenactment treatment for something else. What was getting the historical-society production budget?",
+      "category": "Group travel proposals",
+      "title": "Return Flight Optional",
+      "prompt": "Ben proposed a Dubai trip with a prank on Nathan. Besides bleaching his hair, what was the second part of the plan?",
       "options": [
-        "Clash of Clans battles",
-        "A Pokémon gym challenge",
-        "A round of Bloons Tower Defense"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Period uniforms out. Barbarians in. Jimmy's review of the pitch was simply 'Touchable fs.'",
-      "receipts": [
-        {
-          "sender": "Ronan",
-          "date": "2025-03-09",
-          "text": "I was just talking to my boy imagine if they did like civil war recreations battles but its clash of clans 😂😂"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2025-03-09",
-          "text": "Touchable fs"
-        }
-      ]
-    },
-    {
-      "id": "nathan-panera-bread-bowl-baguette-redundancy",
-      "kind": "single",
-      "category": "Bread with a side of bread",
-      "title": "Would You Like Bread With That?",
-      "prompt": "Nathan's Panera order already had a bread bowl, bread in the soup, and the sourdough scooped out of the bowl. What side did they keep giving him?",
-      "options": [
-        "Another empty bread bowl",
-        "A cup of croutons",
-        "A slice of baguette"
+        "Swap his suitcase for a bag of sand",
+        "Book his return flight to the wrong country",
+        "Shred his passport"
       ],
       "answer": [
         2
       ],
-      "explanation": "The structural bread, the internal bread, the excavated bread—and a little baguette in case the meal needed bread.",
-      "receipts": [
-        {
-          "sender": "Nathan",
-          "date": "2024-06-14",
-          "text": "Every time I go to Panera I get a bread bowl chicken noodle or some other soup and every time they give a a slice of a baguette as a side even tho the bowl is made of bread, the soup is full of bread, and they give u the extra sourdough they took out to make the bread bowl"
-        }
-      ]
-    },
-    {
-      "id": "charlie-dung-beetle-endless-poop-hill",
-      "kind": "single",
-      "category": "Late-night philosophy",
-      "title": "One Must Imagine Him Stinky",
-      "prompt": "Charlie suddenly dropped an image of endless, doomed labor into chat. Who was stuck failing to finish the job?",
-      "options": [
-        "An ant rebuilding a sandcastle in the rain",
-        "A dung beetle rolling poop uphill and never reaching the top",
-        "A snail trying to leave a treadmill"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "Zach called it interesting imagery and said it must mean something deep. Charlie had supplied a poop-powered philosophy seminar.",
-      "receipts": [
-        {
-          "sender": "Charlie",
-          "date": "2024-12-09",
-          "text": "Imagine being a dung beetle rolling a ball of poop up a hill but failing every time before reaching the top"
-        },
-        {
-          "sender": "Zach",
-          "date": "2024-12-09",
-          "text": "That’s some interesting imagery"
-        },
-        {
-          "sender": "Zach",
-          "date": "2024-12-09",
-          "text": "Must mean something deep"
-        }
-      ]
-    },
-    {
-      "id": "ben-dream-hotel-assassins-cop-grenade-belt",
-      "kind": "single",
-      "category": "Dream police equipment",
-      "title": "Standard Issue, Apparently",
-      "prompt": "In Ben's dream, a hotel arrest turned into a fight with trained assassins. What did dream-cop Ben suddenly have on his utility belt?",
-      "options": [
-        "A grenade",
-        "A grappling hook",
-        "A portable riot shield"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "The hotel guests were assassins, his backup was gone, and his dream supplied the grenade. Ben even questioned why a cop would have one on his belt.",
+      "explanation": "A new hairstyle and no travel document. Ben's contribution to the vacation planning was a logistical hostage situation.",
       "receipts": [
         {
           "sender": "Ben",
-          "date": "2023-10-01",
-          "text": "I had op dream where my pov was this cop arresting these belligerent hotel guests but then it turned out they were trained assassins and my cop friends got murked and i died pulling a grenade as they surrounded me (as a cop would have one on their utility belt of course)"
+          "date": "2023-11-28",
+          "text": "Lets all go to dubai and for a prank bleach nathan’s hair and shred his passport"
         }
       ]
     },
     {
-      "id": "dimitri-drinking-olympics-relay-drunk-cubing",
+      "id": "jacky-ben-chat-return-phone-bill-prank",
       "kind": "single",
-      "category": "Representing Noodle",
-      "title": "The Cube Has Been Passed",
-      "prompt": "Dimitri declared he would win for Noodle at the drinking Olympics. When Nathan asked his specialty, which event did he nominate?",
+      "category": "Respecting the request",
+      "title": "Roaming Charges Apply",
+      "prompt": "Ben left chat with one request: don't add him back because it would mess up his data. What was Jacky's immediate counterproposal?",
       "options": [
-        "Blindfolded beer pong",
-        "Speedrunning a Mario Kart drinking lap",
-        "Relay drunk cubing"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "Noodle's sporting representative went straight to the cube relay. Nathan was immediately confident he could still hit a good average.",
-      "receipts": [
-        {
-          "sender": "Dimitri",
-          "date": "2025-03-15",
-          "text": "I’m gonna win for noodle"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2025-03-15",
-          "text": "So D what events r yur specialty"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2025-03-15",
-          "text": "Relay drunk cubing"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2025-03-15",
-          "text": "I can def still hit a good avg"
-        }
-      ]
-    },
-    {
-      "id": "jimmy-noodle-monopoly-nye-lose-200",
-      "kind": "single",
-      "category": "Community Chest",
-      "title": "Do Not Collect",
-      "prompt": "Jimmy proposed an actual Noodle Monopoly game and immediately wrote a New Year's Eve card. What was its financial effect?",
-      "options": [
-        "Collect $200 for hosting",
-        "Lose $200",
-        "Pay every other player $20"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "The first sample card was already charging you for New Year's Eve. Noodle Monopoly was not handing out a holiday bonus.",
-      "receipts": [
-        {
-          "sender": "Jimmy",
-          "date": "2023-12-10",
-          "text": "We should unironically make a monopoly game of noodle thing"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2023-12-10",
-          "text": "lose $200"
-        }
-      ]
-    },
-    {
-      "id": "nico-separate-question-answer-narration-chats",
-      "kind": "single",
-      "category": "Message routing",
-      "title": "Your Answer Is in Another Chat",
-      "prompt": "Nico proposed separate chats for asking questions, answering them, and narration. What missing function did Nathan immediately demand its own chat for?",
-      "options": [
-        "Reactions",
-        "Correcting typos",
-        "Announcing that you're typing"
+        "Add him back and destroy his phone bill",
+        "Send him printed chat transcripts",
+        "Make him pay a re-entry fee"
       ],
       "answer": [
         0
       ],
-      "explanation": "Nico then wanted subcategories, and Nathan wanted questions, answers and lore discussion for each one. Even the reactions needed their own destination.",
+      "explanation": "Ben had clearly identified the one thing not to do. Jacky had clearly identified the prank.",
       "receipts": [
         {
-          "sender": "Nico",
-          "date": "2022-04-17",
-          "text": "We should make a chat for asking questions and another for responding to questions and another for narration"
+          "sender": "Ben",
+          "date": "2022-05-22",
+          "text": "Gotta go please don’t add me back it’ll fuck up my data"
         },
         {
-          "sender": "Nico",
-          "date": "2022-04-17",
-          "text": "And another for each subcategory of interest"
+          "sender": "Jacky",
+          "date": "2022-05-22",
+          "text": "Add him back as a prank and destroy his phone bill"
+        }
+      ]
+    },
+    {
+      "id": "charlie-swimming-dream-knockoff-cars",
+      "kind": "single",
+      "category": "Dream swim practice",
+      "title": "Poolside Cinema",
+      "prompt": "Charlie dreamed he was back swimming in high school, but the pool was so small that Nico supplied an alternative activity. What did Nico put on?",
+      "options": [
+        "A Wii Sports tournament",
+        "A knockoff Cars movie",
+        "A slideshow of larger pools"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "Not even the real Cars. Dream swim practice had somehow become a budget movie screening.",
+      "receipts": [
+        {
+          "sender": "Charlie",
+          "date": "2024-07-01",
+          "text": "Had a dream I was back in hs swimming and the pool was so small that nico put on knock off cars to watch"
+        }
+      ]
+    },
+    {
+      "id": "dimitri-noodle-property-empire-no-major-crash",
+      "kind": "single",
+      "category": "Noodle Inc. risk management",
+      "title": "One Tiny Condition",
+      "prompt": "Dimitri's real-estate empire plan was to borrow against a building, buy another, then borrow against that one too. What small condition did he attach?",
+      "options": [
+        "Nobody could ever move out",
+        "Every tenant had to join Noodle",
+        "There just couldn't be a major crash"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Buy building. Borrow. Buy building. Borrow. Just keep the economy from doing anything dramatic.",
+      "receipts": [
+        {
+          "sender": "Dimitri",
+          "date": "2025-03-17",
+          "text": "It would very very interesting idea if we all split an apartment building, lived there, rented out the rest to cover expenses"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2025-03-17",
+          "text": "You get a loan out on the building and buy another building"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2025-03-17",
+          "text": "Then you take a loan out on that building"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2025-03-17",
+          "text": "There just can’t be a major crash 🔥"
+        }
+      ]
+    },
+    {
+      "id": "ronan-nathan-bookshelf-bodycheck-recollection",
+      "kind": "single",
+      "category": "Disputed furniture lore",
+      "title": "Shelf Defense",
+      "prompt": "Nathan didn't remember knocking down Ronan's bookshelf, though he remembered toppling his own while climbing it. How did Ronan say his shelf had come down?",
+      "options": [
+        "Nathan bodychecked it",
+        "Nathan tried to sit on the top shelf",
+        "Nathan pulled a book out with a jump rope"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Nathan had a different bookshelf incident ready to go. Ronan's recollection involved a bodycheck and the whole thing coming down.",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2022-03-27",
+          "text": "I remember one time I knocked over my own bookshelf while I was climbing it and almost died"
         },
         {
           "sender": "Nathan",
-          "date": "2022-04-17",
-          "text": "Yes we’ve been over this before we need a reactions chat too we also need a questions and answers and lore discussion chat for each subcategory"
+          "date": "2022-03-27",
+          "text": "I just don’t remember doing that at Ron’s not that it didn’t happen or anything"
+        },
+        {
+          "sender": "Ronan",
+          "date": "2022-03-27",
+          "text": "bodychecked the bookshelf for no reason and the whole thing came down."
+        }
+      ]
+    },
+    {
+      "id": "nico-gym-lecture-mechanical-system",
+      "kind": "single",
+      "category": "Technical support",
+      "title": "Have You Tried Rebooting It?",
+      "prompt": "After Nico failed a bench press, a guy at the gym delivered twenty minutes of technique and motivation. What did he keep calling Nico's body?",
+      "options": [
+        "His biological forklift",
+        "His mechanical system",
+        "His personal battle station"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "It was just Nico fighting Nico, apparently, but first someone had to explain the mechanical system for twenty minutes.",
+      "receipts": [
+        {
+          "sender": "Nico",
+          "date": "2024-12-14",
+          "text": "This extremely based sigma guy came up to me at the gym cuz I failed a bench and couldn’t get up and he dropped lore for like 20 minutes about technique and how it’s just you fighting you and he kept refer to my body as my mechanical system"
+        }
+      ]
+    },
+    {
+      "id": "nathan-dream-twenty-hour-game-three-percent",
+      "kind": "single",
+      "category": "Dream completionist run",
+      "title": "Just Getting Started",
+      "prompt": "Nathan dreamed he played a Souls-like game for twenty hours and beat the main story. What did checking his progress reveal?",
+      "options": [
+        "He'd already completed every side quest",
+        "He'd been playing someone else's save",
+        "He was only 3% of the way to full completion"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Twenty hours and the main story down, ninety-seven percent left. Nico took this as a sign Nathan should play Bloodborne.",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2022-04-23",
+          "text": "I had a long ass dream of playing this cool video game that was basically a souls game and I played it for like 20 hours and beat the main story then checked my game progress and it said I was 3% of the way towards full completion then I woke I"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2022-04-23",
+          "text": "Up"
+        },
+        {
+          "sender": "Nico",
+          "date": "2022-04-23",
+          "text": "That’s ur sign to play bloodborne"
+        }
+      ]
+    },
+    {
+      "id": "nathan-english-class-instagram-reels",
+      "kind": "single",
+      "category": "Curriculum reform",
+      "title": "Assigned Scrolling",
+      "prompt": "A debate about making English class more engaging reached Jacky's demand for zero books. What replacement class did Nathan propose?",
+      "options": [
+        "Instagram Reels class",
+        "YouTube apology analysis",
+        "Clash Royale literature"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "The discussion started with giving students a choice of books. It reached zero books, then Instagram Reels class.",
+      "receipts": [
+        {
+          "sender": "Jacky",
+          "date": "2025-01-24",
+          "text": "Why r some of u arguing for choosing between multiple books?"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2025-01-24",
+          "text": "We should have been able to choose to read NO BOOKS"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2025-01-24",
+          "text": "We should replace English class with Instagram reels class"
         }
       ]
     }
