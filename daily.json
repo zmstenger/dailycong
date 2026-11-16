@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-15",
-  "edition": 10,
+  "date": "2026-11-16",
+  "edition": 11,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,292 +9,297 @@
   },
   "questions": [
     {
-      "id": "aidan-imperial-speed-percent-fast",
+      "id": "nico-work-nap-dream-doing-work",
       "kind": "single",
-      "category": "American units",
-      "title": "Full Speed, Mathematically",
-      "prompt": "Defending imperial units, Aidan explained why 100 mph makes intuitive sense. What did he say it means?",
+      "category": "Productivity metrics",
+      "title": "Clocked In, Eyes Closed",
+      "prompt": "Nico said he'd taken another nap at work. What happened in the dream that convinced him to keep sleeping?",
       "options": [
-        "You're going 100% fast",
-        "You're using 100% of the engine",
-        "You've reached 100% of the speed limit"
+        "He was doing work",
+        "His boss had cancelled the workday",
+        "He'd already finished the whole week"
       ],
       "answer": [
         0
       ],
-      "explanation": "20 mph was 20% fast. When Nathan suggested defining 100% by the fastest you'd ever driven, Aidan insisted it should be defined by how it feels.",
+      "explanation": "His dream supplied the work, so he supplied the sleep. A complete shift, according to the sleeping employee.",
       "receipts": [
         {
-          "sender": "Aidan",
-          "date": "2025-02-13",
-          "text": "If you’re driving, right, you go 100 mph, you’re going 100% fast. You go 20 mph, you’re going 20% fast. This applies to all speeds"
-        },
-        {
-          "sender": "Aidan",
-          "date": "2025-02-13",
-          "text": "No, it should be defined as how it feels. 100 feels like 100% to most people."
+          "sender": "Nico",
+          "date": "2025-02-11",
+          "text": "I took another nap today at work and my dream was that I was doing work so I kept sleeping"
         }
       ]
     },
     {
-      "id": "nico-send-later-five-hour-fart-no-audio",
+      "id": "jacky-estate-typewriter-lore-collectibles",
       "kind": "single",
-      "category": "Scheduled delivery",
-      "title": "Aged to Imperfection",
-      "prompt": "Nico scheduled a message announcing his five-hour-old fart. What problem did his grand use of Send Later immediately run into?",
+      "category": "Environmental storytelling",
+      "title": "Optional Lore Pickup",
+      "prompt": "Dimitri spotted a working typewriter at an estate sale. What use did Jacky propose for it?",
       "options": [
-        "It sent to the wrong group",
-        "Audio messages couldn't be scheduled",
-        "The recording expired before delivery"
+        "Print official Noodle parking tickets",
+        "Write lore codex entries and scatter them as collectibles",
+        "Send everyone formal cease-and-desist letters"
       ],
       "answer": [
         1
       ],
-      "explanation": "The announcement arrived. The aged audio did not: Nico followed it with the discovery that he couldn't send audio messages later.",
+      "explanation": "Dimitri saw an antique. Jacky saw a place that needed discoverable lore entries for the players.",
       "receipts": [
         {
-          "sender": "Nico",
-          "date": "2025-02-18",
-          "text": "Hey guys I’m using the Apple send later feature to send this at 7pm. It’s currently 1:45 so here is my 5 hour old fart"
-        },
-        {
-          "sender": "Nico",
-          "date": "2025-02-18",
-          "text": "Bruh I can’t send audio messages later"
-        }
-      ]
-    },
-    {
-      "id": "ben-dubai-prank-hair-passport",
-      "kind": "single",
-      "category": "Group travel proposals",
-      "title": "Return Flight Optional",
-      "prompt": "Ben proposed a Dubai trip with a prank on Nathan. Besides bleaching his hair, what was the second part of the plan?",
-      "options": [
-        "Swap his suitcase for a bag of sand",
-        "Book his return flight to the wrong country",
-        "Shred his passport"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "A new hairstyle and no travel document. Ben's contribution to the vacation planning was a logistical hostage situation.",
-      "receipts": [
-        {
-          "sender": "Ben",
-          "date": "2023-11-28",
-          "text": "Lets all go to dubai and for a prank bleach nathan’s hair and shred his passport"
-        }
-      ]
-    },
-    {
-      "id": "jacky-ben-chat-return-phone-bill-prank",
-      "kind": "single",
-      "category": "Respecting the request",
-      "title": "Roaming Charges Apply",
-      "prompt": "Ben left chat with one request: don't add him back because it would mess up his data. What was Jacky's immediate counterproposal?",
-      "options": [
-        "Add him back and destroy his phone bill",
-        "Send him printed chat transcripts",
-        "Make him pay a re-entry fee"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Ben had clearly identified the one thing not to do. Jacky had clearly identified the prank.",
-      "receipts": [
-        {
-          "sender": "Ben",
-          "date": "2022-05-22",
-          "text": "Gotta go please don’t add me back it’ll fuck up my data"
+          "sender": "Dimitri",
+          "date": "2023-05-26",
+          "text": "I’m at an estate Should I cop a working typewriter for $15"
         },
         {
           "sender": "Jacky",
-          "date": "2022-05-22",
-          "text": "Add him back as a prank and destroy his phone bill"
+          "date": "2023-05-26",
+          "text": "Should use the typewriter for lore codex entries and leave them in photos scattered around the place for players to find as lore collectibles"
         }
       ]
     },
     {
-      "id": "charlie-swimming-dream-knockoff-cars",
+      "id": "jimmy-ice-nathan-fairlife-bottle",
       "kind": "single",
-      "category": "Dream swim practice",
-      "title": "Poolside Cinema",
-      "prompt": "Charlie dreamed he was back swimming in high school, but the pool was so small that Nico supplied an alternative activity. What did Nico put on?",
+      "category": "Cong hospitality",
+      "title": "You've Been Milked",
+      "prompt": "Jimmy proposed 'icing' Nathan at the first cong, with a substitution for the usual drink. What bottle would Nathan be getting?",
       "options": [
-        "A Wii Sports tournament",
-        "A knockoff Cars movie",
-        "A slideshow of larger pools"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "Not even the real Cars. Dream swim practice had somehow become a budget movie screening.",
-      "receipts": [
-        {
-          "sender": "Charlie",
-          "date": "2024-07-01",
-          "text": "Had a dream I was back in hs swimming and the pool was so small that nico put on knock off cars to watch"
-        }
-      ]
-    },
-    {
-      "id": "dimitri-noodle-property-empire-no-major-crash",
-      "kind": "single",
-      "category": "Noodle Inc. risk management",
-      "title": "One Tiny Condition",
-      "prompt": "Dimitri's real-estate empire plan was to borrow against a building, buy another, then borrow against that one too. What small condition did he attach?",
-      "options": [
-        "Nobody could ever move out",
-        "Every tenant had to join Noodle",
-        "There just couldn't be a major crash"
+        "Maple syrup",
+        "A melted protein bar",
+        "Fairlife"
       ],
       "answer": [
         2
       ],
-      "explanation": "Buy building. Borrow. Buy building. Borrow. Just keep the economy from doing anything dramatic.",
+      "explanation": "Same ambush format, different beverage. Jimmy's version came with a bottle of Fairlife.",
       "receipts": [
         {
-          "sender": "Dimitri",
-          "date": "2025-03-17",
-          "text": "It would very very interesting idea if we all split an apartment building, lived there, rented out the rest to cover expenses"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2025-03-17",
-          "text": "You get a loan out on the building and buy another building"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2025-03-17",
-          "text": "Then you take a loan out on that building"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2025-03-17",
-          "text": "There just can’t be a major crash 🔥"
+          "sender": "Jimmy",
+          "date": "2022-12-07",
+          "text": "It’d be so op if at the first cong we ice Nathan but instead of an ice it’s a bottle of fairlife"
         }
       ]
     },
     {
-      "id": "ronan-nathan-bookshelf-bodycheck-recollection",
+      "id": "ronan-company-jonathan-paper-check-director",
       "kind": "single",
-      "category": "Disputed furniture lore",
-      "title": "Shelf Defense",
-      "prompt": "Nathan didn't remember knocking down Ronan's bookshelf, though he remembered toppling his own while climbing it. How did Ronan say his shelf had come down?",
+      "category": "Noodle human resources",
+      "title": "Direct Deposit Denied",
+      "prompt": "Ronan cast Jonathan as Noodle's grumpy director who'd been there too long. What old-school policy would this fictional Jonathan insist on?",
       "options": [
-        "Nathan bodychecked it",
-        "Nathan tried to sit on the top shelf",
-        "Nathan pulled a book out with a jump rope"
+        "Pay everyone in paper checks",
+        "Ban lunch breaks after noon",
+        "Make every meeting a conference call"
       ],
       "answer": [
         0
       ],
-      "explanation": "Nathan had a different bookshelf incident ready to go. Ronan's recollection involved a bodycheck and the whole thing coming down.",
+      "explanation": "Nathan had called dibs on CEO and Jimmy claimed external relations. Ronan was already staffing the company with a director who distrusted direct deposit.",
       "receipts": [
         {
           "sender": "Nathan",
-          "date": "2022-03-27",
-          "text": "I remember one time I knocked over my own bookshelf while I was climbing it and almost died"
+          "date": "2024-08-17",
+          "text": "Dibs on ceo"
         },
         {
-          "sender": "Nathan",
-          "date": "2022-03-27",
-          "text": "I just don’t remember doing that at Ron’s not that it didn’t happen or anything"
+          "sender": "Jimmy",
+          "date": "2024-08-17",
+          "text": "I’m head of external relations"
         },
         {
           "sender": "Ronan",
-          "date": "2022-03-27",
-          "text": "bodychecked the bookshelf for no reason and the whole thing came down."
+          "date": "2024-08-17",
+          "text": "Jonathan would be the grumpy director-level person that been there too long thinks everyone should be paid in paper checks"
         }
       ]
     },
     {
-      "id": "nico-gym-lecture-mechanical-system",
+      "id": "dimitri-chat-split-extended-universe-fees",
       "kind": "single",
-      "category": "Technical support",
-      "title": "Have You Tried Rebooting It?",
-      "prompt": "After Nico failed a bench press, a guy at the gym delivered twenty minutes of technique and motivation. What did he keep calling Nico's body?",
+      "category": "Multiverse monetization",
+      "title": "Your Free Trial Has Ended",
+      "prompt": "Chat had split into competing versions of 'main,' with Nico insisting his timeline was intact. What did Dimitri want alongside a Noodle core chat?",
       "options": [
-        "His biological forklift",
-        "His mechanical system",
-        "His personal battle station"
+        "A paid archive where you rent old jokes",
+        "An extended-universe chat that charges fees",
+        "A premium chat where nobody can reply"
       ],
       "answer": [
         1
       ],
-      "explanation": "It was just Nico fighting Nico, apparently, but first someone had to explain the mechanical system for twenty minutes.",
+      "explanation": "Everyone else was trying to work out which chat was real. Dimitri had already found the subscription tier.",
       "receipts": [
         {
           "sender": "Nico",
-          "date": "2024-12-14",
-          "text": "This extremely based sigma guy came up to me at the gym cuz I failed a bench and couldn’t get up and he dropped lore for like 20 minutes about technique and how it’s just you fighting you and he kept refer to my body as my mechanical system"
+          "date": "2025-01-15",
+          "text": "Imagine not being in the real unaltered main chat"
+        },
+        {
+          "sender": "Nico",
+          "date": "2025-01-15",
+          "text": "This is so funny cuz for me everyone is in the same chat hut you guys are texting like the one u are in is in main"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2025-01-15",
+          "text": "We need a noodle core chat, and an extended universe chat where we could charge people fees"
         }
       ]
     },
     {
-      "id": "nathan-dream-twenty-hour-game-three-percent",
+      "id": "charlie-dream-clash-reveal-four-carts",
       "kind": "single",
-      "category": "Dream completionist run",
-      "title": "Just Getting Started",
-      "prompt": "Nathan dreamed he played a Souls-like game for twenty hours and beat the main story. What did checking his progress reveal?",
+      "category": "Unconscious game development",
+      "title": "New Card Just Dropped",
+      "prompt": "Charlie dreamed a Clash Royale reveal video. What was the new card?",
       "options": [
-        "He'd already completed every side quest",
-        "He'd been playing someone else's save",
-        "He was only 3% of the way to full completion"
+        "A flying king tower",
+        "A barbarian riding a furnace",
+        "Four carts"
       ],
       "answer": [
         2
       ],
-      "explanation": "Twenty hours and the main story down, ninety-seven percent left. Nico took this as a sign Nathan should play Bloodborne.",
+      "explanation": "The dream came packaged as a reveal video. The reveal was four carts. Nathan's immediate follow-up was also 'Four carts?'",
       "receipts": [
         {
-          "sender": "Nathan",
-          "date": "2022-04-23",
-          "text": "I had a long ass dream of playing this cool video game that was basically a souls game and I played it for like 20 hours and beat the main story then checked my game progress and it said I was 3% of the way towards full completion then I woke I"
+          "sender": "Charlie",
+          "date": "2024-10-30",
+          "text": "I had a dream in the shape of a clash Royale reveal video and the card was four carts"
         },
         {
           "sender": "Nathan",
-          "date": "2022-04-23",
-          "text": "Up"
-        },
-        {
-          "sender": "Nico",
-          "date": "2022-04-23",
-          "text": "That’s ur sign to play bloodborne"
+          "date": "2024-10-30",
+          "text": "Four carts?"
         }
       ]
     },
     {
-      "id": "nathan-english-class-instagram-reels",
+      "id": "nathan-queen-prince-purple-rain-confusion",
       "kind": "single",
-      "category": "Curriculum reform",
-      "title": "Assigned Scrolling",
-      "prompt": "A debate about making English class more engaging reached Jacky's demand for zero books. What replacement class did Nathan propose?",
+      "category": "Royal discography",
+      "title": "Wrong Royal",
+      "prompt": "During the chat about the Queen's death, Nathan started worrying about naming songs besides Purple Rain. Which artist did Zach point out he was actually talking about?",
       "options": [
-        "Instagram Reels class",
-        "YouTube apology analysis",
-        "Clash Royale literature"
+        "Prince",
+        "Freddie Mercury",
+        "Michael Jackson"
       ],
       "answer": [
         0
       ],
-      "explanation": "The discussion started with giving students a choice of books. It reached zero books, then Instagram Reels class.",
+      "explanation": "Ben joked that the Queen was his favorite singer. Nathan supplied Purple Rain, then 1999. Zach finally supplied 'Prince?'",
       "receipts": [
         {
-          "sender": "Jacky",
-          "date": "2025-01-24",
-          "text": "Why r some of u arguing for choosing between multiple books?"
-        },
-        {
-          "sender": "Jacky",
-          "date": "2025-01-24",
-          "text": "We should have been able to choose to read NO BOOKS"
+          "sender": "Ben",
+          "date": "2022-09-09",
+          "text": "The queen died I can’t believe it omg she was my fav singer"
         },
         {
           "sender": "Nathan",
-          "date": "2025-01-24",
-          "text": "We should replace English class with Instagram reels class"
+          "date": "2022-09-09",
+          "text": "I remember after queen died Ben said to me name one song that isn’t purple rain by him and I was sweating"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2022-09-09",
+          "text": "Thankfully I had heard 1999 about a month ago"
+        },
+        {
+          "sender": "Zach",
+          "date": "2022-09-09",
+          "text": "Prince?"
+        }
+      ]
+    },
+    {
+      "id": "ben-retirement-masterclass-mutual-fund-work",
+      "kind": "single",
+      "category": "Effort avoidance",
+      "title": "Retirement Before Employment",
+      "prompt": "Ben proposed an early-retirement grindset masterclass. Dimitri suggested a collective Noodle mutual fund. What was Ben's objection?",
+      "options": [
+        "It would require matching company uniforms",
+        "That was actual work",
+        "Noodle couldn't agree on a logo"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "The masterclass pitch survived. The idea involving actual work immediately failed Ben's retirement criteria.",
+      "receipts": [
+        {
+          "sender": "Ben",
+          "date": "2023-01-19",
+          "text": "Unironically we should start an early retirement grindset masterclass"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2023-01-19",
+          "text": "A collective noodle mutual fund"
+        },
+        {
+          "sender": "Ben",
+          "date": "2023-01-19",
+          "text": "D, what aren’t you getting? That’s actual work"
+        }
+      ]
+    },
+    {
+      "id": "jacky-dream-coffee-shop-eight-hour-lockin",
+      "kind": "single",
+      "category": "Dream customer service",
+      "title": "One Star, Eight Hours",
+      "prompt": "In Jacky's dream, a coffee shop took eight hours, locked everyone inside and took their belongings. What offended the shop afterward?",
+      "options": [
+        "Someone had asked for oat milk",
+        "The customers didn't leave a tip",
+        "The customers called it a bad business"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Eight hours, a lock-in and confiscated belongings—but the customer review was apparently the real problem.",
+      "receipts": [
+        {
+          "sender": "Jacky",
+          "date": "2023-09-27",
+          "text": "Had a dream where this big ass coffee shop took 8 hours with my order and locked up everyone in the building and took our belongings and once everything was over proceeded to get mad we called them a shit business"
+        }
+      ]
+    },
+    {
+      "id": "johannes-regular-show-actually-do-job",
+      "kind": "single",
+      "category": "Unthinkable television pitches",
+      "title": "An Irregular Episode",
+      "prompt": "Johannes pitched an episode that Nathan said would break Regular Show's reality. What radical thing would the boys do?",
+      "options": [
+        "Just do their jobs",
+        "Finish a shift on the moon",
+        "Replace the park with a shopping mall"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "The usual simple job ends with them in space. Johannes wanted the shocking alternative: they just do the job. Nathan thought that would be what broke reality.",
+      "receipts": [
+        {
+          "sender": "Johannes",
+          "date": "2025-02-05",
+          "text": "Lmao every episode is where they have to just do one simple thing. Until their in space all of the sudden"
+        },
+        {
+          "sender": "Johannes",
+          "date": "2025-02-05",
+          "text": "There should have been one episode where they just do their job. Could’ve ruined viewer perception of them boys but it’d be funny af"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2025-02-05",
+          "text": "Them doing their job would’ve been what broke reality that episode"
         }
       ]
     }
