@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-16",
-  "edition": 11,
+  "date": "2026-11-17",
+  "edition": 12,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,297 +9,297 @@
   },
   "questions": [
     {
-      "id": "nico-work-nap-dream-doing-work",
+      "id": "jimmy-artillery-shirt-flat-earth-manual",
       "kind": "single",
-      "category": "Productivity metrics",
-      "title": "Clocked In, Eyes Closed",
-      "prompt": "Nico said he'd taken another nap at work. What happened in the dream that convinced him to keep sleeping?",
+      "category": "Peer review",
+      "title": "Check the Manual",
+      "prompt": "A flat-earth guy spotted Jimmy's field-artillery shirt and tried to use it to disprove centrifugal force. What was the flaw in treating Jimmy as the artillery expert?",
       "options": [
-        "He was doing work",
-        "His boss had cancelled the workday",
-        "He'd already finished the whole week"
+        "It was just his uncle's shirt",
+        "The shirt was from a video game",
+        "Jimmy had bought it that morning as a joke"
       ],
       "answer": [
         0
       ],
-      "explanation": "His dream supplied the work, so he supplied the sleep. A complete shift, according to the sleeping employee.",
+      "explanation": "The guy asked whether centrifugal force appeared in the manual, then answered his own question. Jimmy hadn't even served in field artillery. He was wearing his uncle's shirt.",
       "receipts": [
         {
-          "sender": "Nico",
-          "date": "2025-02-11",
-          "text": "I took another nap today at work and my dream was that I was doing work so I kept sleeping"
+          "sender": "Jimmy",
+          "date": "2023-09-20",
+          "text": "Bro looked at my field artillery shirt and said “is there anywhere in the manual talking about centrifugal force? No! Cuz it’s fake!”"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2023-09-20",
+          "text": "I didn’t even answer he just answered for me and I’m not actually in FA it’s just my uncles shirt😭"
         }
       ]
     },
     {
-      "id": "jacky-estate-typewriter-lore-collectibles",
+      "id": "ben-noodle-highspeed-rail-relocation",
       "kind": "single",
-      "category": "Environmental storytelling",
-      "title": "Optional Lore Pickup",
-      "prompt": "Dimitri spotted a working typewriter at an estate sale. What use did Jacky propose for it?",
+      "category": "Federal cong policy",
+      "title": "Infrastructure Week",
+      "prompt": "Ben proposed a transportation policy for whenever a Noodle member moved to a new city. What would the government have to do?",
       "options": [
-        "Print official Noodle parking tickets",
-        "Write lore codex entries and scatter them as collectibles",
-        "Send everyone formal cease-and-desist letters"
+        "Give everyone else a lifetime rental-car pass",
+        "Build high-speed rail to connect them",
+        "Move the nearest airport closer to the cong"
       ],
       "answer": [
         1
       ],
-      "explanation": "Dimitri saw an antique. Jacky saw a place that needed discoverable lore entries for the players.",
+      "explanation": "Moving away would no longer threaten the cong. It would trigger a national infrastructure project.",
       "receipts": [
         {
-          "sender": "Dimitri",
-          "date": "2023-05-26",
-          "text": "I’m at an estate Should I cop a working typewriter for $15"
+          "sender": "Ben",
+          "date": "2023-07-02",
+          "text": "Basically whenever noodle members move to a new city the us must build highspeed rail to connect them"
         },
         {
-          "sender": "Jacky",
-          "date": "2023-05-26",
-          "text": "Should use the typewriter for lore codex entries and leave them in photos scattered around the place for players to find as lore collectibles"
+          "sender": "Ben",
+          "date": "2023-07-02",
+          "text": "Modificato in “Basically whenever noodle members move to a new city the us and 51st state must build highspeed rail to connect them”"
         }
       ]
     },
     {
-      "id": "jimmy-ice-nathan-fairlife-bottle",
+      "id": "nico-dream-clash-royale-parade",
       "kind": "single",
-      "category": "Cong hospitality",
-      "title": "You've Been Milked",
-      "prompt": "Jimmy proposed 'icing' Nathan at the first cong, with a substitution for the usual drink. What bottle would Nathan be getting?",
+      "category": "Public celebrations",
+      "title": "The Parade Deck",
+      "prompt": "Nico dreamed he was at a parade. What was unusual about the entire crowd?",
       "options": [
-        "Maple syrup",
-        "A melted protein bar",
-        "Fairlife"
+        "Everyone was carrying a king tower",
+        "Everyone was dressed as a different Noodle member",
+        "Every person was a Clash Royale troop"
       ],
       "answer": [
         2
       ],
-      "explanation": "Same ambush format, different beverage. Jimmy's version came with a bottle of Fairlife.",
+      "explanation": "No ordinary spectators. Nico's subconscious had populated the whole parade from the card collection.",
       "receipts": [
         {
-          "sender": "Jimmy",
-          "date": "2022-12-07",
-          "text": "It’d be so op if at the first cong we ice Nathan but instead of an ice it’s a bottle of fairlife"
+          "sender": "Nico",
+          "date": "2022-06-01",
+          "text": "I had a dream I was at a parade and every person there was a clash royale troop"
         }
       ]
     },
     {
-      "id": "ronan-company-jonathan-paper-check-director",
+      "id": "dimitri-spotify-wrapped-music-authority",
       "kind": "single",
-      "category": "Noodle human resources",
-      "title": "Direct Deposit Denied",
-      "prompt": "Ronan cast Jonathan as Noodle's grumpy director who'd been there too long. What old-school policy would this fictional Jonathan insist on?",
+      "category": "Credential verification",
+      "title": "Minutes Make Right",
+      "prompt": "Chat was arguing that music taste is subjective. How did Dimitri propose choosing the ultimate music authority?",
       "options": [
-        "Pay everyone in paper checks",
-        "Ban lunch breaks after noon",
-        "Make every meeting a conference call"
+        "Whoever had the most Spotify Wrapped minutes",
+        "Whoever could play the most instruments",
+        "Whoever had skipped the fewest songs"
       ],
       "answer": [
         0
       ],
-      "explanation": "Nathan had called dibs on CEO and Jimmy claimed external relations. Ronan was already staffing the company with a director who distrusted direct deposit.",
+      "explanation": "Dimitri called it a fair and just system. Then he reported only about 30,000 minutes, while Jacky posted 70,000. The proposed constitution did not favor its author.",
+      "receipts": [
+        {
+          "sender": "Dimitri",
+          "date": "2023-11-30",
+          "text": "Tbh whoever had the most minutes on their Spotify wrapped should be the authority"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2023-11-30",
+          "text": "I think that is a fair and just system"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2023-11-30",
+          "text": "70k 😎"
+        },
+        {
+          "sender": "Dimitri",
+          "date": "2023-11-30",
+          "text": "I failed I only had about 30 k I thought it was gonna be way moe"
+        }
+      ]
+    },
+    {
+      "id": "nathan-dream-skyrim-dragon-gold-scooter",
+      "kind": "single",
+      "category": "Emergency transport",
+      "title": "Fast Travel Disabled",
+      "prompt": "In Nathan's dream, a Skyrim dragon ate his friends while he survived by hiding in a convenient pile of gold. How did he get home afterward?",
+      "options": [
+        "He rode the dragon",
+        "He rode his scooter",
+        "He summoned a carriage"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "The dragon encounter was fantasy. The trip home was apparently still subject to Nathan's usual transportation budget.",
       "receipts": [
         {
           "sender": "Nathan",
-          "date": "2024-08-17",
-          "text": "Dibs on ceo"
+          "date": "2023-05-18",
+          "text": "a skyrim dragon descended on us and ate all of them but I hid in a nearby convenient pile of gold and survived then rode my scooter home"
+        }
+      ]
+    },
+    {
+      "id": "ronan-nico-audio-just-two-of-us-twitter-link",
+      "kind": "single",
+      "category": "Paranormal tech support",
+      "title": "Just the Two of Them",
+      "prompt": "Ronan and Nico both heard 'Just the Two of Us' unexpectedly playing during audio messages. What explanation spoiled Ronan's hope that something unusual had happened?",
+      "options": [
+        "Zach had secretly edited the voice notes",
+        "Their phones had paired with the same speaker",
+        "They'd accidentally touched Jacky's Twitter link"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Ronan asked whether it was just the two of them who heard it. Jacky asked whether they'd touched his link. Mystery solved; Ronan immediately complained that the answer was boring.",
+      "receipts": [
+        {
+          "sender": "Ronan",
+          "date": "2025-02-21",
+          "text": "Was it just the two of us that heard it?"
         },
         {
-          "sender": "Jimmy",
-          "date": "2024-08-17",
-          "text": "I’m head of external relations"
+          "sender": "Jacky",
+          "date": "2025-02-21",
+          "text": "Did u guys touch the Twitter link I sent by accident"
+        },
+        {
+          "sender": "Nico",
+          "date": "2025-02-21",
+          "text": "Oh yeah it was that lmao"
         },
         {
           "sender": "Ronan",
-          "date": "2024-08-17",
-          "text": "Jonathan would be the grumpy director-level person that been there too long thinks everyone should be paid in paper checks"
+          "date": "2025-02-21",
+          "text": "That’s so boring i was hoping it was something more unusual"
         }
       ]
     },
     {
-      "id": "dimitri-chat-split-extended-universe-fees",
+      "id": "charlie-dream-thunderstorm-welding-static",
       "kind": "single",
-      "category": "Multiverse monetization",
-      "title": "Your Free Trial Has Ended",
-      "prompt": "Chat had split into competing versions of 'main,' with Nico insisting his timeline was intact. What did Dimitri want alongside a Noodle core chat?",
+      "category": "Unlicensed dream engineering",
+      "title": "Atmospheric Workshop",
+      "prompt": "Charlie dreamed someone had found a dramatic new way to weld. What were they drawing power from?",
       "options": [
-        "A paid archive where you rent old jokes",
-        "An extended-universe chat that charges fees",
-        "A premium chat where nobody can reply"
+        "Atmospheric static during a thunderstorm",
+        "A microwave with the door held open",
+        "A car battery strapped to a bicycle"
       ],
       "answer": [
-        1
+        0
       ],
-      "explanation": "Everyone else was trying to work out which chat was real. Dimitri had already found the subscription tier.",
-      "receipts": [
-        {
-          "sender": "Nico",
-          "date": "2025-01-15",
-          "text": "Imagine not being in the real unaltered main chat"
-        },
-        {
-          "sender": "Nico",
-          "date": "2025-01-15",
-          "text": "This is so funny cuz for me everyone is in the same chat hut you guys are texting like the one u are in is in main"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2025-01-15",
-          "text": "We need a noodle core chat, and an extended universe chat where we could charge people fees"
-        }
-      ]
-    },
-    {
-      "id": "charlie-dream-clash-reveal-four-carts",
-      "kind": "single",
-      "category": "Unconscious game development",
-      "title": "New Card Just Dropped",
-      "prompt": "Charlie dreamed a Clash Royale reveal video. What was the new card?",
-      "options": [
-        "A flying king tower",
-        "A barbarian riding a furnace",
-        "Four carts"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "The dream came packaged as a reveal video. The reveal was four carts. Nathan's immediate follow-up was also 'Four carts?'",
+      "explanation": "Other people get chased in dreams. Charlie's dream workshop was drawing atmospheric static from a thunderstorm. Nathan thought it sounded cool as shit.",
       "receipts": [
         {
           "sender": "Charlie",
-          "date": "2024-10-30",
-          "text": "I had a dream in the shape of a clash Royale reveal video and the card was four carts"
+          "date": "2025-01-08",
+          "text": "I had a dream that someone was welding in a thunderstorm and drawing atmospheric static"
         },
         {
           "sender": "Nathan",
-          "date": "2024-10-30",
-          "text": "Four carts?"
+          "date": "2025-01-08",
+          "text": "That sounds cool as shit"
         }
       ]
     },
     {
-      "id": "nathan-queen-prince-purple-rain-confusion",
+      "id": "jimmy-airbuds-live-search-history-proposal",
       "kind": "single",
-      "category": "Royal discography",
-      "title": "Wrong Royal",
-      "prompt": "During the chat about the Queen's death, Nathan started worrying about naming songs besides Purple Rain. Which artist did Zach point out he was actually talking about?",
+      "category": "Friendship surveillance",
+      "title": "Now Searching",
+      "prompt": "Jimmy pitched an Airbuds-style app with a much less comfortable live feed. What would you and your boys be sharing?",
       "options": [
-        "Prince",
-        "Freddie Mercury",
-        "Michael Jackson"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Ben joked that the Queen was his favorite singer. Nathan supplied Purple Rain, then 1999. Zach finally supplied 'Prince?'",
-      "receipts": [
-        {
-          "sender": "Ben",
-          "date": "2022-09-09",
-          "text": "The queen died I can’t believe it omg she was my fav singer"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2022-09-09",
-          "text": "I remember after queen died Ben said to me name one song that isn’t purple rain by him and I was sweating"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2022-09-09",
-          "text": "Thankfully I had heard 1999 about a month ago"
-        },
-        {
-          "sender": "Zach",
-          "date": "2022-09-09",
-          "text": "Prince?"
-        }
-      ]
-    },
-    {
-      "id": "ben-retirement-masterclass-mutual-fund-work",
-      "kind": "single",
-      "category": "Effort avoidance",
-      "title": "Retirement Before Employment",
-      "prompt": "Ben proposed an early-retirement grindset masterclass. Dimitri suggested a collective Noodle mutual fund. What was Ben's objection?",
-      "options": [
-        "It would require matching company uniforms",
-        "That was actual work",
-        "Noodle couldn't agree on a logo"
+        "Every alarm you'd snoozed",
+        "Each other's search histories in real time",
+        "A live ranking of your unanswered texts"
       ],
       "answer": [
         1
       ],
-      "explanation": "The masterclass pitch survived. The idea involving actual work immediately failed Ben's retirement criteria.",
+      "explanation": "The music feed was apparently too safe. Jimmy wanted everyone watching the search bar update live.",
       "receipts": [
         {
-          "sender": "Ben",
-          "date": "2023-01-19",
-          "text": "Unironically we should start an early retirement grindset masterclass"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2023-01-19",
-          "text": "A collective noodle mutual fund"
-        },
-        {
-          "sender": "Ben",
-          "date": "2023-01-19",
-          "text": "D, what aren’t you getting? That’s actual work"
+          "sender": "Jimmy",
+          "date": "2023-05-30",
+          "text": "Imagine Airbuds but you and your boys see each others search history’s in real time"
         }
       ]
     },
     {
-      "id": "jacky-dream-coffee-shop-eight-hour-lockin",
+      "id": "jacky-dream-apartment-ps5-raffle-police",
       "kind": "single",
-      "category": "Dream customer service",
-      "title": "One Star, Eight Hours",
-      "prompt": "In Jacky's dream, a coffee shop took eight hours, locked everyone inside and took their belongings. What offended the shop afterward?",
+      "category": "Dream giveaways",
+      "title": "You Must Be Present to Flee",
+      "prompt": "Jacky's dream visit turned into a PS5 raffle, a shipping-truck getaway and a police chase. After waking up, what part was he still hung up on?",
       "options": [
-        "Someone had asked for oat milk",
-        "The customers didn't leave a tip",
-        "The customers called it a bad business"
+        "Whether the truck needed returning",
+        "Whether the cops had his name",
+        "He'd really been hoping for that PS5"
       ],
       "answer": [
         2
       ],
-      "explanation": "Eight hours, a lock-in and confiscated belongings—but the customer review was apparently the real problem.",
+      "explanation": "The setting transformed, the escape escalated, the cops gave chase. Jacky's review: dreams are whack, but he really wanted that PS5.",
       "receipts": [
         {
           "sender": "Jacky",
-          "date": "2023-09-27",
-          "text": "Had a dream where this big ass coffee shop took 8 hours with my order and locked up everyone in the building and took our belongings and once everything was over proceeded to get mad we called them a shit business"
+          "date": "2022-09-17",
+          "text": "suddenly the place turned into a ps5 raffle and with left in a shipping truck and were chased by the cops cuz they thought we stole shit"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2022-09-17",
+          "text": "Dreams are whack bruh but I was also really hoping for that ps5"
         }
       ]
     },
     {
-      "id": "johannes-regular-show-actually-do-job",
+      "id": "ronan-halloween-jedi-hooded-ultrasaber-duel",
       "kind": "single",
-      "category": "Unthinkable television pitches",
-      "title": "An Irregular Episode",
-      "prompt": "Johannes pitched an episode that Nathan said would break Regular Show's reality. What radical thing would the boys do?",
+      "category": "Seasonal encounters",
+      "title": "An Optional Boss Fight",
+      "prompt": "Ronan imagined a drunk Jedi-costumed walk home turning scary when a hooded stranger approached. What would turn the fear into an 'oh shit' moment of excitement?",
       "options": [
-        "Just do their jobs",
-        "Finish a shift on the moon",
-        "Replace the park with a shopping mall"
+        "The stranger turning on an Ultrasaber",
+        "The stranger revealing a second Jedi costume",
+        "The stranger offering a ride in an X-wing"
       ],
       "answer": [
         0
       ],
-      "explanation": "The usual simple job ends with them in space. Johannes wanted the shocking alternative: they just do the job. Nathan thought that would be what broke reality.",
+      "explanation": "Ronan wanted the walk home to become a duel. Johannes offered to jump out of the woods with a normal stick; Charlie specified that the saber would have to be red.",
       "receipts": [
         {
           "sender": "Johannes",
-          "date": "2025-02-05",
-          "text": "Lmao every episode is where they have to just do one simple thing. Until their in space all of the sudden"
+          "date": "2023-11-01",
+          "text": "I would def jump out the woods with a normal stick and challenge you if I was also drunk"
         },
         {
-          "sender": "Johannes",
-          "date": "2025-02-05",
-          "text": "There should have been one episode where they just do their job. Could’ve ruined viewer perception of them boys but it’d be funny af"
+          "sender": "Ronan",
+          "date": "2023-11-01",
+          "text": "A duel would have gone crazy"
         },
         {
-          "sender": "Nathan",
-          "date": "2025-02-05",
-          "text": "Them doing their job would’ve been what broke reality that episode"
+          "sender": "Ronan",
+          "date": "2023-11-01",
+          "text": "Imagine being hammered walking home from a halloween party at night with a jedi costume and u see some creepy fuck in a hood walking towards you and get really scared and then you see em turn on an ultrasaber and ur like ooooooooh shit"
+        },
+        {
+          "sender": "Charlie",
+          "date": "2023-11-01",
+          "text": "Would have to be a red saber ofc"
         }
       ]
     }
