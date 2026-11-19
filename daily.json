@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17",
-  "edition": 12,
+  "date": "2026-11-19",
+  "edition": 14,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,297 +9,272 @@
   },
   "questions": [
     {
-      "id": "jimmy-artillery-shirt-flat-earth-manual",
+      "id": "jacky-dream-uncle-ruckus-fish-drinks",
       "kind": "single",
-      "category": "Peer review",
-      "title": "Check the Manual",
-      "prompt": "A flat-earth guy spotted Jimmy's field-artillery shirt and tried to use it to disprove centrifugal force. What was the flaw in treating Jimmy as the artillery expert?",
+      "category": "Table service",
+      "title": "Something in the Water",
+      "prompt": "Jacky dreamed Uncle Ruckus was his waiter. What kept happening no matter which drink he ordered?",
       "options": [
-        "It was just his uncle's shirt",
-        "The shirt was from a video game",
-        "Jimmy had bought it that morning as a joke"
+        "A small fish was put in it",
+        "It arrived in a soup bowl",
+        "The waiter drank half of it first"
       ],
       "answer": [
         0
       ],
-      "explanation": "The guy asked whether centrifugal force appeared in the manual, then answered his own question. Jimmy hadn't even served in field artillery. He was wearing his uncle's shirt.",
+      "explanation": "Changing the drink did nothing. The small fish was apparently standard service.",
       "receipts": [
         {
-          "sender": "Jimmy",
+          "sender": "Jacky",
           "date": "2023-09-20",
-          "text": "Bro looked at my field artillery shirt and said “is there anywhere in the manual talking about centrifugal force? No! Cuz it’s fake!”"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2023-09-20",
-          "text": "I didn’t even answer he just answered for me and I’m not actually in FA it’s just my uncles shirt😭"
+          "text": "Had a crazy dream tho I was sitting at a restaurant and uncle ruckus was a waiter and kept putting a small fish in whatever drink I got"
         }
       ]
     },
     {
-      "id": "ben-noodle-highspeed-rail-relocation",
+      "id": "lucas-dream-dogs-airbnb-rising-water-platformer",
       "kind": "single",
-      "category": "Federal cong policy",
-      "title": "Infrastructure Week",
-      "prompt": "Ben proposed a transportation policy for whenever a Noodle member moved to a new city. What would the government have to do?",
+      "category": "Dream level design",
+      "title": "The Next Stage",
+      "prompt": "In Lucas's Noodle dream, dogs at the cong turned into girls who said someone at a nearby Airbnb had transformed them. What happened when Lucas, Zach and Nico investigated?",
       "options": [
-        "Give everyone else a lifetime rental-car pass",
-        "Build high-speed rail to connect them",
-        "Move the nearest airport closer to the cong"
+        "They were entered in a dog show",
+        "They landed in a platformer level with rising water",
+        "They had to run the Airbnb's front desk"
       ],
       "answer": [
         1
       ],
-      "explanation": "Moving away would no longer threaten the cong. It would trigger a national infrastructure project.",
+      "explanation": "They were doing well until the water started rising stupidly fast and everyone lost. The investigation had become a timed level.",
       "receipts": [
         {
-          "sender": "Ben",
-          "date": "2023-07-02",
-          "text": "Basically whenever noodle members move to a new city the us must build highspeed rail to connect them"
+          "sender": "Lucas",
+          "date": "2023-06-02",
+          "text": "We’re chilling til all these dogs get into the house, eventually they turn into girls and tell us about how they were at an Airbnb nearby and someone snuck in and turned them into dogs. For some reason me, zach and Nico check it out and we’re transported to some platformer level with rising water"
         },
         {
-          "sender": "Ben",
-          "date": "2023-07-02",
-          "text": "Modificato in “Basically whenever noodle members move to a new city the us and 51st state must build highspeed rail to connect them”"
+          "sender": "Lucas",
+          "date": "2023-06-02",
+          "text": "We were doing good then the water started rising stupid fast and we all lost"
         }
       ]
     },
     {
-      "id": "nico-dream-clash-royale-parade",
+      "id": "jimmy-group-project-dog-food-balanced-diet",
       "kind": "single",
-      "category": "Public celebrations",
-      "title": "The Parade Deck",
-      "prompt": "Nico dreamed he was at a parade. What was unusual about the entire crowd?",
+      "category": "Group discussion",
+      "title": "The Forbidden Meal Prep",
+      "prompt": "A ridiculous MyFitnessPal protein entry sent Jimmy and his group members into a serious logistics discussion. What were they trying to work into a balanced diet?",
       "options": [
-        "Everyone was carrying a king tower",
-        "Everyone was dressed as a different Noodle member",
-        "Every person was a Clash Royale troop"
+        "Aquarium fish flakes",
+        "A gallon of movie-theater butter",
+        "Dog food"
       ],
       "answer": [
         2
       ],
-      "explanation": "No ordinary spectators. Nico's subconscious had populated the whole parade from the card collection.",
+      "explanation": "Ronan asked how a 200-gram serving could contain 600 grams of something. Jimmy knew the entry was nonsense; the dog-food meal-planning discussion happened anyway.",
       "receipts": [
         {
-          "sender": "Nico",
-          "date": "2022-06-01",
-          "text": "I had a dream I was at a parade and every person there was a clash royale troop"
+          "sender": "Ronan",
+          "date": "2025-02-21",
+          "text": "Jimmy how is there gonna be 600 grams of something in a 200 gram serving"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2025-02-21",
+          "text": "That’s why it’s funny bruh the app told him that was the ratio"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2025-02-21",
+          "text": "But it did cause me and my group members to discuss the logistics of working dog food into a balanced diet"
         }
       ]
     },
     {
-      "id": "dimitri-spotify-wrapped-music-authority",
+      "id": "ronan-tall-person-bathroom-stall-eye-contact",
       "kind": "single",
-      "category": "Credential verification",
-      "title": "Minutes Make Right",
-      "prompt": "Chat was arguing that music taste is subjective. How did Dimitri propose choosing the ultimate music authority?",
+      "category": "Architectural limitations",
+      "title": "Above the Partition",
+      "prompt": "What bathroom problem did Ronan say shorter members of chat were blessed never to experience?",
       "options": [
-        "Whoever had the most Spotify Wrapped minutes",
-        "Whoever could play the most instruments",
-        "Whoever had skipped the fewest songs"
+        "Accidental eye contact with another tall person over the stalls",
+        "Having to crouch under the hand dryer to use it",
+        "Setting off the automatic flush with his shoulders"
       ],
       "answer": [
         0
       ],
-      "explanation": "Dimitri called it a fair and just system. Then he reported only about 30,000 minutes, while Jacky posted 70,000. The proposed constitution did not favor its author.",
+      "explanation": "Two tall people standing up turned the privacy partitions into a suggestion.",
       "receipts": [
         {
-          "sender": "Dimitri",
-          "date": "2023-11-30",
-          "text": "Tbh whoever had the most minutes on their Spotify wrapped should be the authority"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2023-11-30",
-          "text": "I think that is a fair and just system"
-        },
-        {
-          "sender": "Jacky",
-          "date": "2023-11-30",
-          "text": "70k 😎"
-        },
-        {
-          "sender": "Dimitri",
-          "date": "2023-11-30",
-          "text": "I failed I only had about 30 k I thought it was gonna be way moe"
+          "sender": "Ronan",
+          "date": "2024-11-11",
+          "text": "I must say, some of yall blessed u will never experience shitting next to another tall person and making eye contact over the top of the stall standing up by accident"
         }
       ]
     },
     {
-      "id": "nathan-dream-skyrim-dragon-gold-scooter",
+      "id": "charlie-clash-clan-machine-programming-plan",
       "kind": "single",
-      "category": "Emergency transport",
-      "title": "Fast Travel Disabled",
-      "prompt": "In Nathan's dream, a Skyrim dragon ate his friends while he survived by hiding in a convenient pile of gold. How did he get home afterward?",
+      "category": "Clan management",
+      "title": "Automate the Cong",
+      "prompt": "Charlie announced he needed assistance with a Clash of Clans project. What was his plan for running an entire clan?",
       "options": [
-        "He rode the dragon",
-        "He rode his scooter",
-        "He summoned a carriage"
+        "Make every member follow a printed shift schedule",
+        "Have machine-programming software run it",
+        "Recruit only people who had never played before"
       ],
       "answer": [
         1
       ],
-      "explanation": "The dragon encounter was fantasy. The trip home was apparently still subject to Nathan's usual transportation budget.",
-      "receipts": [
-        {
-          "sender": "Nathan",
-          "date": "2023-05-18",
-          "text": "a skyrim dragon descended on us and ate all of them but I hid in a nearby convenient pile of gold and survived then rode my scooter home"
-        }
-      ]
-    },
-    {
-      "id": "ronan-nico-audio-just-two-of-us-twitter-link",
-      "kind": "single",
-      "category": "Paranormal tech support",
-      "title": "Just the Two of Them",
-      "prompt": "Ronan and Nico both heard 'Just the Two of Us' unexpectedly playing during audio messages. What explanation spoiled Ronan's hope that something unusual had happened?",
-      "options": [
-        "Zach had secretly edited the voice notes",
-        "Their phones had paired with the same speaker",
-        "They'd accidentally touched Jacky's Twitter link"
-      ],
-      "answer": [
-        2
-      ],
-      "explanation": "Ronan asked whether it was just the two of them who heard it. Jacky asked whether they'd touched his link. Mystery solved; Ronan immediately complained that the answer was boring.",
-      "receipts": [
-        {
-          "sender": "Ronan",
-          "date": "2025-02-21",
-          "text": "Was it just the two of us that heard it?"
-        },
-        {
-          "sender": "Jacky",
-          "date": "2025-02-21",
-          "text": "Did u guys touch the Twitter link I sent by accident"
-        },
-        {
-          "sender": "Nico",
-          "date": "2025-02-21",
-          "text": "Oh yeah it was that lmao"
-        },
-        {
-          "sender": "Ronan",
-          "date": "2025-02-21",
-          "text": "That’s so boring i was hoping it was something more unusual"
-        }
-      ]
-    },
-    {
-      "id": "charlie-dream-thunderstorm-welding-static",
-      "kind": "single",
-      "category": "Unlicensed dream engineering",
-      "title": "Atmospheric Workshop",
-      "prompt": "Charlie dreamed someone had found a dramatic new way to weld. What were they drawing power from?",
-      "options": [
-        "Atmospheric static during a thunderstorm",
-        "A microwave with the door held open",
-        "A car battery strapped to a bicycle"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Other people get chased in dreams. Charlie's dream workshop was drawing atmospheric static from a thunderstorm. Nathan thought it sounded cool as shit.",
+      "explanation": "Charlie went straight from needing assistance to proposing a whole automated clan. Ronan's immediate response was to ask how.",
       "receipts": [
         {
           "sender": "Charlie",
-          "date": "2025-01-08",
-          "text": "I had a dream that someone was welding in a thunderstorm and drawing atmospheric static"
+          "date": "2023-06-03",
+          "text": "Guys I need assistance"
         },
         {
-          "sender": "Nathan",
-          "date": "2025-01-08",
-          "text": "That sounds cool as shit"
-        }
-      ]
-    },
-    {
-      "id": "jimmy-airbuds-live-search-history-proposal",
-      "kind": "single",
-      "category": "Friendship surveillance",
-      "title": "Now Searching",
-      "prompt": "Jimmy pitched an Airbuds-style app with a much less comfortable live feed. What would you and your boys be sharing?",
-      "options": [
-        "Every alarm you'd snoozed",
-        "Each other's search histories in real time",
-        "A live ranking of your unanswered texts"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "The music feed was apparently too safe. Jimmy wanted everyone watching the search bar update live.",
-      "receipts": [
+          "sender": "Charlie",
+          "date": "2023-06-03",
+          "text": "I’m gonna make a whole clan in clash of clans ran by machine programming software"
+        },
         {
-          "sender": "Jimmy",
-          "date": "2023-05-30",
-          "text": "Imagine Airbuds but you and your boys see each others search history’s in real time"
+          "sender": "Ronan",
+          "date": "2023-06-03",
+          "text": "How 😂😂😂😂"
         }
       ]
     },
     {
-      "id": "jacky-dream-apartment-ps5-raffle-police",
+      "id": "charlie-starfield-insurance-fifty-thousand-reload",
       "kind": "single",
-      "category": "Dream giveaways",
-      "title": "You Must Be Present to Flee",
-      "prompt": "Jacky's dream visit turned into a PS5 raffle, a shipping-truck getaway and a police chase. After waking up, what part was he still hung up on?",
+      "category": "Consumer protection",
+      "title": "Load Previous Policy",
+      "prompt": "What cost Charlie 50,000 credits in Starfield before he looked it up and reloaded his save?",
       "options": [
-        "Whether the truck needed returning",
-        "Whether the cops had his name",
-        "He'd really been hoping for that PS5"
+        "A spaceship that couldn't leave the landing pad",
+        "A treasure map pointing back to the salesman",
+        "A supposed insurance offer"
       ],
       "answer": [
         2
       ],
-      "explanation": "The setting transformed, the escape escalated, the cops gave chase. Jacky's review: dreams are whack, but he really wanted that PS5.",
+      "explanation": "The insurance wasn't much protection. The earlier save was.",
       "receipts": [
         {
-          "sender": "Jacky",
-          "date": "2022-09-17",
-          "text": "suddenly the place turned into a ps5 raffle and with left in a shipping truck and were chased by the cops cuz they thought we stole shit"
-        },
-        {
-          "sender": "Jacky",
-          "date": "2022-09-17",
-          "text": "Dreams are whack bruh but I was also really hoping for that ps5"
+          "sender": "Charlie",
+          "date": "2023-09-21",
+          "text": "Lol I got scammed 50,000 credits in Starfield and had to reload five minutes after looking up what I got from the supposed sales man insurance"
         }
       ]
     },
     {
-      "id": "ronan-halloween-jedi-hooded-ultrasaber-duel",
+      "id": "jacky-nathan-future-business-unread-fine",
       "kind": "single",
-      "category": "Seasonal encounters",
-      "title": "An Optional Boss Fight",
-      "prompt": "Ronan imagined a drunk Jedi-costumed walk home turning scary when a hooded stranger approached. What would turn the fear into an 'oh shit' moment of excitement?",
+      "category": "Future commerce",
+      "title": "Invoice Pending",
+      "prompt": "Jacky predicted an easy way to get money from Nathan once Nathan ran a business. What was the plan?",
       "options": [
-        "The stranger turning on an Ultrasaber",
-        "The stranger revealing a second Jedi costume",
-        "The stranger offering a ride in an X-wing"
+        "Send him a fine and count on him paying without reading it",
+        "Sell him the same printer every month",
+        "Charge him rent for a fictional office"
       ],
       "answer": [
         0
       ],
-      "explanation": "Ronan wanted the walk home to become a duel. Johannes offered to jump out of the woods with a normal stick; Charlie specified that the saber would have to be red.",
+      "explanation": "Nathan immediately insisted that money would be the thing that finally made him do his research.",
       "receipts": [
         {
-          "sender": "Johannes",
-          "date": "2023-11-01",
-          "text": "I would def jump out the woods with a normal stick and challenge you if I was also drunk"
+          "sender": "Jacky",
+          "date": "2025-01-30",
+          "text": "One of these days when Nathan’s running a business I’m gonna send him a fine and he’s just gonna pay it without looking at it"
+        },
+        {
+          "sender": "Nathan",
+          "date": "2025-01-30",
+          "text": "Bruh if moneys involved I’m doing my research 😂"
+        }
+      ]
+    },
+    {
+      "id": "nathan-game-pigeon-jimmy-shanghai-sailors",
+      "kind": "single",
+      "category": "Roster moves",
+      "title": "International Transfer",
+      "prompt": "Nathan's GamePigeon trash talk had Jimmy packing his bags. Which team did Nathan say Jimmy would be playing for?",
+      "options": [
+        "The Cleveland Cavaliers",
+        "The Shanghai Sailors",
+        "The Miami Dolphins"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "Nathan had turned a phone game into an overseas roster demotion. Jimmy reacted with a crying emoji.",
+      "receipts": [
+        {
+          "sender": "Nathan",
+          "date": "2025-02-15",
+          "text": "Unless my middle name is Atlantafalcons I’m about to have Jimmy packing up to play game pigeon for the shanghai sailors"
+        },
+        {
+          "sender": "Jimmy",
+          "date": "2025-02-15",
+          "text": "Reacted 😭 to “Unless my middle name is Atlantafalcons I’m about to have Jimmy packing up to play game pigeon for the shanghai sailors ”"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-three-stalls-no-flushing-story",
+      "kind": "single",
+      "category": "Bathroom distribution",
+      "title": "Spread the Workload",
+      "prompt": "In Jimmy's account of a particularly unnecessary bathroom visit, how did he use three consecutive stalls?",
+      "options": [
+        "He tested each one for the best acoustics",
+        "He moved each time someone entered the room",
+        "He pooped in each one without flushing any"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "One visit, three stalls, zero flushes. Jimmy described a distribution strategy nobody had requested.",
+      "receipts": [
+        {
+          "sender": "Jimmy",
+          "date": "2022-03-30",
+          "text": "pooped in a stall, then walked into the next stall and pooped in it, then the 3rd and pooped in it, and I didn’t flush any of them"
+        }
+      ]
+    },
+    {
+      "id": "ronan-unseasoned-chicken-pure-unadulterated-mass",
+      "kind": "single",
+      "category": "Culinary recovery",
+      "title": "Chef's Explanation",
+      "prompt": "Ronan forgot to buy seasoning, then ate two and a half plain chicken breasts. How did he sell this meal to chat?",
+      "options": [
+        "As pure, unadulterated mass",
+        "As a test of whether food needs flavor",
+        "As preparation for a competitive-eating event"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "A missing shopping-list item became a bodybuilding philosophy almost immediately.",
+      "receipts": [
+        {
+          "sender": "Ronan",
+          "date": "2023-06-03",
+          "text": "I forgot to buy seasoning"
         },
         {
           "sender": "Ronan",
-          "date": "2023-11-01",
-          "text": "A duel would have gone crazy"
-        },
-        {
-          "sender": "Ronan",
-          "date": "2023-11-01",
-          "text": "Imagine being hammered walking home from a halloween party at night with a jedi costume and u see some creepy fuck in a hood walking towards you and get really scared and then you see em turn on an ultrasaber and ur like ooooooooh shit"
-        },
-        {
-          "sender": "Charlie",
-          "date": "2023-11-01",
-          "text": "Would have to be a red saber ofc"
+          "date": "2023-06-03",
+          "text": "2.5 unseasoned chicken breasts to the face. Pure, unadulterated MASS"
         }
       ]
     }
