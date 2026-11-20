@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19",
-  "edition": 14,
+  "date": "2026-11-20",
+  "edition": 15,
   "timezone": "America/New_York",
   "archive": {
     "messages": 258338,
@@ -9,272 +9,267 @@
   },
   "questions": [
     {
-      "id": "jacky-dream-uncle-ruckus-fish-drinks",
+      "id": "ben-edited-to-literal-typo-announcements",
       "kind": "single",
-      "category": "Table service",
-      "title": "Something in the Water",
-      "prompt": "Jacky dreamed Uncle Ruckus was his waiter. What kept happening no matter which drink he ordered?",
+      "category": "Software archaeology",
+      "title": "The Correction Ceremony",
+      "prompt": "Before realizing his phone needed an update, what did Ben think Charlie was doing every time he fixed a typo?",
       "options": [
-        "A small fish was put in it",
-        "It arrived in a soup bowl",
-        "The waiter drank half of it first"
+        "Deleting the chat and making a new one",
+        "Personally typing out ‘edited to’ before the correction",
+        "Asking Siri to announce the corrected message"
+      ],
+      "answer": [
+        1
+      ],
+      "explanation": "Ben thought Charlie had invented an unusually formal way to correct himself. Jacky admitted he'd initially thought the same thing.",
+      "receipts": [
+        {
+          "sender": "Ben",
+          "date": "2022-12-06",
+          "text": "Was the Charlie edited to just me not having my phone updated that whole time???"
+        },
+        {
+          "sender": "Ben",
+          "date": "2022-12-06",
+          "text": "He was the only one doing it so I thought he was unironically saying “edited to’…’” every time he had a typo 😂😂😂😂😂😂"
+        },
+        {
+          "sender": "Jacky",
+          "date": "2022-12-06",
+          "text": "I thought the same thing when the update first came out"
+        }
+      ]
+    },
+    {
+      "id": "jacky-aidan-dream-shotgun-flamethrower-rabbits",
+      "kind": "single",
+      "category": "Dream equipment",
+      "title": "Two Tools, One Job",
+      "prompt": "Jacky dreamed he and Aidan were shooting rabbits. What unnecessary extra feature did their sawed-off shotgun have?",
+      "options": [
+        "It was also a flamethrower",
+        "It launched a fishing net after every shot",
+        "It played a victory song through built-in speakers"
       ],
       "answer": [
         0
       ],
-      "explanation": "Changing the drink did nothing. The small fish was apparently standard service.",
+      "explanation": "Aidan's response was ‘Nsx,’ immediately corrected to ‘Hax.’ The dream loadout had his approval.",
       "receipts": [
         {
           "sender": "Jacky",
-          "date": "2023-09-20",
-          "text": "Had a crazy dream tho I was sitting at a restaurant and uncle ruckus was a waiter and kept putting a small fish in whatever drink I got"
-        }
-      ]
-    },
-    {
-      "id": "lucas-dream-dogs-airbnb-rising-water-platformer",
-      "kind": "single",
-      "category": "Dream level design",
-      "title": "The Next Stage",
-      "prompt": "In Lucas's Noodle dream, dogs at the cong turned into girls who said someone at a nearby Airbnb had transformed them. What happened when Lucas, Zach and Nico investigated?",
-      "options": [
-        "They were entered in a dog show",
-        "They landed in a platformer level with rising water",
-        "They had to run the Airbnb's front desk"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "They were doing well until the water started rising stupidly fast and everyone lost. The investigation had become a timed level.",
-      "receipts": [
-        {
-          "sender": "Lucas",
-          "date": "2023-06-02",
-          "text": "We’re chilling til all these dogs get into the house, eventually they turn into girls and tell us about how they were at an Airbnb nearby and someone snuck in and turned them into dogs. For some reason me, zach and Nico check it out and we’re transported to some platformer level with rising water"
+          "date": "2022-10-24",
+          "text": "I had a dream last night that me and Aidan were shooting rabbits with a sawed off shotgun that was also a flamethrower"
         },
         {
-          "sender": "Lucas",
-          "date": "2023-06-02",
-          "text": "We were doing good then the water started rising stupid fast and we all lost"
+          "sender": "Aidan",
+          "date": "2022-10-24",
+          "text": "Nsx"
+        },
+        {
+          "sender": "Aidan",
+          "date": "2022-10-24",
+          "text": "Hax*"
         }
       ]
     },
     {
-      "id": "jimmy-group-project-dog-food-balanced-diet",
+      "id": "charlie-highschool-calendar-destiny-raids",
       "kind": "single",
-      "category": "Group discussion",
-      "title": "The Forbidden Meal Prep",
-      "prompt": "A ridiculous MyFitnessPal protein entry sent Jimmy and his group members into a serious logistics discussion. What were they trying to work into a balanced diet?",
+      "category": "Time management",
+      "title": "A Fully Booked Guardian",
+      "prompt": "Charlie looked back through his high-school Google Calendar. What had apparently filled his busy schedule?",
       "options": [
-        "Aquarium fish flakes",
-        "A gallon of movie-theater butter",
-        "Dog food"
+        "Clash of Clans donation shifts and war briefings",
+        "Gym sessions and carefully timed protein shakes",
+        "Destiny updates and raid schedules"
       ],
       "answer": [
         2
       ],
-      "explanation": "Ronan asked how a 200-gram serving could contain 600 grams of something. Jimmy knew the entry was nonsense; the dog-food meal-planning discussion happened anyway.",
+      "explanation": "The old calendar turned out to be a record of Destiny commitments. The Guardian had appointments to keep.",
       "receipts": [
         {
-          "sender": "Ronan",
-          "date": "2025-02-21",
-          "text": "Jimmy how is there gonna be 600 grams of something in a 200 gram serving"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2025-02-21",
-          "text": "That’s why it’s funny bruh the app told him that was the ratio"
-        },
-        {
-          "sender": "Jimmy",
-          "date": "2025-02-21",
-          "text": "But it did cause me and my group members to discuss the logistics of working dog food into a balanced diet"
+          "sender": "Charlie",
+          "date": "2024-09-16",
+          "text": "I’m looking back at what I had in my google calendar back in hs and it was just destiny updates or raid schedules 😂"
         }
       ]
     },
     {
-      "id": "ronan-tall-person-bathroom-stall-eye-contact",
+      "id": "ronan-train-blueberry-inspection-nod-shake",
       "kind": "single",
-      "category": "Architectural limitations",
-      "title": "Above the Partition",
-      "prompt": "What bathroom problem did Ronan say shorter members of chat were blessed never to experience?",
+      "category": "Quality control",
+      "title": "The Berry Inspector",
+      "prompt": "Ronan spotted a kid on the train performing a serious blueberry inspection. What was the kid doing to each berry?",
       "options": [
-        "Accidental eye contact with another tall person over the stalls",
-        "Having to crouch under the hand dryer to use it",
-        "Setting off the automatic flush with his shoulders"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Two tall people standing up turned the privacy partitions into a suggestion.",
-      "receipts": [
-        {
-          "sender": "Ronan",
-          "date": "2024-11-11",
-          "text": "I must say, some of yall blessed u will never experience shitting next to another tall person and making eye contact over the top of the stall standing up by accident"
-        }
-      ]
-    },
-    {
-      "id": "charlie-clash-clan-machine-programming-plan",
-      "kind": "single",
-      "category": "Clan management",
-      "title": "Automate the Cong",
-      "prompt": "Charlie announced he needed assistance with a Clash of Clans project. What was his plan for running an entire clan?",
-      "options": [
-        "Make every member follow a printed shift schedule",
-        "Have machine-programming software run it",
-        "Recruit only people who had never played before"
+        "Weighing it on a tiny pocket scale",
+        "Rotating it, examining it, then nodding or shaking his head",
+        "Holding it to his ear before sorting it into cups"
       ],
       "answer": [
         1
       ],
-      "explanation": "Charlie went straight from needing assistance to proposing a whole automated clan. Ronan's immediate response was to ask how.",
+      "explanation": "Jimmy suggested the inspection decided which berries went into jam or pie. Ronan concluded the kid had aura.",
       "receipts": [
         {
-          "sender": "Charlie",
-          "date": "2023-06-03",
-          "text": "Guys I need assistance"
+          "sender": "Ronan",
+          "date": "2024-07-19",
+          "text": "This kid on the train has a basket of blueberries and he keeps rotating it and looking at individual berries and either nodding or shaking his head lmao"
         },
         {
-          "sender": "Charlie",
-          "date": "2023-06-03",
-          "text": "I’m gonna make a whole clan in clash of clans ran by machine programming software"
+          "sender": "Jimmy",
+          "date": "2024-07-19",
+          "text": "Gotta see if they go in jam or pie"
         },
         {
           "sender": "Ronan",
-          "date": "2023-06-03",
-          "text": "How 😂😂😂😂"
+          "date": "2024-07-19",
+          "text": "Bro lowkey got aura 😂"
         }
       ]
     },
     {
-      "id": "charlie-starfield-insurance-fifty-thousand-reload",
+      "id": "dimitri-election-bar-upstairs-hockey-downstairs",
       "kind": "single",
-      "category": "Consumer protection",
-      "title": "Load Previous Policy",
-      "prompt": "What cost Charlie 50,000 credits in Starfield before he looked it up and reloaded his save?",
+      "category": "Split-screen viewing",
+      "title": "Democracy Upstairs",
+      "prompt": "Dimitri described a bar where the top floor was locked into the US election. What had the downstairs crowd's attention instead?",
       "options": [
-        "A spaceship that couldn't leave the landing pad",
-        "A treasure map pointing back to the salesman",
-        "A supposed insurance offer"
+        "A Montreal Canadiens game",
+        "A karaoke final that had gone into overtime",
+        "A replay of the last Canadian election"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "Upstairs was Democrats Abroad. Downstairs had hockey and, in D's account, no interest in the election.",
+      "receipts": [
+        {
+          "sender": "Dimitri",
+          "date": "2024-11-06",
+          "text": "Bruh i was at a bar yesterday for the election, the top floor was democrats abroad at mcgill and everyone was locked in on the election. On the bottom floor the Montreal Canadians were playing and no one could give af about the election"
+        }
+      ]
+    },
+    {
+      "id": "nathan-april-fools-rainforest-empire-state",
+      "kind": "single",
+      "category": "Wishful fact-checking",
+      "title": "The Canopy Level",
+      "prompt": "Nathan remembered believing an April Fools article because he wanted it to be true so badly. What was supposedly opening at the top of the Empire State Building?",
+      "options": [
+        "An indoor water park",
+        "A Bass Pro Shops",
+        "A Rainforest Cafe"
       ],
       "answer": [
         2
       ],
-      "explanation": "The insurance wasn't much protection. The earlier save was.",
-      "receipts": [
-        {
-          "sender": "Charlie",
-          "date": "2023-09-21",
-          "text": "Lol I got scammed 50,000 credits in Starfield and had to reload five minutes after looking up what I got from the supposed sales man insurance"
-        }
-      ]
-    },
-    {
-      "id": "jacky-nathan-future-business-unread-fine",
-      "kind": "single",
-      "category": "Future commerce",
-      "title": "Invoice Pending",
-      "prompt": "Jacky predicted an easy way to get money from Nathan once Nathan ran a business. What was the plan?",
-      "options": [
-        "Send him a fine and count on him paying without reading it",
-        "Sell him the same printer every month",
-        "Charge him rent for a fictional office"
-      ],
-      "answer": [
-        0
-      ],
-      "explanation": "Nathan immediately insisted that money would be the thing that finally made him do his research.",
-      "receipts": [
-        {
-          "sender": "Jacky",
-          "date": "2025-01-30",
-          "text": "One of these days when Nathan’s running a business I’m gonna send him a fine and he’s just gonna pay it without looking at it"
-        },
-        {
-          "sender": "Nathan",
-          "date": "2025-01-30",
-          "text": "Bruh if moneys involved I’m doing my research 😂"
-        }
-      ]
-    },
-    {
-      "id": "nathan-game-pigeon-jimmy-shanghai-sailors",
-      "kind": "single",
-      "category": "Roster moves",
-      "title": "International Transfer",
-      "prompt": "Nathan's GamePigeon trash talk had Jimmy packing his bags. Which team did Nathan say Jimmy would be playing for?",
-      "options": [
-        "The Cleveland Cavaliers",
-        "The Shanghai Sailors",
-        "The Miami Dolphins"
-      ],
-      "answer": [
-        1
-      ],
-      "explanation": "Nathan had turned a phone game into an overseas roster demotion. Jimmy reacted with a crying emoji.",
+      "explanation": "The fake restaurant had Nathan sold before the fact-check. Even while remembering the prank, he still wanted it to exist.",
       "receipts": [
         {
           "sender": "Nathan",
-          "date": "2025-02-15",
-          "text": "Unless my middle name is Atlantafalcons I’m about to have Jimmy packing up to play game pigeon for the shanghai sailors"
+          "date": "2025-04-01",
+          "text": "Remember that time on April fools where I deadass believed an article saying they were putting a rainforest cafe at the top of the Empire State Building"
         },
         {
-          "sender": "Jimmy",
-          "date": "2025-02-15",
-          "text": "Reacted 😭 to “Unless my middle name is Atlantafalcons I’m about to have Jimmy packing up to play game pigeon for the shanghai sailors ”"
+          "sender": "Nathan",
+          "date": "2025-04-01",
+          "text": "I more so believed it because I wanted it to be true so bad"
         }
       ]
     },
     {
-      "id": "jimmy-three-stalls-no-flushing-story",
+      "id": "jimmy-whole-foods-bread-dairy-cheese-plan",
       "kind": "single",
-      "category": "Bathroom distribution",
-      "title": "Spread the Workload",
-      "prompt": "In Jimmy's account of a particularly unnecessary bathroom visit, how did he use three consecutive stalls?",
+      "category": "Retail concepts",
+      "title": "A New Cheese Has Arrived",
+      "prompt": "Jimmy proposed feeding Zach a whole loaf of bread before a deeply cursed Whole Foods visit. Where was Zach supposed to poop so the smell could pass for exotic cheese?",
       "options": [
-        "He tested each one for the best acoustics",
-        "He moved each time someone entered the room",
-        "He pooped in each one without flushing any"
+        "Inside the wine-tasting room",
+        "In the dairy aisle",
+        "At the bakery's free-sample counter"
       ],
       "answer": [
-        2
+        1
       ],
-      "explanation": "One visit, three stalls, zero flushes. Jimmy described a distribution strategy nobody had requested.",
+      "explanation": "Jimmy's proposed cheese counter had a supply chain that began with an entire loaf of bread and ended terribly.",
       "receipts": [
         {
           "sender": "Jimmy",
-          "date": "2022-03-30",
-          "text": "pooped in a stall, then walked into the next stall and pooped in it, then the 3rd and pooped in it, and I didn’t flush any of them"
+          "date": "2024-09-24",
+          "text": "We should force feed Zach a whole loaf of bread and have him poo in the dairy isle at Whole Foods"
         }
       ]
     },
     {
-      "id": "ronan-unseasoned-chicken-pure-unadulterated-mass",
+      "id": "nico-gas-station-clog-cashier-confession",
       "kind": "single",
-      "category": "Culinary recovery",
-      "title": "Chef's Explanation",
-      "prompt": "Ronan forgot to buy seasoning, then ate two and a half plain chicken breasts. How did he sell this meal to chat?",
+      "category": "Customer service",
+      "title": "A Brief Statement",
+      "prompt": "After clogging a gas-station toilet and finding a family waiting outside, what did Nico do before leaving?",
       "options": [
-        "As pure, unadulterated mass",
-        "As a test of whether food needs flavor",
-        "As preparation for a competitive-eating event"
+        "Told the cashier he'd clogged it, then left without another word",
+        "Bought a plunger and handed it to the family",
+        "Put an out-of-order sign on a different bathroom"
       ],
       "answer": [
         0
       ],
-      "explanation": "A missing shopping-list item became a bodybuilding philosophy almost immediately.",
+      "explanation": "Nico described the confession as unconscious. He delivered the information and immediately left the vicinity.",
       "receipts": [
         {
-          "sender": "Ronan",
-          "date": "2023-06-03",
-          "text": "I forgot to buy seasoning"
-        },
+          "sender": "Nico",
+          "date": "2024-08-18",
+          "text": "I clogged one of the toilets in a gas station and as I walked out a family of 4 was waiting to use it. Then unconsciously I went to the cashier and told him I clogged the toilet and left the vicinity without another word"
+        }
+      ]
+    },
+    {
+      "id": "nathan-grandpa-lunch-scrambled-eggs-beer",
+      "kind": "single",
+      "category": "Lunch committee",
+      "title": "The Motion Carries",
+      "prompt": "Nathan was discussing lunch options with his grandma when his grandpa looked up with a complete order. What was it?",
+      "options": [
+        "A steak and a milkshake",
+        "Pancakes and a martini",
+        "Scrambled eggs and a beer"
+      ],
+      "answer": [
+        2
+      ],
+      "explanation": "Everyone else was still discussing where to go. Grandpa had already settled the menu.",
+      "receipts": [
         {
-          "sender": "Ronan",
-          "date": "2023-06-03",
-          "text": "2.5 unseasoned chicken breasts to the face. Pure, unadulterated MASS"
+          "sender": "Nathan",
+          "date": "2022-12-19",
+          "text": "Bro I was talking about where we should go to lunch with my grandma and my grandpa just looked up at me and said “scrambled eggs and a beer” 😂😂😂😂😂😂😂😂"
+        }
+      ]
+    },
+    {
+      "id": "jimmy-dream-slenderman-app-uncanny-incredible",
+      "kind": "single",
+      "category": "App troubleshooting",
+      "title": "Wrong Entity Loaded",
+      "prompt": "In Jimmy's cabin dream, Charlie had an app that could summon Slenderman based on the weather and time. What appeared when he used it?",
+      "options": [
+        "The Mr. Incredible image that gets darker and darker",
+        "A giant version of the weather app's sun icon",
+        "Herobrine holding an umbrella"
+      ],
+      "answer": [
+        0
+      ],
+      "explanation": "The summoning app worked, technically. It just loaded a completely different uncanny figure.",
+      "receipts": [
+        {
+          "sender": "Jimmy",
+          "date": "2024-04-19",
+          "text": "I had this weirdly elaborate dream me and Charlie were just jittin around in a lakeside cabin and he had an app where you can make slenderman appear based on weather and time and he made him appear but instead of slenderman it was that image of Mr incredible where he gets darker and darker"
         }
       ]
     }
